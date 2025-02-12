@@ -20,28 +20,28 @@ const comicIds = [
 ];
 
 async function fetchData() {
-    const dataFilePath = path.join(__dirname, 'docs', 'data.json');
+    const comicsFilePath = path.join(__dirname, 'docs', 'comics.json');
     const metaFilePath = path.join(__dirname, 'docs', 'meta.json');
 
     try {
         const newData = await Promise.all(comicIds.map(id => parseSeries(id)));
 
-        if (fs.existsSync(dataFilePath)) {
+        if (fs.existsSync(comicsFilePath)) {
             console.log('Old files exist');
-            const oldData = JSON.parse(fs.readFileSync(dataFilePath, 'utf-8'));
+            const oldData = JSON.parse(fs.readFileSync(comicsFilePath, 'utf-8'));
             if (JSON.stringify(oldData) == JSON.stringify(newData)) {
                 console.log('Data unchanged. Skipping update.');
                 return;
             }
         } else {
             console.log('Old files don\'t exist. Building directory if needed');
-            fs.mkdirSync(path.dirname(dataFilePath), { recursive: true });
+            fs.mkdirSync(path.dirname(comicsFilePath), { recursive: true });
         }
 
         const ts = Date.now();
         const meta = { last_update: ts };
 
-        fs.writeFileSync(dataFilePath, JSON.stringify(newData, null, 0));
+        fs.writeFileSync(comicsFilePath, JSON.stringify(newData, null, 0));
         fs.writeFileSync(metaFilePath, JSON.stringify(meta, null, 0));
 
         console.log('Data updated successfully.');
@@ -82,7 +82,7 @@ function findUrlOrFirst(urls, type) {
     }
     const matching = urls.find((url) => url.type === type);
     const url = matching || urls[0];
-    return url.url;
+    return fixUrl(url.url);
 }
 
 function findDate(dates, type) {
@@ -91,7 +91,14 @@ function findDate(dates, type) {
 }
 
 function imageString({ path, extension }) {
-    return `${path.replace('http://', 'https://')}.${extension}`;
+    return {
+        path: fixUrl(path),
+        extension: extension
+    };
+}
+
+function fixUrl(path) {
+    return path.replace('http://', 'https://');
 }
 
 async function getSeries(seriesId) {
