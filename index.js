@@ -7,24 +7,51 @@ const baseUrl = process.env.API_URL;
 const privateKey = process.env.API_PRIVATE_KEY;
 const publicKey = process.env.API_PUBLIC_KEY;
 
-const comicIds = [
-    33281, // Ultimate Invasion (2023)
-    38806, // Ultimate Black Panther (2024)
-    38809, // Ultimate Spider-Man (2024)
-    38817, // Ultimate X-Men (2024)
-    38865, // Ultimates (2024)
-    39137, // Free Comic Book Day (2024)
-    39482, // Ultimate Universe (2023)
-    42887, // Ultimate Universe: One Year In (2024)
-    42303, // Ultimate Wolverine (2025)
-];
+const comicConfig = [
+    {
+        id: 33281, // Ultimate Invasion (2023)
+        color: "#F8E032",
+    },
+    {
+        id: 38806, // Ultimate Black Panther (2024)
+        color: "#5C1571",
+    },
+    {
+        id: 38809, // Ultimate Spider-Man (2024)
+        color: "#C50C20",
+    },
+    {
+        id: 38817, // Ultimate X-Men (2024)
+        color: "#AA862E",
+    },
+    {
+        id: 38865, // Ultimates (2024)
+        color: "#0F73BC",
+    },
+    {
+        id: 39137, // Free Comic Book Day (2024)
+        color: "#FFFFFF",
+    },
+    {
+        id: 39482, // Ultimate Universe (2023)
+        color: "#0D4E68",
+    },
+    {
+        id: 42887, // Ultimate Universe: One Year In (2024)
+        color: "#0D4E68",
+    },
+    {
+        id: 42303, // Ultimate Wolverine (2025)
+        color: "#841D24",
+    },
+]
 
 async function fetchData() {
     const comicsFilePath = path.join(__dirname, 'docs', 'comics.json');
     const metaFilePath = path.join(__dirname, 'docs', 'meta.json');
 
     try {
-        const newData = await Promise.all(comicIds.map(id => parseSeries(id)));
+        const newData = await Promise.all(comicConfig.map(({id, color}) => parseSeries(id, color)));
 
         if (fs.existsSync(comicsFilePath)) {
             console.log('Old files exist');
@@ -51,7 +78,7 @@ async function fetchData() {
     }
 }
 
-async function parseSeries(seriesId) {
+async function parseSeries(seriesId, color) {
     try {
         const series = await getSeries(seriesId);
         const issues = await getIssues(seriesId);
@@ -59,6 +86,7 @@ async function parseSeries(seriesId) {
             id: seriesId,
             title: series.title,
             thumbnail: imageString(series.thumbnail),
+            color: color,
             issues: issues.map(issue => ({
                 id: issue.id,
                 title: issue.title,
