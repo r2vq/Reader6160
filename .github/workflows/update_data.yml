@@ -1,4 +1,4 @@
-name: Update Data with JavaScript
+name: Update Data Daily
 
 on:
   schedule:

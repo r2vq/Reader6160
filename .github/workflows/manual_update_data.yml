@@ -1,4 +1,4 @@
-name: Update Data with JavaScript
+name: Manually Update Data
 
 on: workflow_dispatch
 
