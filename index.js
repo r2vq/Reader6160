@@ -68,7 +68,7 @@ async function fetchData() {
         const ts = Date.now();
         const meta = { last_update: ts };
 
-        fs.writeFileSync(comicsFilePath, JSON.stringify(newData, null, 0));
+        fs.writeFileSync(comicsFilePath, JSON.stringify(newData, null, 2));
         fs.writeFileSync(metaFilePath, JSON.stringify(meta, null, 0));
 
         console.log('Data updated successfully.');
