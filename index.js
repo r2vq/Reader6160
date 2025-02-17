@@ -47,34 +47,46 @@ const comicConfig = [
 ]
 
 async function fetchData() {
-    const comicsFilePath = path.join(__dirname, 'docs', 'comics.json');
     const metaFilePath = path.join(__dirname, 'docs', 'meta.json');
 
     try {
-        const newData = await Promise.all(comicConfig.map(({id, color}) => parseSeries(id, color)));
-
-        if (fs.existsSync(comicsFilePath)) {
-            console.log('Old files exist');
-            const oldData = JSON.parse(fs.readFileSync(comicsFilePath, 'utf-8'));
-            if (JSON.stringify(oldData) == JSON.stringify(newData)) {
-                console.log('Data unchanged. Skipping update.');
-                return;
+        const newData = await Promise.all(comicConfig.map(({ id, color }) => parseSeries(id, color)));
+        let changeMade = false;
+        newData.forEach((series) => {
+            const comicsFilePath = path.join(__dirname, 'docs', `comics-${series.id}.json`);
+            console.log(`Fetched ${series.title}. Attempting to write to disk.`);
+            if (fs.existsSync(comicsFilePath)) {
+                const oldData = JSON.parse(fs.readFileSync(comicsFilePath, 'utf-8'));
+                if (JSON.stringify(oldData) == JSON.stringify(series)) {
+                    console.log('Data unchanged. Skipping update.');
+                    return;
+                }
+            } else {
+                console.log('Old files don\'t exist. Building directory if needed');
+                fs.mkdirSync(path.dirname(comicsFilePath), { recursive: true });
             }
-        } else {
-            console.log('Old files don\'t exist. Building directory if needed');
-            fs.mkdirSync(path.dirname(comicsFilePath), { recursive: true });
+
+            console.log('No issues found. Writing to disk.');
+            fs.writeFileSync(comicsFilePath, JSON.stringify(series, null, 2));
+            changeMade = true;
+        });
+
+        if (!changeMade) {
+            console.log('All files already up to date.');
+            process.exit(0);
         }
-
         const ts = Date.now();
-        const meta = { last_update: ts };
+        const meta = {
+            last_update: ts,
+            series: comicConfig.map(({ id }) => id),
+        };
 
-        fs.writeFileSync(comicsFilePath, JSON.stringify(newData, null, 2));
-        fs.writeFileSync(metaFilePath, JSON.stringify(meta, null, 0));
-
+        fs.writeFileSync(metaFilePath, JSON.stringify(meta, null, 2));
         console.log('Data updated successfully.');
+        process.exit(0);
     } catch (error) {
         console.error('Error fetching or processing data:', error);
-        process.exist(1);
+        process.exit(1);
     }
 }
 
@@ -95,10 +107,11 @@ async function parseSeries(seriesId, color) {
                 date: findDate(issue.dates, 'onsaleDate'),
                 thumbnail: imageString(issue.thumbnail),
                 detailUrl: findUrlOrFirst(issue.urls, 'detail'),
+                isVariant: issue.variantDescription === "Variant",
             })),
             attributionText: series.attributionText,
         };
-    } catch(error) {
+    } catch (error) {
         console.error(`Error processing series: ${seriesId}:`, error);
         return null;
     }
@@ -151,7 +164,7 @@ async function getIssues(seriesId, offset = 0, allIssues = []) {
     console.log(`Getting issues for series ${seriesId}`);
     const ts = Date.now();
     const hash = createHash(ts, privateKey, publicKey);
-    const parsedUrl = `${baseUrl}v1/public/series/${seriesId}/comics?ts=${ts}&apikey=${publicKey}&hash=${hash}&noVariants=true&format=comic&orderBy=issueNumber&limit=100&offset=${offset}`;
+    const parsedUrl = `${baseUrl}v1/public/series/${seriesId}/comics?ts=${ts}&apikey=${publicKey}&hash=${hash}&format=comic&orderBy=issueNumber&limit=100&offset=${offset}`;
     try {
         const response = await axios.get(parsedUrl);
         const data = response.data.data;
