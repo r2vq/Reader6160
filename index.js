@@ -66,7 +66,7 @@ async function fetchData() {
                 fs.mkdirSync(path.dirname(comicsFilePath), { recursive: true });
             }
 
-            console.log('No issues found. Writing to disk.');
+            console.log('No problems found. Writing to disk.');
             fs.writeFileSync(comicsFilePath, JSON.stringify(series, null, 2));
             changeMade = true;
         });
@@ -108,6 +108,7 @@ async function parseSeries(seriesId, color) {
                 thumbnail: imageString(issue.thumbnail),
                 detailUrl: findUrlOrFirst(issue.urls, 'detail'),
                 isVariant: issue.variantDescription === "Variant",
+                variants: issue.variants.map(({ resourceURI }) => getIdFromUri(resourceURI)),
             })),
             attributionText: series.attributionText,
         };
@@ -115,6 +116,10 @@ async function parseSeries(seriesId, color) {
         console.error(`Error processing series: ${seriesId}:`, error);
         return null;
     }
+}
+
+function getIdFromUri(uri) {
+    return parseInt(uri.split("/").at(-1), 10);
 }
 
 function findUrlOrFirst(urls, type) {

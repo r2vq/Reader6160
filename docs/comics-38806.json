@@ -18,7 +18,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/112980/ultimate_black_panther_2024_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        114851,
+        114852,
+        114853,
+        114854,
+        114855,
+        114856
+      ]
     },
     {
       "id": 114856,
@@ -31,7 +39,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114856/ultimate_black_panther_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112980,
+        114851,
+        114852,
+        114853,
+        114854,
+        114855
+      ]
     },
     {
       "id": 114855,
@@ -44,7 +60,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114855/ultimate_black_panther_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112980,
+        114851,
+        114852,
+        114853,
+        114854,
+        114856
+      ]
     },
     {
       "id": 114854,
@@ -57,7 +81,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114854/ultimate_black_panther_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112980,
+        114851,
+        114852,
+        114853,
+        114855,
+        114856
+      ]
     },
     {
       "id": 114853,
@@ -70,7 +102,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114853/ultimate_black_panther_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112980,
+        114851,
+        114852,
+        114854,
+        114855,
+        114856
+      ]
     },
     {
       "id": 114852,
@@ -83,7 +123,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114852/ultimate_black_panther_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112980,
+        114851,
+        114853,
+        114854,
+        114855,
+        114856
+      ]
     },
     {
       "id": 114851,
@@ -96,7 +144,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114851/ultimate_black_panther_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112980,
+        114852,
+        114853,
+        114854,
+        114855,
+        114856
+      ]
     },
     {
       "id": 112982,
@@ -109,7 +165,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/112982/ultimate_black_panther_2024_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        115368,
+        115369,
+        115370,
+        116208
+      ]
     },
     {
       "id": 116208,
@@ -122,7 +184,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116208/ultimate_black_panther_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112982,
+        115368,
+        115369,
+        115370
+      ]
     },
     {
       "id": 115370,
@@ -135,7 +203,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115370/ultimate_black_panther_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112982,
+        115368,
+        115369,
+        116208
+      ]
     },
     {
       "id": 115369,
@@ -148,7 +222,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115369/ultimate_black_panther_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112982,
+        115368,
+        115370,
+        116208
+      ]
     },
     {
       "id": 115368,
@@ -161,7 +241,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115368/ultimate_black_panther_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112982,
+        115369,
+        115370,
+        116208
+      ]
     },
     {
       "id": 116059,
@@ -174,7 +260,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116059/ultimate_black_panther_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112983,
+        115680,
+        116060,
+        116209
+      ]
     },
     {
       "id": 116209,
@@ -187,7 +279,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116209/ultimate_black_panther_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112983,
+        115680,
+        116059,
+        116060
+      ]
     },
     {
       "id": 116060,
@@ -200,7 +298,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116060/ultimate_black_panther_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112983,
+        115680,
+        116059,
+        116209
+      ]
     },
     {
       "id": 115680,
@@ -213,7 +317,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115680/ultimate_black_panther_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112983,
+        116059,
+        116060,
+        116209
+      ]
     },
     {
       "id": 112983,
@@ -226,7 +336,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/112983/ultimate_black_panther_2024_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        115680,
+        116059,
+        116060,
+        116209
+      ]
     },
     {
       "id": 116510,
@@ -239,7 +355,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116510/ultimate_black_panther_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112984,
+        116509,
+        120808
+      ]
     },
     {
       "id": 116509,
@@ -252,7 +373,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116509/ultimate_black_panther_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112984,
+        116510,
+        120808
+      ]
     },
     {
       "id": 120808,
@@ -265,7 +391,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/120808/ultimate_black_panther_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112984,
+        116509,
+        116510
+      ]
     },
     {
       "id": 112984,
@@ -278,7 +409,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/112984/ultimate_black_panther_2024_4?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        116509,
+        116510,
+        120808
+      ]
     },
     {
       "id": 118815,
@@ -291,7 +427,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/118815/ultimate_black_panther_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113862,
+        118814,
+        120809
+      ]
     },
     {
       "id": 118814,
@@ -304,7 +445,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/118814/ultimate_black_panther_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113862,
+        118815,
+        120809
+      ]
     },
     {
       "id": 120809,
@@ -317,7 +463,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/120809/ultimate_black_panther_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113862,
+        118814,
+        118815
+      ]
     },
     {
       "id": 113862,
@@ -330,7 +481,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113862/ultimate_black_panther_2024_5?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        118814,
+        118815,
+        120809
+      ]
     },
     {
       "id": 113863,
@@ -343,7 +499,8 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113863/ultimate_black_panther_2024_6?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": []
     },
     {
       "id": 113864,
@@ -356,7 +513,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113864/ultimate_black_panther_2024_7?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        121013,
+        121014
+      ]
     },
     {
       "id": 121013,
@@ -369,7 +530,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121013/ultimate_black_panther_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113864,
+        121014
+      ]
     },
     {
       "id": 121014,
@@ -382,7 +547,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121014/ultimate_black_panther_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113864,
+        121013
+      ]
     },
     {
       "id": 121494,
@@ -395,7 +564,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121494/ultimate_black_panther_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113865,
+        121389,
+        121390,
+        121493
+      ]
     },
     {
       "id": 121389,
@@ -408,7 +583,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121389/ultimate_black_panther_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113865,
+        121390,
+        121493,
+        121494
+      ]
     },
     {
       "id": 121390,
@@ -421,7 +602,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121390/ultimate_black_panther_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113865,
+        121389,
+        121493,
+        121494
+      ]
     },
     {
       "id": 121493,
@@ -434,7 +621,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121493/ultimate_black_panther_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113865,
+        121389,
+        121390,
+        121494
+      ]
     },
     {
       "id": 113865,
@@ -447,7 +640,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113865/ultimate_black_panther_2024_8?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        121389,
+        121390,
+        121493,
+        121494
+      ]
     },
     {
       "id": 113866,
@@ -460,7 +659,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113866/ultimate_black_panther_2024_9?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        122514,
+        122515
+      ]
     },
     {
       "id": 122514,
@@ -473,7 +676,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122514/ultimate_black_panther_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113866,
+        122515
+      ]
     },
     {
       "id": 122515,
@@ -486,7 +693,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122515/ultimate_black_panther_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113866,
+        122514
+      ]
     },
     {
       "id": 113867,
@@ -499,7 +710,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113867/ultimate_black_panther_2024_10?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        123520,
+        123521
+      ]
     },
     {
       "id": 123520,
@@ -512,7 +727,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123520/ultimate_black_panther_2024_10_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113867,
+        123521
+      ]
     },
     {
       "id": 123521,
@@ -525,7 +744,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123521/ultimate_black_panther_2024_10_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113867,
+        123520
+      ]
     },
     {
       "id": 124498,
@@ -538,7 +761,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124498/ultimate_black_panther_2024_11_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113868,
+        124499,
+        124500
+      ]
     },
     {
       "id": 113868,
@@ -551,7 +779,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113868/ultimate_black_panther_2024_11?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        124498,
+        124499,
+        124500
+      ]
     },
     {
       "id": 124499,
@@ -564,7 +797,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124499/ultimate_black_panther_2024_11_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113868,
+        124498,
+        124500
+      ]
     },
     {
       "id": 124500,
@@ -577,7 +815,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124500/ultimate_black_panther_2024_11_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113868,
+        124498,
+        124499
+      ]
     },
     {
       "id": 124923,
@@ -590,7 +833,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124923/ultimate_black_panther_2024_12_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113869,
+        124924
+      ]
     },
     {
       "id": 124924,
@@ -603,7 +850,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124924/ultimate_black_panther_2024_12_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113869,
+        124923
+      ]
     },
     {
       "id": 113869,
@@ -616,7 +867,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113869/ultimate_black_panther_2024_12?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        124923,
+        124924
+      ]
     },
     {
       "id": 113870,
@@ -629,7 +884,8 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113870/ultimate_black_panther_2024_13?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": []
     },
     {
       "id": 113871,
@@ -642,7 +898,8 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113871/ultimate_black_panther_2024_14?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": []
     },
     {
       "id": 113872,
@@ -655,7 +912,8 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113872/ultimate_black_panther_2024_15?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": []
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"

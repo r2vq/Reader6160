@@ -18,7 +18,16 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124181/ultimate_universe_one_year_in_2024_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        124521,
+        124522,
+        124523,
+        124524,
+        124525,
+        124527,
+        124722
+      ]
     },
     {
       "id": 124521,
@@ -31,7 +40,16 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124521/ultimate_universe_one_year_in_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        124181,
+        124522,
+        124523,
+        124524,
+        124525,
+        124527,
+        124722
+      ]
     },
     {
       "id": 124522,
@@ -44,7 +62,16 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124522/ultimate_universe_one_year_in_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        124181,
+        124521,
+        124523,
+        124524,
+        124525,
+        124527,
+        124722
+      ]
     },
     {
       "id": 124523,
@@ -57,7 +84,16 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124523/ultimate_universe_one_year_in_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        124181,
+        124521,
+        124522,
+        124524,
+        124525,
+        124527,
+        124722
+      ]
     },
     {
       "id": 124524,
@@ -70,7 +106,16 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124524/ultimate_universe_one_year_in_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        124181,
+        124521,
+        124522,
+        124523,
+        124525,
+        124527,
+        124722
+      ]
     },
     {
       "id": 124525,
@@ -83,7 +128,16 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124525/ultimate_universe_one_year_in_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        124181,
+        124521,
+        124522,
+        124523,
+        124524,
+        124527,
+        124722
+      ]
     },
     {
       "id": 124527,
@@ -96,7 +150,16 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124527/ultimate_universe_one_year_in_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        124181,
+        124521,
+        124522,
+        124523,
+        124524,
+        124525,
+        124722
+      ]
     },
     {
       "id": 124722,
@@ -109,7 +172,16 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124722/ultimate_universe_one_year_in_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        124181,
+        124521,
+        124522,
+        124523,
+        124524,
+        124525,
+        124527
+      ]
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"

@@ -18,7 +18,20 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/97145/ultimate_invasion_2023_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        116123,
+        108914,
+        108915,
+        108916,
+        109472,
+        109473,
+        109475,
+        109476,
+        109477,
+        109901,
+        111748
+      ]
     },
     {
       "id": 111748,
@@ -31,7 +44,20 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/111748/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        116123,
+        97145,
+        108914,
+        108915,
+        108916,
+        109472,
+        109473,
+        109475,
+        109476,
+        109477,
+        109901
+      ]
     },
     {
       "id": 109901,
@@ -44,7 +70,20 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/109901/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        116123,
+        97145,
+        108914,
+        108915,
+        108916,
+        109472,
+        109473,
+        109475,
+        109476,
+        109477,
+        111748
+      ]
     },
     {
       "id": 108914,
@@ -57,7 +96,20 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/108914/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        116123,
+        97145,
+        108915,
+        108916,
+        109472,
+        109473,
+        109475,
+        109476,
+        109477,
+        109901,
+        111748
+      ]
     },
     {
       "id": 108915,
@@ -70,7 +122,20 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/108915/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        116123,
+        97145,
+        108914,
+        108916,
+        109472,
+        109473,
+        109475,
+        109476,
+        109477,
+        109901,
+        111748
+      ]
     },
     {
       "id": 108916,
@@ -83,7 +148,20 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/108916/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        116123,
+        97145,
+        108914,
+        108915,
+        109472,
+        109473,
+        109475,
+        109476,
+        109477,
+        109901,
+        111748
+      ]
     },
     {
       "id": 109472,
@@ -96,7 +174,20 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/109472/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        116123,
+        97145,
+        108914,
+        108915,
+        108916,
+        109473,
+        109475,
+        109476,
+        109477,
+        109901,
+        111748
+      ]
     },
     {
       "id": 109473,
@@ -109,7 +200,20 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/109473/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        116123,
+        97145,
+        108914,
+        108915,
+        108916,
+        109472,
+        109475,
+        109476,
+        109477,
+        109901,
+        111748
+      ]
     },
     {
       "id": 109475,
@@ -122,7 +226,20 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/109475/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        116123,
+        97145,
+        108914,
+        108915,
+        108916,
+        109472,
+        109473,
+        109476,
+        109477,
+        109901,
+        111748
+      ]
     },
     {
       "id": 109476,
@@ -135,7 +252,20 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/109476/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        116123,
+        97145,
+        108914,
+        108915,
+        108916,
+        109472,
+        109473,
+        109475,
+        109477,
+        109901,
+        111748
+      ]
     },
     {
       "id": 109477,
@@ -148,7 +278,20 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/109477/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        116123,
+        97145,
+        108914,
+        108915,
+        108916,
+        109472,
+        109473,
+        109475,
+        109476,
+        109901,
+        111748
+      ]
     },
     {
       "id": 97147,
@@ -161,7 +304,8 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/97147/ultimate_invasion_2023_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": []
     },
     {
       "id": 110686,
@@ -174,7 +318,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/110686/ultimate_invasion_2023_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        97148,
+        110687
+      ]
     },
     {
       "id": 110687,
@@ -187,7 +335,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/110687/ultimate_invasion_2023_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        97148,
+        110686
+      ]
     },
     {
       "id": 97148,
@@ -200,7 +352,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/97148/ultimate_invasion_2023_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        110686,
+        110687
+      ]
     },
     {
       "id": 97149,
@@ -213,7 +369,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/97149/ultimate_invasion_2023_4?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        111897,
+        111898
+      ]
     },
     {
       "id": 111897,
@@ -226,7 +386,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/111897/ultimate_invasion_2023_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        97149,
+        111898
+      ]
     },
     {
       "id": 111898,
@@ -239,7 +403,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/111898/ultimate_invasion_2023_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        97149,
+        111897
+      ]
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"

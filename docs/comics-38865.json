@@ -18,7 +18,16 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113211/ultimates_2024_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        116160,
+        116752,
+        118819,
+        118820,
+        118821,
+        118822,
+        118914
+      ]
     },
     {
       "id": 118914,
@@ -31,7 +40,16 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/118914/ultimates_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113211,
+        116160,
+        116752,
+        118819,
+        118820,
+        118821,
+        118822
+      ]
     },
     {
       "id": 118822,
@@ -44,7 +62,16 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/118822/ultimates_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113211,
+        116160,
+        116752,
+        118819,
+        118820,
+        118821,
+        118914
+      ]
     },
     {
       "id": 118821,
@@ -57,7 +84,16 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/118821/ultimates_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113211,
+        116160,
+        116752,
+        118819,
+        118820,
+        118822,
+        118914
+      ]
     },
     {
       "id": 118820,
@@ -70,7 +106,16 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/118820/ultimates_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113211,
+        116160,
+        116752,
+        118819,
+        118821,
+        118822,
+        118914
+      ]
     },
     {
       "id": 118819,
@@ -83,7 +128,16 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/118819/ultimates_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113211,
+        116160,
+        116752,
+        118820,
+        118821,
+        118822,
+        118914
+      ]
     },
     {
       "id": 116752,
@@ -96,7 +150,16 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116752/ultimates_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113211,
+        116160,
+        118819,
+        118820,
+        118821,
+        118822,
+        118914
+      ]
     },
     {
       "id": 116160,
@@ -109,7 +172,16 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116160/ultimates_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113211,
+        116752,
+        118819,
+        118820,
+        118821,
+        118822,
+        118914
+      ]
     },
     {
       "id": 113212,
@@ -122,7 +194,8 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113212/ultimates_2024_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": []
     },
     {
       "id": 121020,
@@ -135,7 +208,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121020/ultimates_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113213,
+        120340,
+        121019
+      ]
     },
     {
       "id": 113213,
@@ -148,7 +226,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113213/ultimates_2024_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        120340,
+        121019,
+        121020
+      ]
     },
     {
       "id": 120340,
@@ -161,7 +244,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/120340/ultimates_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113213,
+        121019,
+        121020
+      ]
     },
     {
       "id": 121019,
@@ -174,7 +262,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121019/ultimates_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113213,
+        120340,
+        121020
+      ]
     },
     {
       "id": 121397,
@@ -187,7 +280,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121397/ultimates_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113214,
+        120824,
+        121398,
+        121499,
+        121500
+      ]
     },
     {
       "id": 121398,
@@ -200,7 +300,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121398/ultimates_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113214,
+        120824,
+        121397,
+        121499,
+        121500
+      ]
     },
     {
       "id": 121499,
@@ -213,7 +320,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121499/ultimates_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113214,
+        120824,
+        121397,
+        121398,
+        121500
+      ]
     },
     {
       "id": 121500,
@@ -226,7 +340,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121500/ultimates_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113214,
+        120824,
+        121397,
+        121398,
+        121499
+      ]
     },
     {
       "id": 113214,
@@ -239,7 +360,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113214/ultimates_2024_4?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        120824,
+        121397,
+        121398,
+        121499,
+        121500
+      ]
     },
     {
       "id": 120824,
@@ -252,7 +380,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/120824/ultimates_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113214,
+        121397,
+        121398,
+        121499,
+        121500
+      ]
     },
     {
       "id": 122521,
@@ -265,7 +400,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122521/ultimates_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113922,
+        120825,
+        122522
+      ]
     },
     {
       "id": 122522,
@@ -278,7 +418,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122522/ultimates_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113922,
+        120825,
+        122521
+      ]
     },
     {
       "id": 120825,
@@ -291,7 +436,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/120825/ultimates_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113922,
+        122521,
+        122522
+      ]
     },
     {
       "id": 113922,
@@ -304,7 +454,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113922/ultimates_2024_5?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        120825,
+        122521,
+        122522
+      ]
     },
     {
       "id": 120826,
@@ -317,7 +472,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/120826/ultimates_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113923,
+        123526,
+        123527,
+        124530
+      ]
     },
     {
       "id": 113923,
@@ -330,7 +491,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113923/ultimates_2024_6?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        120826,
+        123526,
+        123527,
+        124530
+      ]
     },
     {
       "id": 123526,
@@ -343,7 +510,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123526/ultimates_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113923,
+        120826,
+        123527,
+        124530
+      ]
     },
     {
       "id": 123527,
@@ -356,7 +529,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123527/ultimates_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113923,
+        120826,
+        123526,
+        124530
+      ]
     },
     {
       "id": 124530,
@@ -369,7 +548,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124530/ultimates_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113923,
+        120826,
+        123526,
+        123527
+      ]
     },
     {
       "id": 113924,
@@ -382,7 +567,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113924/ultimates_2024_7?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        123314,
+        124531,
+        124532
+      ]
     },
     {
       "id": 123314,
@@ -395,7 +585,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123314/ultimates_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113924,
+        124531,
+        124532
+      ]
     },
     {
       "id": 124532,
@@ -408,7 +603,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124532/ultimates_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113924,
+        123314,
+        124531
+      ]
     },
     {
       "id": 124531,
@@ -421,7 +621,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124531/ultimates_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113924,
+        123314,
+        124532
+      ]
     },
     {
       "id": 124934,
@@ -434,7 +639,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124934/ultimates_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113925,
+        123315
+      ]
     },
     {
       "id": 113925,
@@ -447,7 +656,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113925/ultimates_2024_8?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        123315,
+        124934
+      ]
     },
     {
       "id": 123315,
@@ -460,7 +673,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123315/ultimates_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113925,
+        124934
+      ]
     },
     {
       "id": 126010,
@@ -473,7 +690,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/126010/ultimates_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113926,
+        123316,
+        126009
+      ]
     },
     {
       "id": 126009,
@@ -486,7 +708,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/126009/ultimates_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113926,
+        123316,
+        126010
+      ]
     },
     {
       "id": 123316,
@@ -499,7 +726,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123316/ultimates_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113926,
+        126009,
+        126010
+      ]
     },
     {
       "id": 113926,
@@ -512,7 +744,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113926/ultimates_2024_9?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        123316,
+        126009,
+        126010
+      ]
     },
     {
       "id": 113927,
@@ -525,7 +762,8 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113927/ultimates_2024_10?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": []
     },
     {
       "id": 113928,
@@ -538,7 +776,8 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113928/ultimates_2024_11?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": []
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"

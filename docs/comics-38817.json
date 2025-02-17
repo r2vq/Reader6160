@@ -18,7 +18,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115379/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112996,
+        115374,
+        115376,
+        115377,
+        115378,
+        116158,
+        116159,
+        116247,
+        116605
+      ]
     },
     {
       "id": 115378,
@@ -31,7 +42,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115378/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112996,
+        115374,
+        115376,
+        115377,
+        115379,
+        116158,
+        116159,
+        116247,
+        116605
+      ]
     },
     {
       "id": 112996,
@@ -44,7 +66,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/112996/ultimate_x-men_2024_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        115374,
+        115376,
+        115377,
+        115378,
+        115379,
+        116158,
+        116159,
+        116247,
+        116605
+      ]
     },
     {
       "id": 115377,
@@ -57,7 +90,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115377/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112996,
+        115374,
+        115376,
+        115378,
+        115379,
+        116158,
+        116159,
+        116247,
+        116605
+      ]
     },
     {
       "id": 115376,
@@ -70,7 +114,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115376/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112996,
+        115374,
+        115377,
+        115378,
+        115379,
+        116158,
+        116159,
+        116247,
+        116605
+      ]
     },
     {
       "id": 116605,
@@ -83,7 +138,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116605/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112996,
+        115374,
+        115376,
+        115377,
+        115378,
+        115379,
+        116158,
+        116159,
+        116247
+      ]
     },
     {
       "id": 115374,
@@ -96,7 +162,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115374/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112996,
+        115376,
+        115377,
+        115378,
+        115379,
+        116158,
+        116159,
+        116247,
+        116605
+      ]
     },
     {
       "id": 116247,
@@ -109,7 +186,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116247/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112996,
+        115374,
+        115376,
+        115377,
+        115378,
+        115379,
+        116158,
+        116159,
+        116605
+      ]
     },
     {
       "id": 116159,
@@ -122,7 +210,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116159/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112996,
+        115374,
+        115376,
+        115377,
+        115378,
+        115379,
+        116158,
+        116247,
+        116605
+      ]
     },
     {
       "id": 116158,
@@ -135,7 +234,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116158/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112996,
+        115374,
+        115376,
+        115377,
+        115378,
+        115379,
+        116159,
+        116247,
+        116605
+      ]
     },
     {
       "id": 115662,
@@ -148,7 +258,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115662/ultimate_x-men_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112998,
+        116067,
+        116068,
+        116606,
+        116607
+      ]
     },
     {
       "id": 116067,
@@ -161,7 +278,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116067/ultimate_x-men_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112998,
+        115662,
+        116068,
+        116606,
+        116607
+      ]
     },
     {
       "id": 116068,
@@ -174,7 +298,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116068/ultimate_x-men_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112998,
+        115662,
+        116067,
+        116606,
+        116607
+      ]
     },
     {
       "id": 116606,
@@ -187,7 +318,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116606/ultimate_x-men_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112998,
+        115662,
+        116067,
+        116068,
+        116607
+      ]
     },
     {
       "id": 116607,
@@ -200,7 +338,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116607/ultimate_x-men_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112998,
+        115662,
+        116067,
+        116068,
+        116606
+      ]
     },
     {
       "id": 112998,
@@ -213,7 +358,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/112998/ultimate_x-men_2024_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        115662,
+        116067,
+        116068,
+        116606,
+        116607
+      ]
     },
     {
       "id": 116513,
@@ -226,7 +378,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116513/ultimate_x-men_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112999,
+        115663,
+        116514,
+        116608,
+        116609
+      ]
     },
     {
       "id": 116514,
@@ -239,7 +398,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116514/ultimate_x-men_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112999,
+        115663,
+        116513,
+        116608,
+        116609
+      ]
     },
     {
       "id": 116609,
@@ -252,7 +418,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116609/ultimate_x-men_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112999,
+        115663,
+        116513,
+        116514,
+        116608
+      ]
     },
     {
       "id": 116608,
@@ -265,7 +438,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116608/ultimate_x-men_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112999,
+        115663,
+        116513,
+        116514,
+        116609
+      ]
     },
     {
       "id": 115663,
@@ -278,7 +458,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115663/ultimate_x-men_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        112999,
+        116513,
+        116514,
+        116608,
+        116609
+      ]
     },
     {
       "id": 112999,
@@ -291,7 +478,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/112999/ultimate_x-men_2024_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        115663,
+        116513,
+        116514,
+        116608,
+        116609
+      ]
     },
     {
       "id": 120818,
@@ -304,7 +498,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/120818/ultimate_x-men_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113000,
+        116610,
+        116611,
+        118818
+      ]
     },
     {
       "id": 118818,
@@ -317,7 +517,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/118818/ultimate_x-men_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113000,
+        116610,
+        116611,
+        120818
+      ]
     },
     {
       "id": 116611,
@@ -330,7 +536,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116611/ultimate_x-men_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113000,
+        116610,
+        118818,
+        120818
+      ]
     },
     {
       "id": 116610,
@@ -343,7 +555,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116610/ultimate_x-men_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113000,
+        116611,
+        118818,
+        120818
+      ]
     },
     {
       "id": 113000,
@@ -356,7 +574,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113000/ultimate_x-men_2024_4?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        116610,
+        116611,
+        118818,
+        120818
+      ]
     },
     {
       "id": 113902,
@@ -369,7 +593,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113902/ultimate_x-men_2024_5?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        119725,
+        119726,
+        120822,
+        122171
+      ]
     },
     {
       "id": 122171,
@@ -382,7 +612,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122171/ultimate_x-men_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113902,
+        119725,
+        119726,
+        120822
+      ]
     },
     {
       "id": 119725,
@@ -395,7 +631,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/119725/ultimate_x-men_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113902,
+        119726,
+        120822,
+        122171
+      ]
     },
     {
       "id": 119726,
@@ -408,7 +650,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/119726/ultimate_x-men_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113902,
+        119725,
+        120822,
+        122171
+      ]
     },
     {
       "id": 120822,
@@ -421,7 +669,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/120822/ultimate_x-men_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113902,
+        119725,
+        119726,
+        122171
+      ]
     },
     {
       "id": 113903,
@@ -434,7 +688,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113903/ultimate_x-men_2024_6?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        120823,
+        121017,
+        121018,
+        122172
+      ]
     },
     {
       "id": 122172,
@@ -447,7 +707,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122172/ultimate_x-men_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113903,
+        120823,
+        121017,
+        121018
+      ]
     },
     {
       "id": 120823,
@@ -460,7 +726,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/120823/ultimate_x-men_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113903,
+        121017,
+        121018,
+        122172
+      ]
     },
     {
       "id": 121017,
@@ -473,7 +745,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121017/ultimate_x-men_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113903,
+        120823,
+        121018,
+        122172
+      ]
     },
     {
       "id": 121018,
@@ -486,7 +764,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121018/ultimate_x-men_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113903,
+        120823,
+        121017,
+        122172
+      ]
     },
     {
       "id": 113904,
@@ -499,7 +783,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113904/ultimate_x-men_2024_7?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        121395,
+        121396,
+        121497,
+        121498,
+        123300
+      ]
     },
     {
       "id": 123300,
@@ -512,7 +803,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123300/ultimate_x-men_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113904,
+        121395,
+        121396,
+        121497,
+        121498
+      ]
     },
     {
       "id": 121498,
@@ -525,7 +823,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121498/ultimate_x-men_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113904,
+        121395,
+        121396,
+        121497,
+        123300
+      ]
     },
     {
       "id": 121497,
@@ -538,7 +843,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121497/ultimate_x-men_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113904,
+        121395,
+        121396,
+        121498,
+        123300
+      ]
     },
     {
       "id": 121396,
@@ -551,7 +863,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121396/ultimate_x-men_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113904,
+        121395,
+        121497,
+        121498,
+        123300
+      ]
     },
     {
       "id": 121395,
@@ -564,7 +883,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121395/ultimate_x-men_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113904,
+        121396,
+        121497,
+        121498,
+        123300
+      ]
     },
     {
       "id": 123616,
@@ -577,7 +903,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123616/ultimate_x-men_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113905,
+        122519,
+        122520,
+        123301
+      ]
     },
     {
       "id": 122519,
@@ -590,7 +922,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122519/ultimate_x-men_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113905,
+        122520,
+        123301,
+        123616
+      ]
     },
     {
       "id": 122520,
@@ -603,7 +941,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122520/ultimate_x-men_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113905,
+        122519,
+        123301,
+        123616
+      ]
     },
     {
       "id": 113905,
@@ -616,7 +960,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113905/ultimate_x-men_2024_8?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        122519,
+        122520,
+        123301,
+        123616
+      ]
     },
     {
       "id": 123301,
@@ -629,7 +979,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123301/ultimate_x-men_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113905,
+        122519,
+        122520,
+        123616
+      ]
     },
     {
       "id": 113906,
@@ -642,7 +998,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113906/ultimate_x-men_2024_9?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        123302,
+        123524,
+        123525
+      ]
     },
     {
       "id": 123302,
@@ -655,7 +1016,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123302/ultimate_x-men_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113906,
+        123524,
+        123525
+      ]
     },
     {
       "id": 123525,
@@ -668,7 +1034,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123525/ultimate_x-men_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113906,
+        123302,
+        123524
+      ]
     },
     {
       "id": 123524,
@@ -681,7 +1052,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123524/ultimate_x-men_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113906,
+        123302,
+        123525
+      ]
     },
     {
       "id": 124723,
@@ -694,7 +1070,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124723/ultimate_x-men_2024_10_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113907,
+        123303,
+        124529
+      ]
     },
     {
       "id": 124529,
@@ -707,7 +1088,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124529/ultimate_x-men_2024_10_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113907,
+        123303,
+        124723
+      ]
     },
     {
       "id": 113907,
@@ -720,7 +1106,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113907/ultimate_x-men_2024_10?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        123303,
+        124529,
+        124723
+      ]
     },
     {
       "id": 123303,
@@ -733,7 +1124,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123303/ultimate_x-men_2024_10_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113907,
+        124529,
+        124723
+      ]
     },
     {
       "id": 124933,
@@ -746,7 +1142,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124933/ultimate_x-men_2024_11_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113908,
+        123304
+      ]
     },
     {
       "id": 123304,
@@ -759,7 +1159,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123304/ultimate_x-men_2024_11_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113908,
+        124933
+      ]
     },
     {
       "id": 113908,
@@ -772,7 +1176,11 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113908/ultimate_x-men_2024_11?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        123304,
+        124933
+      ]
     },
     {
       "id": 113909,
@@ -785,7 +1193,8 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113909/ultimate_x-men_2024_12?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": []
     },
     {
       "id": 113910,
@@ -798,7 +1207,8 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113910/ultimate_x-men_2024_13?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": []
     },
     {
       "id": 113911,
@@ -811,7 +1221,8 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113911/ultimate_x-men_2024_14?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": []
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"

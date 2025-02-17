@@ -18,7 +18,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114691/ultimate_spider-man_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115476,
+        114260,
+        112985,
+        114259,
+        114261,
+        114262,
+        114263,
+        114264,
+        114690
+      ]
     },
     {
       "id": 114690,
@@ -31,7 +42,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114690/ultimate_spider-man_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115476,
+        114260,
+        112985,
+        114259,
+        114261,
+        114262,
+        114263,
+        114264,
+        114691
+      ]
     },
     {
       "id": 114264,
@@ -44,7 +66,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114264/ultimate_spider-man_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115476,
+        114260,
+        112985,
+        114259,
+        114261,
+        114262,
+        114263,
+        114690,
+        114691
+      ]
     },
     {
       "id": 114263,
@@ -57,7 +90,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114263/ultimate_spider-man_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115476,
+        114260,
+        112985,
+        114259,
+        114261,
+        114262,
+        114264,
+        114690,
+        114691
+      ]
     },
     {
       "id": 114262,
@@ -70,7 +114,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114262/ultimate_spider-man_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115476,
+        114260,
+        112985,
+        114259,
+        114261,
+        114263,
+        114264,
+        114690,
+        114691
+      ]
     },
     {
       "id": 114261,
@@ -83,7 +138,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114261/ultimate_spider-man_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115476,
+        114260,
+        112985,
+        114259,
+        114262,
+        114263,
+        114264,
+        114690,
+        114691
+      ]
     },
     {
       "id": 112985,
@@ -96,7 +162,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/112985/ultimate_spider-man_2024_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        115476,
+        114260,
+        114259,
+        114261,
+        114262,
+        114263,
+        114264,
+        114690,
+        114691
+      ]
     },
     {
       "id": 114260,
@@ -109,7 +186,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114260/ultimate_spider-man_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115476,
+        112985,
+        114259,
+        114261,
+        114262,
+        114263,
+        114264,
+        114690,
+        114691
+      ]
     },
     {
       "id": 114259,
@@ -122,7 +210,18 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114259/ultimate_spider-man_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115476,
+        114260,
+        112985,
+        114261,
+        114262,
+        114263,
+        114264,
+        114690,
+        114691
+      ]
     },
     {
       "id": 112987,
@@ -135,7 +234,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/112987/ultimate_spider-man_2024_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        115477,
+        114857,
+        114858,
+        114859,
+        114860,
+        116238
+      ]
     },
     {
       "id": 114858,
@@ -148,7 +255,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114858/ultimate_spider-man_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115477,
+        112987,
+        114857,
+        114859,
+        114860,
+        116238
+      ]
     },
     {
       "id": 114857,
@@ -161,7 +276,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114857/ultimate_spider-man_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115477,
+        112987,
+        114858,
+        114859,
+        114860,
+        116238
+      ]
     },
     {
       "id": 114859,
@@ -174,7 +297,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114859/ultimate_spider-man_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115477,
+        112987,
+        114857,
+        114858,
+        114860,
+        116238
+      ]
     },
     {
       "id": 114860,
@@ -187,7 +318,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/114860/ultimate_spider-man_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115477,
+        112987,
+        114857,
+        114858,
+        114859,
+        116238
+      ]
     },
     {
       "id": 116238,
@@ -200,7 +339,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116238/ultimate_spider-man_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115477,
+        112987,
+        114857,
+        114858,
+        114859,
+        114860
+      ]
     },
     {
       "id": 115371,
@@ -213,7 +360,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115371/ultimate_spider-man_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115478,
+        112988,
+        115372,
+        115373,
+        116062,
+        116239
+      ]
     },
     {
       "id": 115372,
@@ -226,7 +381,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115372/ultimate_spider-man_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115478,
+        112988,
+        115371,
+        115373,
+        116062,
+        116239
+      ]
     },
     {
       "id": 115373,
@@ -239,7 +402,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115373/ultimate_spider-man_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115478,
+        112988,
+        115371,
+        115372,
+        116062,
+        116239
+      ]
     },
     {
       "id": 116062,
@@ -252,7 +423,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116062/ultimate_spider-man_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115478,
+        112988,
+        115371,
+        115372,
+        115373,
+        116239
+      ]
     },
     {
       "id": 116239,
@@ -265,7 +444,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116239/ultimate_spider-man_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115478,
+        112988,
+        115371,
+        115372,
+        115373,
+        116062
+      ]
     },
     {
       "id": 112988,
@@ -278,7 +465,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/112988/ultimate_spider-man_2024_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        115478,
+        115371,
+        115372,
+        115373,
+        116062,
+        116239
+      ]
     },
     {
       "id": 116065,
@@ -291,7 +486,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116065/ultimate_spider-man_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115479,
+        112989,
+        116063,
+        116066,
+        116580,
+        120813
+      ]
     },
     {
       "id": 116066,
@@ -304,7 +507,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116066/ultimate_spider-man_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115479,
+        112989,
+        116063,
+        116065,
+        116580,
+        120813
+      ]
     },
     {
       "id": 116580,
@@ -317,7 +528,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116580/ultimate_spider-man_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115479,
+        112989,
+        116063,
+        116065,
+        116066,
+        120813
+      ]
     },
     {
       "id": 120813,
@@ -330,7 +549,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/120813/ultimate_spider-man_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115479,
+        112989,
+        116063,
+        116065,
+        116066,
+        116580
+      ]
     },
     {
       "id": 116063,
@@ -343,7 +570,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116063/ultimate_spider-man_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        115479,
+        112989,
+        116065,
+        116066,
+        116580,
+        120813
+      ]
     },
     {
       "id": 112989,
@@ -356,7 +591,15 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/112989/ultimate_spider-man_2024_4?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        115479,
+        116063,
+        116065,
+        116066,
+        116580,
+        120813
+      ]
     },
     {
       "id": 120814,
@@ -369,7 +612,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/120814/ultimate_spider-man_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        122276,
+        113882,
+        116511,
+        116512
+      ]
     },
     {
       "id": 113882,
@@ -382,7 +631,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113882/ultimate_spider-man_2024_5?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        122276,
+        116511,
+        116512,
+        120814
+      ]
     },
     {
       "id": 116512,
@@ -395,7 +650,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116512/ultimate_spider-man_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        122276,
+        113882,
+        116511,
+        120814
+      ]
     },
     {
       "id": 116511,
@@ -408,7 +669,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116511/ultimate_spider-man_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        122276,
+        113882,
+        116512,
+        120814
+      ]
     },
     {
       "id": 118817,
@@ -421,7 +688,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/118817/ultimate_spider-man_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        122277,
+        113883,
+        118816,
+        120815
+      ]
     },
     {
       "id": 118816,
@@ -434,7 +707,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/118816/ultimate_spider-man_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        122277,
+        113883,
+        118817,
+        120815
+      ]
     },
     {
       "id": 120815,
@@ -447,7 +726,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/120815/ultimate_spider-man_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        122277,
+        113883,
+        118816,
+        118817
+      ]
     },
     {
       "id": 113883,
@@ -460,7 +745,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113883/ultimate_spider-man_2024_6?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        122277,
+        118816,
+        118817,
+        120815
+      ]
     },
     {
       "id": 113884,
@@ -473,7 +764,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113884/ultimate_spider-man_2024_7?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        122278,
+        119723,
+        119724
+      ]
     },
     {
       "id": 119724,
@@ -486,7 +782,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/119724/ultimate_spider-man_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        122278,
+        113884,
+        119723
+      ]
     },
     {
       "id": 119723,
@@ -499,7 +800,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/119723/ultimate_spider-man_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        122278,
+        113884,
+        119724
+      ]
     },
     {
       "id": 113885,
@@ -512,7 +818,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113885/ultimate_spider-man_2024_8?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        122279,
+        121015,
+        121016
+      ]
     },
     {
       "id": 121015,
@@ -525,7 +836,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121015/ultimate_spider-man_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        122279,
+        113885,
+        121016
+      ]
     },
     {
       "id": 121016,
@@ -538,7 +854,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121016/ultimate_spider-man_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        122279,
+        113885,
+        121015
+      ]
     },
     {
       "id": 121495,
@@ -551,7 +872,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121495/ultimate_spider-man_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        122280,
+        113886,
+        121393,
+        121394,
+        121496
+      ]
     },
     {
       "id": 121393,
@@ -564,7 +892,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121393/ultimate_spider-man_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        122280,
+        113886,
+        121394,
+        121495,
+        121496
+      ]
     },
     {
       "id": 121394,
@@ -577,7 +912,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121394/ultimate_spider-man_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        122280,
+        113886,
+        121393,
+        121495,
+        121496
+      ]
     },
     {
       "id": 113886,
@@ -590,7 +932,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113886/ultimate_spider-man_2024_9?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        122280,
+        121393,
+        121394,
+        121495,
+        121496
+      ]
     },
     {
       "id": 121496,
@@ -603,7 +952,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121496/ultimate_spider-man_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        122280,
+        113886,
+        121393,
+        121394,
+        121495
+      ]
     },
     {
       "id": 113887,
@@ -616,7 +972,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113887/ultimate_spider-man_2024_10?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        122281,
+        122517,
+        122518
+      ]
     },
     {
       "id": 122517,
@@ -629,7 +990,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122517/ultimate_spider-man_2024_10_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        122281,
+        113887,
+        122518
+      ]
     },
     {
       "id": 122518,
@@ -642,7 +1008,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122518/ultimate_spider-man_2024_10_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        122281,
+        113887,
+        122517
+      ]
     },
     {
       "id": 123522,
@@ -655,7 +1026,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123522/ultimate_spider-man_2024_11_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113888,
+        122282,
+        123523,
+        124519
+      ]
     },
     {
       "id": 123523,
@@ -668,7 +1045,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/123523/ultimate_spider-man_2024_11_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113888,
+        122282,
+        123522,
+        124519
+      ]
     },
     {
       "id": 124519,
@@ -681,7 +1064,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124519/ultimate_spider-man_2024_11_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113888,
+        122282,
+        123522,
+        123523
+      ]
     },
     {
       "id": 113888,
@@ -694,7 +1083,13 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113888/ultimate_spider-man_2024_11?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        122282,
+        123522,
+        123523,
+        124519
+      ]
     },
     {
       "id": 122274,
@@ -707,7 +1102,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122274/ultimate_spider-man_2024_12_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113889,
+        122275,
+        122283,
+        124520,
+        124721
+      ]
     },
     {
       "id": 122275,
@@ -720,7 +1122,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122275/ultimate_spider-man_2024_12_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113889,
+        122274,
+        122283,
+        124520,
+        124721
+      ]
     },
     {
       "id": 113889,
@@ -733,7 +1142,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113889/ultimate_spider-man_2024_12?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        122274,
+        122275,
+        122283,
+        124520,
+        124721
+      ]
     },
     {
       "id": 124520,
@@ -746,7 +1162,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124520/ultimate_spider-man_2024_12_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113889,
+        122274,
+        122275,
+        122283,
+        124721
+      ]
     },
     {
       "id": 124721,
@@ -759,7 +1182,14 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124721/ultimate_spider-man_2024_12_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113889,
+        122274,
+        122275,
+        122283,
+        124520
+      ]
     },
     {
       "id": 124925,
@@ -772,7 +1202,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124925/ultimate_spider-man_2024_13_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113890,
+        124926,
+        128623
+      ]
     },
     {
       "id": 124926,
@@ -785,7 +1220,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/124926/ultimate_spider-man_2024_13_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true
+      "isVariant": true,
+      "variants": [
+        113890,
+        124925,
+        128623
+      ]
     },
     {
       "id": 113890,
@@ -798,7 +1238,12 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113890/ultimate_spider-man_2024_13?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": [
+        124925,
+        124926,
+        128623
+      ]
     },
     {
       "id": 113891,
@@ -811,7 +1256,8 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113891/ultimate_spider-man_2024_14?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": []
     },
     {
       "id": 113892,
@@ -824,7 +1270,8 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113892/ultimate_spider-man_2024_15?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": []
     },
     {
       "id": 113893,
@@ -837,7 +1284,8 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113893/ultimate_spider-man_2024_16?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false
+      "isVariant": false,
+      "variants": []
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"
