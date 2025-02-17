@@ -22,6 +22,22 @@
       "variants": [
         115480
       ]
+    },
+    {
+      "id": 115480,
+      "title": "Ultimate Universe (2023) #1",
+      "issueNumber": 1,
+      "description": "",
+      "date": "2023-11-01T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/a0/6540ff3575e4a",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/115480/ultimate_universe_2023_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        112990
+      ]
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"

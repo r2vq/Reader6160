@@ -54,19 +54,19 @@ async function fetchData() {
         let changeMade = false;
         newData.forEach((series) => {
             const comicsFilePath = path.join(__dirname, 'docs', `comics-${series.id}.json`);
-            console.log(`Fetched ${series.title}. Attempting to write to disk.`);
+            console.log(`${series.title}: Attempting to write to disk.`);
             if (fs.existsSync(comicsFilePath)) {
                 const oldData = JSON.parse(fs.readFileSync(comicsFilePath, 'utf-8'));
                 if (JSON.stringify(oldData) == JSON.stringify(series)) {
-                    console.log('Data unchanged. Skipping update.');
+                    console.log(`${series.title}: Data unchanged. Skipping update.`);
                     return;
                 }
             } else {
-                console.log('Old files don\'t exist. Building directory if needed');
+                console.log(`${series.title}: Old files don\'t exist. Building directory if needed`);
                 fs.mkdirSync(path.dirname(comicsFilePath), { recursive: true });
             }
 
-            console.log('No problems found. Writing to disk.');
+            console.log(`${series.title}: No problems found. Writing to disk.`);
             fs.writeFileSync(comicsFilePath, JSON.stringify(series, null, 2));
             changeMade = true;
         });
@@ -169,7 +169,7 @@ async function getIssues(seriesId, offset = 0, allIssues = []) {
     console.log(`Getting issues for series ${seriesId}`);
     const ts = Date.now();
     const hash = createHash(ts, privateKey, publicKey);
-    const parsedUrl = `${baseUrl}v1/public/series/${seriesId}/comics?ts=${ts}&apikey=${publicKey}&hash=${hash}&format=comic&orderBy=issueNumber&limit=100&offset=${offset}`;
+    const parsedUrl = `${baseUrl}v1/public/series/${seriesId}/comics?ts=${ts}&apikey=${publicKey}&hash=${hash}&orderBy=issueNumber&limit=100&offset=${offset}`;
     try {
         const response = await axios.get(parsedUrl);
         const data = response.data.data;
