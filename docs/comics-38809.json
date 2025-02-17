@@ -138,7 +138,7 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115476/ultimate_spider-man_2024_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "isVariant": true,
       "variants": [
         114260,
         112985,
@@ -300,7 +300,7 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115477/ultimate_spider-man_2024_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "isVariant": true,
       "variants": [
         112987,
         114857,
@@ -468,7 +468,7 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115478/ultimate_spider-man_2024_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "isVariant": true,
       "variants": [
         112988,
         115371,
@@ -552,7 +552,7 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115479/ultimate_spider-man_2024_4?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "isVariant": true,
       "variants": [
         112989,
         116063,
@@ -699,7 +699,7 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122276/ultimate_spider-man_2024_5?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "isVariant": true,
       "variants": [
         113882,
         116511,
@@ -813,7 +813,7 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122277/ultimate_spider-man_2024_6?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "isVariant": true,
       "variants": [
         113883,
         118816,
@@ -907,7 +907,7 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122278/ultimate_spider-man_2024_7?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "isVariant": true,
       "variants": [
         113884,
         119723,
@@ -961,7 +961,7 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122279/ultimate_spider-man_2024_8?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "isVariant": true,
       "variants": [
         113885,
         121015,
@@ -1133,7 +1133,7 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122280/ultimate_spider-man_2024_9?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "isVariant": true,
       "variants": [
         113886,
         121393,
@@ -1207,7 +1207,7 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122281/ultimate_spider-man_2024_10?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "isVariant": true,
       "variants": [
         113887,
         122517,
@@ -1225,7 +1225,7 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122282/ultimate_spider-man_2024_11?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "isVariant": true,
       "variants": [
         113888,
         123522,
@@ -1320,7 +1320,7 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/122283/ultimate_spider-man_2024_12?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "isVariant": true,
       "variants": [
         113889,
         122274,
@@ -1476,7 +1476,7 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/128623/ultimate_spider-man_2024_13?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "isVariant": true,
       "variants": [
         113890,
         124925,

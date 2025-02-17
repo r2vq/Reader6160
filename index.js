@@ -107,7 +107,7 @@ async function parseSeries(seriesId, color) {
                 date: findDate(issue.dates, 'onsaleDate'),
                 thumbnail: imageString(issue.thumbnail),
                 detailUrl: findUrlOrFirst(issue.urls, 'detail'),
-                isVariant: issue.variantDescription === "Variant",
+                isVariant: issue.variantDescription === "Variant" || issue.format !== "Comic",
                 variants: issue.variants.map(({ resourceURI }) => getIdFromUri(resourceURI)),
             })),
             attributionText: series.attributionText,

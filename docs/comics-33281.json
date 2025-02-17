@@ -44,7 +44,7 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/116123/ultimate_invasion_2023_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "isVariant": true,
       "variants": [
         97145,
         108914,

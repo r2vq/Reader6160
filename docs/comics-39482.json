@@ -34,7 +34,7 @@
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/115480/ultimate_universe_2023_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "isVariant": true,
       "variants": [
         112990
       ]
