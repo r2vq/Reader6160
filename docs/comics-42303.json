@@ -27,6 +27,38 @@
         124930,
         124931,
         124932
+      ],
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 4991,
+          "name": "Frank Martin",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -49,6 +81,33 @@
         124930,
         124931,
         124932
+      ],
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 13748,
+          "name": "Josemaria Casanovas",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -71,6 +130,48 @@
         124930,
         124931,
         124932
+      ],
+      "creators": [
+        {
+          "id": 512,
+          "name": "Lee Bermejo",
+          "role": "painter (cover)"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 13055,
+          "name": "Richard Isanove",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 1249,
+          "name": "Steve Skroce",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -93,6 +194,38 @@
         124930,
         124931,
         124932
+      ],
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 13250,
+          "name": "Romulo Fajardo Jr.",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 758,
+          "name": "Leinil Francis Yu",
+          "role": "inker (cover)"
+        }
       ]
     },
     {
@@ -115,6 +248,33 @@
         124930,
         124931,
         124932
+      ],
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -137,6 +297,38 @@
         124929,
         124931,
         124932
+      ],
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14667,
+          "name": "Gleb Melnikov",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -159,6 +351,38 @@
         124929,
         124930,
         124932
+      ],
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 8522,
+          "name": "Gabriele Dell'otto",
+          "role": "painter (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -181,6 +405,38 @@
         124929,
         124930,
         124931
+      ],
+      "creators": [
+        {
+          "id": 512,
+          "name": "Lee Bermejo",
+          "role": "painter (cover)"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -195,7 +451,39 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/121271/ultimate_wolverine_2025_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": []
+      "variants": [],
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 4991,
+          "name": "Frank Martin",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        }
+      ]
     },
     {
       "id": 121272,
@@ -209,7 +497,39 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/121272/ultimate_wolverine_2025_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": []
+      "variants": [],
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 4991,
+          "name": "Frank Martin",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        }
+      ]
     },
     {
       "id": 121273,
@@ -223,7 +543,39 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/121273/ultimate_wolverine_2025_4?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": []
+      "variants": [],
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 4991,
+          "name": "Frank Martin",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        }
+      ]
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"

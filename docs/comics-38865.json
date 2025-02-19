@@ -27,6 +27,43 @@
         118821,
         118822,
         118914
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14157,
+          "name": "Alejandro Sanchez",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -49,6 +86,33 @@
         118820,
         118821,
         118822
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 10405,
+          "name": "John Tyler Christopher",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -71,6 +135,28 @@
         118820,
         118821,
         118914
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -93,6 +179,33 @@
         118820,
         118822,
         118914
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "penciler (cover)"
+        }
       ]
     },
     {
@@ -115,6 +228,43 @@
         118821,
         118822,
         118914
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13260,
+          "name": "Jp Mayer",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 1374,
+          "name": "Sonia Oback",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 1156,
+          "name": "Ryan Stegman",
+          "role": "penciler (cover)"
+        }
       ]
     },
     {
@@ -137,6 +287,33 @@
         118821,
         118822,
         118914
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -159,6 +336,38 @@
         118821,
         118822,
         118914
+      ],
+      "creators": [
+        {
+          "id": 11482,
+          "name": "Jesus Aburtov",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 10445,
+          "name": "Iban Coello",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -181,6 +390,38 @@
         118821,
         118822,
         118914
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -195,7 +436,44 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113212/ultimates_2024_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": []
+      "variants": [],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        }
+      ]
     },
     {
       "id": 121020,
@@ -213,6 +491,43 @@
         113213,
         120340,
         121019
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13274,
+          "name": "Emanuela Lupacchino",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12991,
+          "name": "Rachelle Rosenberg",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -231,6 +546,43 @@
         120340,
         121019,
         121020
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        }
       ]
     },
     {
@@ -249,6 +601,38 @@
         113213,
         121019,
         121020
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "painter (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -267,6 +651,43 @@
         113213,
         120340,
         121020
+      ],
+      "creators": [
+        {
+          "id": 11482,
+          "name": "Jesus Aburtov",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 13031,
+          "name": "Juann Cabal",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -287,6 +708,28 @@
         121398,
         121499,
         121500
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13459,
+          "name": "Phil Noto",
+          "role": "inker"
+        }
       ]
     },
     {
@@ -307,6 +750,28 @@
         121397,
         121499,
         121500
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13459,
+          "name": "Phil Noto",
+          "role": "inker"
+        }
       ]
     },
     {
@@ -327,6 +792,33 @@
         121397,
         121398,
         121500
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13459,
+          "name": "Phil Noto",
+          "role": "inker"
+        },
+        {
+          "id": 9364,
+          "name": "Rod Reis",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -347,6 +839,33 @@
         121397,
         121398,
         121499
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13602,
+          "name": "Francesco Mobili",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13459,
+          "name": "Phil Noto",
+          "role": "inker"
+        }
       ]
     },
     {
@@ -367,6 +886,38 @@
         121398,
         121499,
         121500
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13459,
+          "name": "Phil Noto",
+          "role": "inker"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        }
       ]
     },
     {
@@ -387,6 +938,33 @@
         121398,
         121499,
         121500
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13459,
+          "name": "Phil Noto",
+          "role": "inker"
+        }
       ]
     },
     {
@@ -405,6 +983,38 @@
         113922,
         120825,
         122522
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13235,
+          "name": "Geoffrey Shaw",
+          "role": "penciler (cover)"
+        }
       ]
     },
     {
@@ -423,6 +1033,38 @@
         113922,
         120825,
         122521
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 7413,
+          "name": "Paulo Siqueira",
+          "role": "penciler (cover)"
+        }
       ]
     },
     {
@@ -441,6 +1083,38 @@
         113922,
         122521,
         122522
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -459,6 +1133,43 @@
         120825,
         122521,
         122522
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        }
       ]
     },
     {
@@ -478,6 +1189,38 @@
         123526,
         123527,
         124530
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -497,6 +1240,43 @@
         123526,
         123527,
         124530
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        }
       ]
     },
     {
@@ -516,6 +1296,43 @@
         120826,
         123527,
         124530
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 11579,
+          "name": "Sunny Gho",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 758,
+          "name": "Leinil Francis Yu",
+          "role": "penciler (cover)"
+        }
       ]
     },
     {
@@ -535,6 +1352,38 @@
         120826,
         123526,
         124530
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13459,
+          "name": "Phil Noto",
+          "role": "painter (cover)"
+        }
       ]
     },
     {
@@ -554,6 +1403,38 @@
         120826,
         123526,
         123527
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 13748,
+          "name": "Josemaria Casanovas",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -572,6 +1453,43 @@
         123314,
         124531,
         124532
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        }
       ]
     },
     {
@@ -590,6 +1508,38 @@
         113924,
         124531,
         124532
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -608,6 +1558,38 @@
         113924,
         123314,
         124531
+      ],
+      "creators": [
+        {
+          "id": 9018,
+          "name": "Mahmud Asrar",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -626,6 +1608,38 @@
         113924,
         123314,
         124532
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13929,
+          "name": "Miguel Mercado",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -643,6 +1657,38 @@
       "variants": [
         113925,
         123315
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 9408,
+          "name": "Sara Pichelli",
+          "role": "inker (cover)"
+        }
       ]
     },
     {
@@ -660,6 +1706,43 @@
       "variants": [
         123315,
         124934
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        }
       ]
     },
     {
@@ -677,6 +1760,33 @@
       "variants": [
         113925,
         124934
+      ],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -695,6 +1805,38 @@
         113926,
         123316,
         126009
+      ],
+      "creators": [
+        {
+          "id": 14669,
+          "name": "Chris Allen",
+          "role": "penciler"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 14111,
+          "name": "Taurin Clarke",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -713,6 +1855,43 @@
         113926,
         123316,
         126010
+      ],
+      "creators": [
+        {
+          "id": 14669,
+          "name": "Chris Allen",
+          "role": "penciler"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 14667,
+          "name": "Gleb Melnikov",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -731,6 +1910,38 @@
         113926,
         126009,
         126010
+      ],
+      "creators": [
+        {
+          "id": 14669,
+          "name": "Chris Allen",
+          "role": "penciler"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -749,6 +1960,43 @@
         123316,
         126009,
         126010
+      ],
+      "creators": [
+        {
+          "id": 14669,
+          "name": "Chris Allen",
+          "role": "penciler"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        }
       ]
     },
     {
@@ -763,7 +2011,44 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113927/ultimates_2024_10?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": []
+      "variants": [],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        }
+      ]
     },
     {
       "id": 113928,
@@ -777,7 +2062,44 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113928/ultimates_2024_11?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": []
+      "variants": [],
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        }
+      ]
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"

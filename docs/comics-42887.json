@@ -27,6 +27,43 @@
         124525,
         124527,
         124722
+      ],
+      "creators": [
+        {
+          "id": 13098,
+          "name": "Rafael Albuquerque",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -49,6 +86,38 @@
         124525,
         124527,
         124722
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 17,
+          "name": "Frank Miller",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -71,6 +140,33 @@
         124525,
         124527,
         124722
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        }
       ]
     },
     {
@@ -93,6 +189,28 @@
         124525,
         124527,
         124722
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        }
       ]
     },
     {
@@ -115,6 +233,33 @@
         124525,
         124527,
         124722
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        }
       ]
     },
     {
@@ -137,6 +282,38 @@
         124524,
         124527,
         124722
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        }
       ]
     },
     {
@@ -159,6 +336,33 @@
         124524,
         124525,
         124722
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 13748,
+          "name": "Josemaria Casanovas",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        }
       ]
     },
     {
@@ -181,6 +385,38 @@
         124524,
         124525,
         124527
+      ],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        }
       ]
     }
   ],

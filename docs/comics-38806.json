@@ -26,6 +26,33 @@
         114854,
         114855,
         114856
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -47,6 +74,33 @@
         114853,
         114854,
         114855
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -68,6 +122,43 @@
         114853,
         114854,
         114856
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14591,
+          "name": "Ethan Young",
+          "role": "penciler (cover)"
+        }
       ]
     },
     {
@@ -89,6 +180,43 @@
         114853,
         114855,
         114856
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 735,
+          "name": "Travel Foreman",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 12991,
+          "name": "Rachelle Rosenberg",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -110,6 +238,43 @@
         114854,
         114855,
         114856
+      ],
+      "creators": [
+        {
+          "id": 12604,
+          "name": "Jim Campbell",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 14380,
+          "name": "Karen Darboe",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -131,6 +296,38 @@
         114854,
         114855,
         114856
+      ],
+      "creators": [
+        {
+          "id": 14073,
+          "name": "B BossLogic",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -152,6 +349,33 @@
         114854,
         114855,
         114856
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -171,6 +395,33 @@
         115369,
         115370,
         116208
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -190,6 +441,33 @@
         115368,
         115369,
         115370
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -209,6 +487,43 @@
         115368,
         115369,
         116208
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13250,
+          "name": "Romulo Fajardo Jr.",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13602,
+          "name": "Francesco Mobili",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -228,6 +543,38 @@
         115368,
         115370,
         116208
+      ],
+      "creators": [
+        {
+          "id": 12765,
+          "name": "Natacha Bustos",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -247,6 +594,38 @@
         115369,
         115370,
         116208
+      ],
+      "creators": [
+        {
+          "id": 14073,
+          "name": "B BossLogic",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -266,6 +645,43 @@
         115680,
         116060,
         116209
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13106,
+          "name": "Joshua Cassara",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 12239,
+          "name": "Guru Efx",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -285,6 +701,33 @@
         115680,
         116059,
         116060
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -304,6 +747,38 @@
         115680,
         116059,
         116209
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14381,
+          "name": "Skan Srisuwan",
+          "role": "penciler (cover)"
+        }
       ]
     },
     {
@@ -323,6 +798,38 @@
         116059,
         116060,
         116209
+      ],
+      "creators": [
+        {
+          "id": 14073,
+          "name": "B BossLogic",
+          "role": "painter (cover)"
+        },
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -342,6 +849,33 @@
         116059,
         116060,
         116209
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -360,6 +894,38 @@
         112984,
         116509,
         120808
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 14144,
+          "name": "D Doaly",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -378,6 +944,38 @@
         112984,
         116510,
         120808
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14082,
+          "name": "R Rahzzah",
+          "role": "penciler (cover)"
+        }
       ]
     },
     {
@@ -396,6 +994,38 @@
         112984,
         116509,
         116510
+      ],
+      "creators": [
+        {
+          "id": 14073,
+          "name": "B BossLogic",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -414,6 +1044,33 @@
         116509,
         116510,
         120808
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -432,6 +1089,33 @@
         113862,
         118814,
         120809
+      ],
+      "creators": [
+        {
+          "id": 14111,
+          "name": "Taurin Clarke",
+          "role": "painter (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "penciler"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -450,6 +1134,33 @@
         113862,
         118815,
         120809
+      ],
+      "creators": [
+        {
+          "id": 600,
+          "name": "Clayton Crain",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "penciler"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -468,6 +1179,33 @@
         113862,
         118814,
         118815
+      ],
+      "creators": [
+        {
+          "id": 14073,
+          "name": "B BossLogic",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "penciler"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -486,6 +1224,38 @@
         118814,
         118815,
         120809
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "penciler"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -500,7 +1270,39 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113863/ultimate_black_panther_2024_6?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": []
+      "variants": [],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "penciler"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
     },
     {
       "id": 113864,
@@ -517,6 +1319,33 @@
       "variants": [
         121013,
         121014
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -534,6 +1363,38 @@
       "variants": [
         113864,
         121014
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13558,
+          "name": "Juan Ferreyra",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -551,6 +1412,43 @@
       "variants": [
         113864,
         121013
+      ],
+      "creators": [
+        {
+          "id": 9018,
+          "name": "Mahmud Asrar",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -570,6 +1468,38 @@
         121389,
         121390,
         121493
+      ],
+      "creators": [
+        {
+          "id": 1141,
+          "name": "Giuseppe Camuncoli",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -589,6 +1519,33 @@
         121390,
         121493,
         121494
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -608,6 +1565,33 @@
         121389,
         121493,
         121494
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -627,6 +1611,38 @@
         121389,
         121390,
         121494
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 12449,
+          "name": "Russell Dauterman",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -646,6 +1662,33 @@
         121390,
         121493,
         121494
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -663,6 +1706,33 @@
       "variants": [
         122514,
         122515
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -680,6 +1750,38 @@
       "variants": [
         113866,
         122515
+      ],
+      "creators": [
+        {
+          "id": 14581,
+          "name": "Mitsuhiro Arita",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -697,6 +1799,38 @@
       "variants": [
         113866,
         122514
+      ],
+      "creators": [
+        {
+          "id": 13098,
+          "name": "Rafael Albuquerque",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -714,6 +1848,38 @@
       "variants": [
         123520,
         123521
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -731,6 +1897,43 @@
       "variants": [
         113867,
         123521
+      ],
+      "creators": [
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12936,
+          "name": "Sean Izaakse",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13003,
+          "name": "Nolan Woodard",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -748,6 +1951,38 @@
       "variants": [
         113867,
         123520
+      ],
+      "creators": [
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 425,
+          "name": "Greg Land",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -766,6 +2001,28 @@
         113868,
         124499,
         124500
+      ],
+      "creators": [
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 14655,
+          "name": "Puppeteer Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -784,6 +2041,33 @@
         124498,
         124499,
         124500
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -802,6 +2086,28 @@
         113868,
         124498,
         124500
+      ],
+      "creators": [
+        {
+          "id": 13748,
+          "name": "Josemaria Casanovas",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -820,6 +2126,28 @@
         113868,
         124498,
         124499
+      ],
+      "creators": [
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 9408,
+          "name": "Sara Pichelli",
+          "role": "penciler (cover)"
+        }
       ]
     },
     {
@@ -837,6 +2165,38 @@
       "variants": [
         113869,
         124924
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13459,
+          "name": "Phil Noto",
+          "role": "painter (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -854,6 +2214,38 @@
       "variants": [
         113869,
         124923
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 10785,
+          "name": "Stephanie Hans",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -871,6 +2263,33 @@
       "variants": [
         124923,
         124924
+      ],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
       ]
     },
     {
@@ -885,7 +2304,34 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113870/ultimate_black_panther_2024_13?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": []
+      "variants": [],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
     },
     {
       "id": 113871,
@@ -899,7 +2345,39 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113871/ultimate_black_panther_2024_14?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": []
+      "variants": [],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
     },
     {
       "id": 113872,
@@ -913,7 +2391,34 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113872/ultimate_black_panther_2024_15?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": []
+      "variants": [],
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"

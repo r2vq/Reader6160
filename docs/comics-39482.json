@@ -21,6 +21,43 @@
       "isVariant": false,
       "variants": [
         115480
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -37,6 +74,13 @@
       "isVariant": true,
       "variants": [
         112990
+      ],
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
       ]
     }
   ],

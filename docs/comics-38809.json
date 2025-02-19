@@ -29,6 +29,33 @@
         114263,
         114264,
         114690
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -53,6 +80,38 @@
         114264,
         114690,
         114691
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11610,
+          "name": "David Marquez",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -77,6 +136,33 @@
         114264,
         114690,
         114691
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -101,6 +187,38 @@
         114264,
         114690,
         114691
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 14299,
+          "name": "Mateus Manhanini",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -125,6 +243,38 @@
         114264,
         114690,
         114691
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 354,
+          "name": "Tony Daniel",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -149,6 +299,13 @@
         114264,
         114690,
         114691
+      ],
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -173,6 +330,33 @@
         114264,
         114690,
         114691
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -197,6 +381,33 @@
         114263,
         114690,
         114691
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -221,6 +432,33 @@
         114263,
         114264,
         114691
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -245,6 +483,33 @@
         114264,
         114690,
         114691
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -266,6 +531,38 @@
         114859,
         114860,
         116238
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 14299,
+          "name": "Mateus Manhanini",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -287,6 +584,38 @@
         114858,
         114859,
         114860
+      ],
+      "creators": [
+        {
+          "id": 87,
+          "name": "Mark Bagley",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -308,6 +637,13 @@
         114859,
         114860,
         116238
+      ],
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -329,6 +665,38 @@
         114859,
         114860,
         116238
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 12832,
+          "name": "Elizabeth Torque",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -350,6 +718,38 @@
         114858,
         114860,
         116238
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -371,6 +771,33 @@
         114858,
         114859,
         116238
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -392,6 +819,33 @@
         114859,
         114860,
         116238
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -413,6 +867,38 @@
         115373,
         116062,
         116239
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 11309,
+          "name": "Mike Del Mundo",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -434,6 +920,38 @@
         115373,
         116062,
         116239
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 14299,
+          "name": "Mateus Manhanini",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -455,6 +973,43 @@
         115372,
         116062,
         116239
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 425,
+          "name": "Greg Land",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 479,
+          "name": "Paul Mounts",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -476,6 +1031,13 @@
         115373,
         116062,
         116239
+      ],
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -497,6 +1059,38 @@
         115372,
         115373,
         116239
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 12832,
+          "name": "Elizabeth Torque",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -518,6 +1112,43 @@
         115372,
         115373,
         116062
+      ],
+      "creators": [
+        {
+          "id": 87,
+          "name": "Mark Bagley",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -539,6 +1170,33 @@
         115373,
         116062,
         116239
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -560,6 +1218,13 @@
         116066,
         116580,
         120813
+      ],
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -581,6 +1246,43 @@
         116066,
         116580,
         120813
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 12996,
+          "name": "Ian Herring",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 12832,
+          "name": "Elizabeth Torque",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -602,6 +1304,38 @@
         116066,
         116580,
         120813
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 7718,
+          "name": "Sanford Greene",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -623,6 +1357,33 @@
         116065,
         116066,
         120813
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -644,6 +1405,38 @@
         116065,
         116066,
         116580
+      ],
+      "creators": [
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 14299,
+          "name": "Mateus Manhanini",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -665,6 +1458,33 @@
         116065,
         116580,
         120813
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -686,6 +1506,38 @@
         116066,
         116580,
         120813
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -705,6 +1557,13 @@
         116511,
         116512,
         120814
+      ],
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -724,6 +1583,38 @@
         113882,
         116511,
         116512
+      ],
+      "creators": [
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 14299,
+          "name": "Mateus Manhanini",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -743,6 +1634,43 @@
         116511,
         116512,
         120814
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 12974,
+          "name": "Vc Joe Sabino",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -762,6 +1690,48 @@
         113882,
         116511,
         120814
+      ],
+      "creators": [
+        {
+          "id": 14280,
+          "name": "Marc Aspinall",
+          "role": "painter (cover)"
+        },
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 12974,
+          "name": "Vc Joe Sabino",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -781,6 +1751,38 @@
         113882,
         116512,
         120814
+      ],
+      "creators": [
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 12825,
+          "name": "Leonardo Romero",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -800,6 +1802,38 @@
         113883,
         118816,
         120815
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11610,
+          "name": "David Marquez",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -819,6 +1853,13 @@
         118816,
         118817,
         120815
+      ],
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -838,6 +1879,38 @@
         113883,
         118816,
         118817
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 14299,
+          "name": "Mateus Manhanini",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -857,6 +1930,33 @@
         113883,
         118817,
         120815
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -876,6 +1976,33 @@
         118816,
         118817,
         120815
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -894,6 +2021,33 @@
         122278,
         119723,
         119724
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -912,6 +2066,13 @@
         113884,
         119723,
         119724
+      ],
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -930,6 +2091,38 @@
         122278,
         113884,
         119724
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 14122,
+          "name": "Marco Mastrazzo",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -948,6 +2141,38 @@
         122278,
         113884,
         119723
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 14144,
+          "name": "D Doaly",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -966,6 +2191,13 @@
         113885,
         121015,
         121016
+      ],
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -984,6 +2216,38 @@
         122279,
         113885,
         121015
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 8933,
+          "name": "Lee Garbett",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1002,6 +2266,38 @@
         122279,
         113885,
         121016
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 11961,
+          "name": "Luciano Vecchio",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1020,6 +2316,33 @@
         122279,
         121015,
         121016
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -1040,6 +2363,33 @@
         121394,
         121495,
         121496
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -1060,6 +2410,33 @@
         121394,
         121495,
         121496
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1080,6 +2457,33 @@
         121393,
         121495,
         121496
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1100,6 +2504,43 @@
         121393,
         121394,
         121496
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 14449,
+          "name": "Ceci De La Cruz",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14625,
+          "name": "Anand Ramcheron",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1120,6 +2561,38 @@
         121393,
         121394,
         121495
+      ],
+      "creators": [
+        {
+          "id": 12385,
+          "name": "Carmen Carnero",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1140,6 +2613,13 @@
         121394,
         121495,
         121496
+      ],
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -1158,6 +2638,38 @@
         122281,
         113887,
         122517
+      ],
+      "creators": [
+        {
+          "id": 14443,
+          "name": "Ben Harvey",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1176,6 +2688,38 @@
         122281,
         122517,
         122518
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -1194,6 +2738,38 @@
         122281,
         113887,
         122518
+      ],
+      "creators": [
+        {
+          "id": 13025,
+          "name": "Bengal",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1212,6 +2788,13 @@
         113887,
         122517,
         122518
+      ],
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -1231,6 +2814,13 @@
         123522,
         123523,
         124519
+      ],
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -1250,6 +2840,38 @@
         123522,
         123523,
         124519
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -1269,6 +2891,43 @@
         122282,
         123523,
         124519
+      ],
+      "creators": [
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 14530,
+          "name": "Corin Howell",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 12991,
+          "name": "Rachelle Rosenberg",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1288,6 +2947,43 @@
         122282,
         123522,
         124519
+      ],
+      "creators": [
+        {
+          "id": 592,
+          "name": "Rachel Dodson",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 277,
+          "name": "Terry Dodson",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1307,6 +3003,38 @@
         122282,
         123522,
         123523
+      ],
+      "creators": [
+        {
+          "id": 13748,
+          "name": "Josemaria Casanovas",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1327,6 +3055,13 @@
         122275,
         124520,
         124721
+      ],
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -1347,6 +3082,38 @@
         122275,
         122283,
         124721
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 10144,
+          "name": "Pepe Larraz",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1367,6 +3134,33 @@
         122283,
         124520,
         124721
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1387,6 +3181,38 @@
         122283,
         124520,
         124721
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 13273,
+          "name": "Jeehyung Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1407,6 +3233,33 @@
         122283,
         124520,
         124721
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -1427,6 +3280,38 @@
         122275,
         122283,
         124520
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 208,
+          "name": "Paco Medina",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1445,6 +3330,43 @@
         113890,
         124926,
         128623
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 425,
+          "name": "Greg Land",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 479,
+          "name": "Paul Mounts",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1463,6 +3385,43 @@
         113890,
         124925,
         128623
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 13674,
+          "name": "Espen Grundetjern",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14582,
+          "name": "Gavin Guidry",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -1481,6 +3440,13 @@
         113890,
         124925,
         124926
+      ],
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
       ]
     },
     {
@@ -1499,6 +3465,33 @@
         124925,
         124926,
         128623
+      ],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -1513,7 +3506,34 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113891/ultimate_spider-man_2024_14?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": []
+      "variants": [],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
+      ]
     },
     {
       "id": 113892,
@@ -1527,7 +3547,39 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113892/ultimate_spider-man_2024_15?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": []
+      "variants": [],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
+      ]
     },
     {
       "id": 113893,
@@ -1541,7 +3593,34 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113893/ultimate_spider-man_2024_16?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": []
+      "variants": [],
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
+      ]
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"

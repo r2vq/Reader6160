@@ -19,7 +19,54 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/114059/free_comic_book_day_2024_ultimate_universespider-man_2024_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": []
+      "variants": [],
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12174,
+          "name": "Al Ewing",
+          "role": "writer"
+        },
+        {
+          "id": 10409,
+          "name": "Zeb Wells",
+          "role": "writer"
+        },
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 10445,
+          "name": "Iban Coello",
+          "role": "inker"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 13260,
+          "name": "Jp Mayer",
+          "role": "inker"
+        },
+        {
+          "id": 4300,
+          "name": "Nick Lowe",
+          "role": "editor"
+        },
+        {
+          "id": 1156,
+          "name": "Ryan Stegman",
+          "role": "penciler"
+        }
+      ]
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"

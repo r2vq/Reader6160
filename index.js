@@ -101,23 +101,32 @@ async function parseSeries(seriesId, color) {
             title: series.title,
             thumbnail: imageString(thumbnail),
             color: color,
-            issues: issues.map(issue => ({
-                id: issue.id,
-                title: issue.title,
-                issueNumber: issue.issueNumber,
-                description: issue.description,
-                date: findDate(issue.dates, 'onsaleDate'),
-                thumbnail: imageString(issue.thumbnail),
-                detailUrl: findUrlOrFirst(issue.urls, 'detail'),
-                isVariant: issue.variantDescription === "Variant" || issue.format !== "Comic",
-                variants: issue.variants.map(({ resourceURI }) => getIdFromUri(resourceURI)),
-            })),
+            issues: issues.map(parseIssue),
             attributionText: series.attributionText,
         };
     } catch (error) {
         console.error(`Error processing series: ${seriesId}:`, error);
         return null;
     }
+}
+
+function parseIssue(issue) {
+    return {
+        id: issue.id,
+        title: issue.title,
+        issueNumber: issue.issueNumber,
+        description: issue.description,
+        date: findDate(issue.dates, 'onsaleDate'),
+        thumbnail: imageString(issue.thumbnail),
+        detailUrl: findUrlOrFirst(issue.urls, 'detail'),
+        isVariant: issue.variantDescription === "Variant" || issue.format !== "Comic",
+        variants: issue.variants.map(({ resourceURI }) => getIdFromUri(resourceURI)),
+        creators: issue.creators.items.map(({resourceURI, name, role}) => ({
+            id: getIdFromUri(resourceURI),
+            name,
+            role,
+        })),
+    };
 }
 
 function getIdFromUri(uri) {

@@ -31,6 +31,48 @@
         109477,
         109901,
         111748
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -57,7 +99,8 @@
         109477,
         109901,
         111748
-      ]
+      ],
+      "creators": []
     },
     {
       "id": 111748,
@@ -83,6 +126,43 @@
         109476,
         109477,
         109901
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -109,6 +189,53 @@
         109476,
         109477,
         111748
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 4306,
+          "name": "Laura Martin",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 649,
+          "name": "Ed Mcguinness",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -135,6 +262,43 @@
         109476,
         109901,
         111748
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -161,6 +325,53 @@
         109477,
         109901,
         111748
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 658,
+          "name": "Ron Lim",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13052,
+          "name": "Israel Silva",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -187,6 +398,43 @@
         109477,
         109901,
         111748
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -213,6 +461,48 @@
         109477,
         109901,
         111748
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 10405,
+          "name": "John Tyler Christopher",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -239,6 +529,43 @@
         109477,
         109901,
         111748
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -265,6 +592,48 @@
         109477,
         109901,
         111748
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 12449,
+          "name": "Russell Dauterman",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -291,6 +660,43 @@
         109477,
         109901,
         111748
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -317,6 +723,53 @@
         109477,
         109901,
         111748
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 9408,
+          "name": "Sara Pichelli",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -331,7 +784,39 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/97147/ultimate_invasion_2023_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": []
+      "variants": [],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist (cover)"
+        }
+      ]
     },
     {
       "id": 110686,
@@ -348,6 +833,43 @@
       "variants": [
         97148,
         110687
+      ],
+      "creators": [
+        {
+          "id": 1004,
+          "name": "Daniel Acuna",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -365,6 +887,43 @@
       "variants": [
         97148,
         110686
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14185,
+          "name": "Alan Quah",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -382,6 +941,38 @@
       "variants": [
         110686,
         110687
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -399,6 +990,38 @@
       "variants": [
         111897,
         111898
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist (cover)"
+        }
       ]
     },
     {
@@ -416,6 +1039,43 @@
       "variants": [
         97149,
         111898
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 14179,
+          "name": "Francis Manapul",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        }
       ]
     },
     {
@@ -433,6 +1093,43 @@
       "variants": [
         97149,
         111897
+      ],
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        },
+        {
+          "id": 758,
+          "name": "Leinil Francis Yu",
+          "role": "penciler (cover)"
+        }
       ]
     }
   ],
