@@ -54,19 +54,19 @@ async function fetchData() {
         let changeMade = false;
         newData.forEach((series) => {
             const comicsFilePath = path.join(__dirname, 'docs', `comics-${series.id}.json`);
-            console.log(`${series.title}: Attempting to write to disk.`);
+            console.log(`\nParsing: (${series.id}) ${series.title}`);
             if (fs.existsSync(comicsFilePath)) {
                 const oldData = JSON.parse(fs.readFileSync(comicsFilePath, 'utf-8'));
                 if (JSON.stringify(oldData) == JSON.stringify(series)) {
-                    console.log(`${series.title}: Data unchanged. Skipping update.`);
+                    console.log(`Data unchanged. Skipping update.`);
                     return;
                 }
             } else {
-                console.log(`${series.title}: Old files don\'t exist. Building directory if needed`);
+                console.log(`Old files don\'t exist. Building directory if needed`);
                 fs.mkdirSync(path.dirname(comicsFilePath), { recursive: true });
             }
 
-            console.log(`${series.title}: No problems found. Writing to disk.`);
+            console.log(`No problems found. Writing to disk.`);
             fs.writeFileSync(comicsFilePath, JSON.stringify(series, null, 2));
             changeMade = true;
         });
@@ -82,7 +82,7 @@ async function fetchData() {
         };
 
         fs.writeFileSync(metaFilePath, JSON.stringify(meta, null, 2));
-        console.log('Data updated successfully.');
+        console.log('\nData updated successfully.');
         process.exit(0);
     } catch (error) {
         console.error('Error fetching or processing data:', error);
@@ -94,10 +94,12 @@ async function parseSeries(seriesId, color) {
     try {
         const series = await getSeries(seriesId);
         const issues = await getIssues(seriesId);
+
+        let thumbnail = findSeriesThumbnail(series, issues);
         return {
             id: seriesId,
             title: series.title,
-            thumbnail: imageString(series.thumbnail),
+            thumbnail: imageString(thumbnail),
             color: color,
             issues: issues.map(issue => ({
                 id: issue.id,
@@ -120,6 +122,31 @@ async function parseSeries(seriesId, color) {
 
 function getIdFromUri(uri) {
     return parseInt(uri.split("/").at(-1), 10);
+}
+
+/**
+ * Returns the thumbnail for the series if one is found. If the existing thumbnail
+ * matches the "not available" pattern that the API returns, this will return the
+ * thumbnail of the first comic issue's non-variant thumbnail. If no comic issues
+ * that are non-variant are found, this will fall back to the series thumbnail even
+ * though it's the "not available" image.
+ *
+ * @param {*} series The series we want the thumbnail for
+ * @param {*} issues The list of issues to fall back on
+ * @returns An image item
+ */
+function findSeriesThumbnail(series, issues) {
+    const isMissingThumbnail = series.thumbnail.path.includes("image_not_available");
+    if (!isMissingThumbnail) {
+        return series.thumbnail;
+    }
+
+    const firstIssue = issues.find(issue => issue.issueNumber === 1 && issue.format === "Comic" && issue.variantDescription !== "Variant");
+    if (firstIssue == undefined) {
+        return series.thumbnail;
+    }
+
+    return firstIssue.thumbnail;
 }
 
 function findUrlOrFirst(urls, type) {
