@@ -3623,5 +3623,107 @@
       ]
     }
   ],
+  "creators": [
+    {
+      "id": 14280,
+      "name": "Marc Aspinall",
+      "role": "painter (cover)"
+    },
+    {
+      "id": 87,
+      "name": "Mark Bagley",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13025,
+      "name": "Bengal",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13748,
+      "name": "Josemaria Casanovas",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 11748,
+      "name": "Marco Checchetto",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 354,
+      "name": "Tony Daniel",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14144,
+      "name": "D Doaly",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 277,
+      "name": "Terry Dodson",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 8933,
+      "name": "Lee Garbett",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 7718,
+      "name": "Sanford Greene",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14443,
+      "name": "Ben Harvey",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14530,
+      "name": "Corin Howell",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 12385,
+      "name": "Carmen Carnero",
+      "role": "inker (cover)"
+    },
+    {
+      "id": 14582,
+      "name": "Gavin Guidry",
+      "role": "inker (cover)"
+    },
+    {
+      "id": 14449,
+      "name": "Ceci De La Cruz",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 430,
+      "name": "Edgar Delgado",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 592,
+      "name": "Rachel Dodson",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 13674,
+      "name": "Espen Grundetjern",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 12996,
+      "name": "Ian Herring",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 11743,
+      "name": "Jonathan Hickman",
+      "role": "writer"
+    }
+  ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"
 }

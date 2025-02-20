@@ -2421,5 +2421,107 @@
       ]
     }
   ],
+  "creators": [
+    {
+      "id": 13098,
+      "name": "Rafael Albuquerque",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14581,
+      "name": "Mitsuhiro Arita",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 9018,
+      "name": "Mahmud Asrar",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14073,
+      "name": "B BossLogic",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 12765,
+      "name": "Natacha Bustos",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13748,
+      "name": "Josemaria Casanovas",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 1133,
+      "name": "Stefano Caselli",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13106,
+      "name": "Joshua Cassara",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 600,
+      "name": "Clayton Crain",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14380,
+      "name": "Karen Darboe",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14144,
+      "name": "D Doaly",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13558,
+      "name": "Juan Ferreyra",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 735,
+      "name": "Travel Foreman",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 12604,
+      "name": "Jim Campbell",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 13021,
+      "name": "David Curiel",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 12449,
+      "name": "Russell Dauterman",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 12239,
+      "name": "Guru Efx",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 13250,
+      "name": "Romulo Fajardo Jr.",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 1141,
+      "name": "Giuseppe Camuncoli",
+      "role": "inker (cover)"
+    },
+    {
+      "id": 14111,
+      "name": "Taurin Clarke",
+      "role": "painter (cover)"
+    }
+  ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"
 }

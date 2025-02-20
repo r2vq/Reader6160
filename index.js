@@ -102,6 +102,7 @@ async function parseSeries(seriesId, color) {
             thumbnail: imageString(thumbnail),
             color: color,
             issues: issues.map(parseIssue),
+            creators: series.creators.items.map(parseCreator),
             attributionText: series.attributionText,
         };
     } catch (error) {
@@ -121,11 +122,15 @@ function parseIssue(issue) {
         detailUrl: findUrlOrFirst(issue.urls, 'detail'),
         isVariant: issue.variantDescription === "Variant" || issue.format !== "Comic",
         variants: issue.variants.map(({ resourceURI }) => getIdFromUri(resourceURI)),
-        creators: issue.creators.items.map(({resourceURI, name, role}) => ({
-            id: getIdFromUri(resourceURI),
-            name,
-            role,
-        })),
+        creators: issue.creators.items.map(parseCreator),
+    };
+}
+
+function parseCreator({resourceURI, name, role}) {
+    return {
+        id: getIdFromUri(resourceURI),
+        name,
+        role,
     };
 }
 

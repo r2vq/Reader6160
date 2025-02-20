@@ -69,5 +69,52 @@
       ]
     }
   ],
+  "creators": [
+    {
+      "id": 14547,
+      "name": "Deniz Camp",
+      "role": "writer"
+    },
+    {
+      "id": 12174,
+      "name": "Al Ewing",
+      "role": "writer"
+    },
+    {
+      "id": 10409,
+      "name": "Zeb Wells",
+      "role": "writer"
+    },
+    {
+      "id": 5251,
+      "name": "Vc Joe Caramagna",
+      "role": "letterer"
+    },
+    {
+      "id": 10445,
+      "name": "Iban Coello",
+      "role": "inker"
+    },
+    {
+      "id": 12624,
+      "name": "Juan Frigeri",
+      "role": "inker"
+    },
+    {
+      "id": 13260,
+      "name": "Jp Mayer",
+      "role": "inker"
+    },
+    {
+      "id": 4300,
+      "name": "Nick Lowe",
+      "role": "editor"
+    },
+    {
+      "id": 1156,
+      "name": "Ryan Stegman",
+      "role": "penciler"
+    }
+  ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"
 }

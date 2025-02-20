@@ -2102,5 +2102,107 @@
       ]
     }
   ],
+  "creators": [
+    {
+      "id": 11482,
+      "name": "Jesus Aburtov",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 430,
+      "name": "Edgar Delgado",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 11579,
+      "name": "Sunny Gho",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 13675,
+      "name": "Neeraj Menon",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 14669,
+      "name": "Chris Allen",
+      "role": "penciler"
+    },
+    {
+      "id": 9018,
+      "name": "Mahmud Asrar",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13031,
+      "name": "Juann Cabal",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13748,
+      "name": "Josemaria Casanovas",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 10405,
+      "name": "John Tyler Christopher",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14111,
+      "name": "Taurin Clarke",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 10445,
+      "name": "Iban Coello",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 339,
+      "name": "Bryan Hitch",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13138,
+      "name": "In-Hyuk Lee",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13274,
+      "name": "Emanuela Lupacchino",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14667,
+      "name": "Gleb Melnikov",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13180,
+      "name": "Federico Blee",
+      "role": "colorist"
+    },
+    {
+      "id": 14547,
+      "name": "Deniz Camp",
+      "role": "writer"
+    },
+    {
+      "id": 12624,
+      "name": "Juan Frigeri",
+      "role": "inker"
+    },
+    {
+      "id": 12993,
+      "name": "Vc Travis Lanham",
+      "role": "letterer"
+    },
+    {
+      "id": 13260,
+      "name": "Jp Mayer",
+      "role": "inker (cover)"
+    }
+  ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"
 }

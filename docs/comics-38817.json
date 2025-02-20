@@ -2434,5 +2434,107 @@
       ]
     }
   ],
+  "creators": [
+    {
+      "id": 12432,
+      "name": "Ian Bertram",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 694,
+      "name": "Mark Brooks",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13748,
+      "name": "Josemaria Casanovas",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13945,
+      "name": "Derrick Chew",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 1052,
+      "name": "Mike Choi",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14111,
+      "name": "Taurin Clarke",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14266,
+      "name": "Betsy Cola",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 354,
+      "name": "Tony Daniel",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13669,
+      "name": "Nao Fuji",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13431,
+      "name": "Rian Gonzales",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 10785,
+      "name": "Stephanie Hans",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 12849,
+      "name": "Meghan Hetrick",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 10144,
+      "name": "Pepe Larraz",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13138,
+      "name": "In-Hyuk Lee",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14299,
+      "name": "Mateus Manhanini",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13682,
+      "name": "PEACH MOMOKO",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 11930,
+      "name": "Tradd Moore",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 12385,
+      "name": "Carmen Carnero",
+      "role": "inker (cover)"
+    },
+    {
+      "id": 872,
+      "name": "Marte Gracia",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 12993,
+      "name": "Vc Travis Lanham",
+      "role": "letterer"
+    }
+  ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"
 }
