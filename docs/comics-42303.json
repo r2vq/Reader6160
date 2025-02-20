@@ -28,6 +28,7 @@
         124931,
         124932
       ],
+      "variantBaseId": 121270,
       "creators": [
         {
           "id": 14220,
@@ -82,6 +83,7 @@
         124931,
         124932
       ],
+      "variantBaseId": 121270,
       "creators": [
         {
           "id": 14220,
@@ -131,6 +133,7 @@
         124931,
         124932
       ],
+      "variantBaseId": 121270,
       "creators": [
         {
           "id": 512,
@@ -195,6 +198,7 @@
         124931,
         124932
       ],
+      "variantBaseId": 121270,
       "creators": [
         {
           "id": 14220,
@@ -249,6 +253,7 @@
         124931,
         124932
       ],
+      "variantBaseId": 121270,
       "creators": [
         {
           "id": 14220,
@@ -298,6 +303,7 @@
         124931,
         124932
       ],
+      "variantBaseId": 121270,
       "creators": [
         {
           "id": 14220,
@@ -352,6 +358,7 @@
         124930,
         124932
       ],
+      "variantBaseId": 121270,
       "creators": [
         {
           "id": 14220,
@@ -406,6 +413,7 @@
         124930,
         124931
       ],
+      "variantBaseId": 121270,
       "creators": [
         {
           "id": 512,
@@ -452,6 +460,7 @@
       "detailUrl": "https://marvel.com/comics/issue/121271/ultimate_wolverine_2025_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
       "variants": [],
+      "variantBaseId": 121271,
       "creators": [
         {
           "id": 14220,
@@ -498,6 +507,7 @@
       "detailUrl": "https://marvel.com/comics/issue/121272/ultimate_wolverine_2025_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
       "variants": [],
+      "variantBaseId": 121272,
       "creators": [
         {
           "id": 14220,
@@ -544,6 +554,205 @@
       "detailUrl": "https://marvel.com/comics/issue/121273/ultimate_wolverine_2025_4?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
       "variants": [],
+      "variantBaseId": 121273,
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 4991,
+          "name": "Frank Martin",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        }
+      ]
+    },
+    {
+      "id": 126000,
+      "title": "Ultimate Wolverine (2025) #2 (Variant)",
+      "issueNumber": 2,
+      "description": "THE MAKER'S COUNCIL AND THEIR ULTIMATE WEAPON! Colossus, Omega Red and Magik put the Ultimate Wolverine to the test by seeing how well he handles the OPPOSITION, a group fighting for mutant liberation!",
+      "date": "2025-02-19T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/50/67b73fb84d86e",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/126000/ultimate_wolverine_2025_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        121271,
+        125580,
+        125999,
+        126001
+      ],
+      "variantBaseId": 126000,
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 12698,
+          "name": "Yasmine Putri",
+          "role": "painter (cover)"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        }
+      ]
+    },
+    {
+      "id": 126001,
+      "title": "Ultimate Wolverine (2025) #2 (Variant)",
+      "issueNumber": 2,
+      "description": "THE MAKER'S COUNCIL AND THEIR ULTIMATE WEAPON! Colossus, Omega Red and Magik put the Ultimate Wolverine to the test by seeing how well he handles the OPPOSITION, a group fighting for mutant liberation!",
+      "date": "2025-02-19T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/40/67b73fb83a0c3",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/126001/ultimate_wolverine_2025_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        121271,
+        125580,
+        125999,
+        126000
+      ],
+      "variantBaseId": 126001,
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        },
+        {
+          "id": 12303,
+          "name": "Jung-Geun Yoon",
+          "role": "painter (cover)"
+        }
+      ]
+    },
+    {
+      "id": 121272,
+      "title": "Ultimate Wolverine (2025) #3",
+      "issueNumber": 3,
+      "description": "WOLVERINE VS. GAMBIT & KITTY PRYDE! The Winter Soldier leads a strike against two members of the Opposition: Kitty Pryde and Gambit! But do the duo recognize the man behind the mask?",
+      "date": "2025-03-26T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/30/676405ef298f2",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/121272/ultimate_wolverine_2025_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 121272,
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 4991,
+          "name": "Frank Martin",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        }
+      ]
+    },
+    {
+      "id": 121273,
+      "title": "Ultimate Wolverine (2025) #4",
+      "issueNumber": 4,
+      "description": "THE WINTER SOLDIER THAWS? Wolverine's confrontation with Kitty Pryde and Gambit leaves him disoriented, violent and questioning his Maker's Council overlords… who is \"Logan\"?",
+      "date": "2025-04-16T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/20/679156a053321",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/121273/ultimate_wolverine_2025_4?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 121273,
       "creators": [
         {
           "id": 14220,

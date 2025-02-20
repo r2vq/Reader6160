@@ -101,7 +101,7 @@ async function parseSeries(seriesId, color) {
             title: series.title,
             thumbnail: imageString(thumbnail),
             color: color,
-            issues: issues.map(parseIssue),
+            issues: parseIssues(issues),
             creators: series.creators.items.map(parseCreator),
             attributionText: series.attributionText,
         };
@@ -111,8 +111,17 @@ async function parseSeries(seriesId, color) {
     }
 }
 
-function parseIssue(issue) {
-    return {
+function parseIssues(issues) {
+    const variantBaseIds = {};
+    issues
+        .filter(issue => !isVariant(issue))
+        .forEach(issue =>
+            issue
+                .variants
+                .map(({ resourceURI }) => getIdFromUri(resourceURI))
+                .forEach(variantId => variantBaseIds[variantId] = issue.id)
+        );
+    return issues.map( issue => ({
         id: issue.id,
         title: issue.title,
         issueNumber: issue.issueNumber,
@@ -120,10 +129,15 @@ function parseIssue(issue) {
         date: findDate(issue.dates, 'onsaleDate'),
         thumbnail: imageString(issue.thumbnail),
         detailUrl: findUrlOrFirst(issue.urls, 'detail'),
-        isVariant: issue.variantDescription === "Variant" || issue.format !== "Comic",
+        isVariant: isVariant(issue),
         variants: issue.variants.map(({ resourceURI }) => getIdFromUri(resourceURI)),
+        variantBaseId: variantBaseIds[issue.id] || issue.id,
         creators: issue.creators.items.map(parseCreator),
-    };
+    }));
+}
+
+function isVariant(issue) {
+    return issue.variantDescription === "Variant" ||  issue.format !== "Comic";
 }
 
 function parseCreator({resourceURI, name, role}) {
