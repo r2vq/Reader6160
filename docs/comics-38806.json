@@ -896,6 +896,57 @@
       ]
     },
     {
+      "id": 120808,
+      "title": "Ultimate Black Panther (2024) #4 (Variant)",
+      "issueNumber": 4,
+      "description": "SHURI SEIZES THE THRONE! With T'Challa missing and presumed dead, Wakanda needs a new leader. Shuri wants war against Ra and Khonshu more than T'Challa ever did, but at what cost? Meanwhile, Black Panther must learn from his new allies, the freedom fighters Killmonger and Storm!",
+      "date": "2024-05-22T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/20/664ba34491add",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/120808/ultimate_black_panther_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        112984,
+        116509,
+        116510
+      ],
+      "variantBaseId": 112984,
+      "creators": [
+        {
+          "id": 14073,
+          "name": "B BossLogic",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
       "id": 116510,
       "title": "Ultimate Black Panther (2024) #4 (Variant)",
       "issueNumber": 4,
@@ -994,57 +1045,6 @@
           "id": 14082,
           "name": "R Rahzzah",
           "role": "penciler (cover)"
-        }
-      ]
-    },
-    {
-      "id": 120808,
-      "title": "Ultimate Black Panther (2024) #4 (Variant)",
-      "issueNumber": 4,
-      "description": "SHURI SEIZES THE THRONE! With T'Challa missing and presumed dead, Wakanda needs a new leader. Shuri wants war against Ra and Khonshu more than T'Challa ever did, but at what cost? Meanwhile, Black Panther must learn from his new allies, the freedom fighters Killmonger and Storm!",
-      "date": "2024-05-22T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/20/664ba34491add",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/120808/ultimate_black_panther_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        112984,
-        116509,
-        116510
-      ],
-      "variantBaseId": 112984,
-      "creators": [
-        {
-          "id": 14073,
-          "name": "B BossLogic",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 1133,
-          "name": "Stefano Caselli",
-          "role": "inker"
-        },
-        {
-          "id": 13021,
-          "name": "David Curiel",
-          "role": "colorist"
-        },
-        {
-          "id": 13017,
-          "name": "Bryan Edward Hill",
-          "role": "writer"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 12980,
-          "name": "Vc Cory Petit",
-          "role": "letterer"
         }
       ]
     },
@@ -1481,34 +1481,29 @@
       ]
     },
     {
-      "id": 121494,
-      "title": "Ultimate Black Panther (2024) #8 (Variant)",
+      "id": 113865,
+      "title": "Ultimate Black Panther (2024) #8",
       "issueNumber": 8,
       "description": "BLACK PANTHER AND STORM TAKE THE FIGHT TO MOON KNIGHT! Enough planning - time for a guerrilla counterstrike against Khonshu and Ra! Meanwhile, Killmonger and Okoye seek allies to aid their cause outside of Wakanda… So don't miss the big gun they call in! Ultimate WHO? You'll have to read to find out!",
       "date": "2024-09-11T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/f0/66df01c016562",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/60/66d0820c1b005",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/121494/ultimate_black_panther_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
+      "detailUrl": "https://marvel.com/comics/issue/113865/ultimate_black_panther_2024_8?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
       "variants": [
-        113865,
         121389,
         121390,
-        121493
+        121493,
+        121494
       ],
       "variantBaseId": 113865,
       "creators": [
         {
-          "id": 1141,
-          "name": "Giuseppe Camuncoli",
-          "role": "inker (cover)"
-        },
-        {
           "id": 1133,
           "name": "Stefano Caselli",
-          "role": "inker"
+          "role": "penciler (cover)"
         },
         {
           "id": 13021,
@@ -1521,8 +1516,8 @@
           "role": "writer"
         },
         {
-          "id": 13127,
-          "name": "Emily Newcomen",
+          "id": 12376,
+          "name": "Wilson Moss",
           "role": "editor"
         },
         {
@@ -1679,34 +1674,89 @@
       ]
     },
     {
-      "id": 113865,
-      "title": "Ultimate Black Panther (2024) #8",
+      "id": 121494,
+      "title": "Ultimate Black Panther (2024) #8 (Variant)",
       "issueNumber": 8,
       "description": "BLACK PANTHER AND STORM TAKE THE FIGHT TO MOON KNIGHT! Enough planning - time for a guerrilla counterstrike against Khonshu and Ra! Meanwhile, Killmonger and Okoye seek allies to aid their cause outside of Wakanda… So don't miss the big gun they call in! Ultimate WHO? You'll have to read to find out!",
       "date": "2024-09-11T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/60/66d0820c1b005",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/f0/66df01c016562",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/113865/ultimate_black_panther_2024_8?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "detailUrl": "https://marvel.com/comics/issue/121494/ultimate_black_panther_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
       "variants": [
+        113865,
         121389,
         121390,
-        121493,
-        121494
+        121493
       ],
       "variantBaseId": 113865,
       "creators": [
         {
+          "id": 1141,
+          "name": "Giuseppe Camuncoli",
+          "role": "inker (cover)"
+        },
+        {
           "id": 1133,
           "name": "Stefano Caselli",
-          "role": "penciler (cover)"
+          "role": "inker"
         },
         {
           "id": 13021,
           "name": "David Curiel",
           "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
+      "id": 122514,
+      "title": "Ultimate Black Panther (2024) #9 (Variant)",
+      "issueNumber": 9,
+      "description": "THE ULTIMATE SORCERER SUPREME? Magic, mysticism and metal clash! But the source of this magic is not what it appears to be, due to the Maker's reshaping of the world…  Black Panther wrestles with this new anti-vibranium - and deals with the devastating consequences! What is the price of such life-bringing power? And what is the price of trying to master it?",
+      "date": "2024-10-02T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/90/66fc13c605791",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/122514/ultimate_black_panther_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113866,
+        122515
+      ],
+      "variantBaseId": 113866,
+      "creators": [
+        {
+          "id": 14581,
+          "name": "Mitsuhiro Arita",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
         },
         {
           "id": 13017,
@@ -1752,56 +1802,6 @@
           "id": 13021,
           "name": "David Curiel",
           "role": "colorist (cover)"
-        },
-        {
-          "id": 13017,
-          "name": "Bryan Edward Hill",
-          "role": "writer"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 12980,
-          "name": "Vc Cory Petit",
-          "role": "letterer"
-        }
-      ]
-    },
-    {
-      "id": 122514,
-      "title": "Ultimate Black Panther (2024) #9 (Variant)",
-      "issueNumber": 9,
-      "description": "THE ULTIMATE SORCERER SUPREME? Magic, mysticism and metal clash! But the source of this magic is not what it appears to be, due to the Maker's reshaping of the world…  Black Panther wrestles with this new anti-vibranium - and deals with the devastating consequences! What is the price of such life-bringing power? And what is the price of trying to master it?",
-      "date": "2024-10-02T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/90/66fc13c605791",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/122514/ultimate_black_panther_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        113866,
-        122515
-      ],
-      "variantBaseId": 113866,
-      "creators": [
-        {
-          "id": 14581,
-          "name": "Mitsuhiro Arita",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 1133,
-          "name": "Stefano Caselli",
-          "role": "inker"
-        },
-        {
-          "id": 13021,
-          "name": "David Curiel",
-          "role": "colorist"
         },
         {
           "id": 13017,
@@ -2067,52 +2067,6 @@
       ]
     },
     {
-      "id": 113868,
-      "title": "Ultimate Black Panther (2024) #11",
-      "issueNumber": 11,
-      "description": "A NEW VILLAIN JOINS THE FRAY! Black Panther's war of attrition against Moon Knight becomes more complicated as Wakanda's defense must become two-pronged! Plus, T'Challa discovers vibranium in his blood, bringing with it even more visions and more mystery…",
-      "date": "2024-12-25T00:00:00-0500",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/10/67603a698d7eb",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113868/ultimate_black_panther_2024_11?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [
-        124498,
-        124499,
-        124500
-      ],
-      "variantBaseId": 113868,
-      "creators": [
-        {
-          "id": 1133,
-          "name": "Stefano Caselli",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 13021,
-          "name": "David Curiel",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 13017,
-          "name": "Bryan Edward Hill",
-          "role": "writer"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 12980,
-          "name": "Vc Cory Petit",
-          "role": "letterer"
-        }
-      ]
-    },
-    {
       "id": 124499,
       "title": "Ultimate Black Panther (2024) #11 (Variant)",
       "issueNumber": 11,
@@ -2191,6 +2145,97 @@
           "id": 9408,
           "name": "Sara Pichelli",
           "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 113868,
+      "title": "Ultimate Black Panther (2024) #11",
+      "issueNumber": 11,
+      "description": "A NEW VILLAIN JOINS THE FRAY! Black Panther's war of attrition against Moon Knight becomes more complicated as Wakanda's defense must become two-pronged! Plus, T'Challa discovers vibranium in his blood, bringing with it even more visions and more mystery…",
+      "date": "2024-12-25T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/10/67603a698d7eb",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113868/ultimate_black_panther_2024_11?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        124498,
+        124499,
+        124500
+      ],
+      "variantBaseId": 113868,
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
+      "id": 113869,
+      "title": "Ultimate Black Panther (2024) #12",
+      "issueNumber": 12,
+      "description": "MOON KNIGHT VS. BLACK PANTHER! Moon Knight challenges Black Panther to a one-on-one duel to end the war! But with his army of zealots behind him, would Moon Knight's followers even accept defeat? And the Maker's Council can't be stopped so easily… The epic climax of the first year of ULTIMATE BLACK PANTHER!",
+      "date": "2025-01-08T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/80/678035f979c62",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113869/ultimate_black_panther_2024_12?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        124923,
+        124924
+      ],
+      "variantBaseId": 113869,
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
         }
       ]
     },
@@ -2295,32 +2340,87 @@
       ]
     },
     {
-      "id": 113869,
-      "title": "Ultimate Black Panther (2024) #12",
-      "issueNumber": 12,
-      "description": "MOON KNIGHT VS. BLACK PANTHER! Moon Knight challenges Black Panther to a one-on-one duel to end the war! But with his army of zealots behind him, would Moon Knight's followers even accept defeat? And the Maker's Council can't be stopped so easily… The epic climax of the first year of ULTIMATE BLACK PANTHER!",
-      "date": "2025-01-08T00:00:00-0500",
+      "id": 125983,
+      "title": "Ultimate Black Panther (2024) #13 (Variant)",
+      "issueNumber": 13,
+      "description": "ULTIMATE BLACK PANTHER: YEAR TWO STARTS HERE! With MOON KNIGHT defeated and the Maker's Council forced to regroup, T'Challa must learn the secrets of vibranium - because his very life and soul are at risk! The SORCERER SUPREME can help understand the truth of the terrifying element that built Wakanda, but her aid comes with a price…",
+      "date": "2025-02-19T00:00:00-0500",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/80/678035f979c62",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/e0/67b73fb6be429",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/113869/ultimate_black_panther_2024_12?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "detailUrl": "https://marvel.com/comics/issue/125983/ultimate_black_panther_2024_13_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
       "variants": [
-        124923,
-        124924
+        113870,
+        125984
       ],
-      "variantBaseId": 113869,
+      "variantBaseId": 125983,
       "creators": [
         {
           "id": 1133,
           "name": "Stefano Caselli",
-          "role": "penciler (cover)"
+          "role": "inker"
         },
         {
           "id": 13021,
           "name": "David Curiel",
-          "role": "colorist (cover)"
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14636,
+          "name": "Ivan Talavera",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 125984,
+      "title": "Ultimate Black Panther (2024) #13 (Variant)",
+      "issueNumber": 13,
+      "description": "ULTIMATE BLACK PANTHER: YEAR TWO STARTS HERE! With MOON KNIGHT defeated and the Maker's Council forced to regroup, T'Challa must learn the secrets of vibranium - because his very life and soul are at risk! The SORCERER SUPREME can help understand the truth of the terrifying element that built Wakanda, but her aid comes with a price…",
+      "date": "2025-02-19T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/b0/67b73fb75b2c6",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/125984/ultimate_black_panther_2024_13_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113870,
+        125983
+      ],
+      "variantBaseId": 125984,
+      "creators": [
+        {
+          "id": 12492,
+          "name": "Ario Anindito",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
         },
         {
           "id": 13017,
@@ -2471,66 +2571,19 @@
       ]
     },
     {
-      "id": 113871,
-      "title": "Ultimate Black Panther (2024) #14",
-      "issueNumber": 14,
-      "description": "WHO IS THE PROGENITOR? Black Panther's dangerous reliance on vibranium becomes even more volatile when an ancient spirit attacks Wakanda! Only the Sorcerer Supreme can help T'Challa save Wakanda - and possibly his soul - from this fiend!",
-      "date": "2025-03-19T00:00:00-0400",
+      "id": 113873,
+      "title": "Ultimate Black Panther (2024) #16",
+      "issueNumber": 16,
+      "description": "Black Panther and Storm team up to uncover why a CIA agent is undertaking covert missions in Wakanda! Will the prophesied union between the king and the mutant freedom fighter come to pass?",
+      "date": "2025-05-14T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/03/676405ef44081",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/03/67a39d0674146",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/113871/ultimate_black_panther_2024_14?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/113873/ultimate_black_panther_2024_16?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
       "variants": [],
-      "variantBaseId": 113871,
-      "creators": [
-        {
-          "id": 1133,
-          "name": "Stefano Caselli",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 13021,
-          "name": "David Curiel",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 13017,
-          "name": "Bryan Edward Hill",
-          "role": "writer"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 14489,
-          "name": "Carlos Nieto",
-          "role": "inker"
-        },
-        {
-          "id": 12980,
-          "name": "Vc Cory Petit",
-          "role": "letterer"
-        }
-      ]
-    },
-    {
-      "id": 113872,
-      "title": "Ultimate Black Panther (2024) #15",
-      "issueNumber": 15,
-      "description": "THE NEW BLACK PANTHER! Battle-worn and beleaguered, a stripped-down T'Challa must go back to basics to prepare for battle against the new foes who have turned vibranium and its dark counterpart against him…",
-      "date": "2025-04-23T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/60/6791567f5bb94",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113872/ultimate_black_panther_2024_15?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113872,
+      "variantBaseId": 113873,
       "creators": [
         {
           "id": 1133,
@@ -2564,6 +2617,11 @@
     {
       "id": 13098,
       "name": "Rafael Albuquerque",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 12492,
+      "name": "Ario Anindito",
       "role": "penciler (cover)"
     },
     {
@@ -2619,11 +2677,6 @@
     {
       "id": 13558,
       "name": "Juan Ferreyra",
-      "role": "penciler (cover)"
-    },
-    {
-      "id": 735,
-      "name": "Travel Foreman",
       "role": "penciler (cover)"
     },
     {

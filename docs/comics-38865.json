@@ -541,6 +541,62 @@
       ]
     },
     {
+      "id": 121019,
+      "title": "Ultimates (2024) #3 (Variant)",
+      "issueNumber": 3,
+      "description": "INTRODUCING…THE SHE-HULK!  The Ultimates search for a means of destroying the Maker's most powerful pawn, the Hulk! And in the process they uncover an army of Hulks hidden away from the world… …with She-Hulk at the helm!",
+      "date": "2024-08-14T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/50/66b67def3bbab",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/121019/ultimates_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113213,
+        120340,
+        121020
+      ],
+      "variantBaseId": 113213,
+      "creators": [
+        {
+          "id": 11482,
+          "name": "Jesus Aburtov",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 13031,
+          "name": "Juann Cabal",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
       "id": 113213,
       "title": "Ultimates (2024) #3",
       "issueNumber": 3,
@@ -639,62 +695,6 @@
           "id": 13138,
           "name": "In-Hyuk Lee",
           "role": "painter (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 121019,
-      "title": "Ultimates (2024) #3 (Variant)",
-      "issueNumber": 3,
-      "description": "INTRODUCING…THE SHE-HULK!  The Ultimates search for a means of destroying the Maker's most powerful pawn, the Hulk! And in the process they uncover an army of Hulks hidden away from the world… …with She-Hulk at the helm!",
-      "date": "2024-08-14T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/50/66b67def3bbab",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/121019/ultimates_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        113213,
-        120340,
-        121020
-      ],
-      "variantBaseId": 113213,
-      "creators": [
-        {
-          "id": 11482,
-          "name": "Jesus Aburtov",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 13180,
-          "name": "Federico Blee",
-          "role": "colorist"
-        },
-        {
-          "id": 13031,
-          "name": "Juann Cabal",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        },
-        {
-          "id": 12624,
-          "name": "Juan Frigeri",
-          "role": "inker"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
         },
         {
           "id": 12376,
@@ -1466,6 +1466,57 @@
       ]
     },
     {
+      "id": 124532,
+      "title": "Ultimates (2024) #7 (Variant)",
+      "issueNumber": 7,
+      "description": "WHO ARE THE ULTIMATES? A NEW STORY ARC BEGINS! Perfect jumping-on point for the uninitiated! The aftermath of the explosive last issue - including the loss of a major member! Join the Ultimates in their secret HQ as they regroup and launch their bold new plan to change the world!",
+      "date": "2024-12-04T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/90/67472d082e08c",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/124532/ultimates_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113924,
+        123314,
+        124531
+      ],
+      "variantBaseId": 113924,
+      "creators": [
+        {
+          "id": 9018,
+          "name": "Mahmud Asrar",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        }
+      ]
+    },
+    {
       "id": 113924,
       "title": "Ultimates (2024) #7",
       "issueNumber": 7,
@@ -1568,57 +1619,6 @@
         {
           "id": 12376,
           "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 124532,
-      "title": "Ultimates (2024) #7 (Variant)",
-      "issueNumber": 7,
-      "description": "WHO ARE THE ULTIMATES? A NEW STORY ARC BEGINS! Perfect jumping-on point for the uninitiated! The aftermath of the explosive last issue - including the loss of a major member! Join the Ultimates in their secret HQ as they regroup and launch their bold new plan to change the world!",
-      "date": "2024-12-04T00:00:00-0500",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/90/67472d082e08c",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/124532/ultimates_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        113924,
-        123314,
-        124531
-      ],
-      "variantBaseId": 113924,
-      "creators": [
-        {
-          "id": 9018,
-          "name": "Mahmud Asrar",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 13180,
-          "name": "Federico Blee",
-          "role": "colorist"
-        },
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        },
-        {
-          "id": 12624,
-          "name": "Juan Frigeri",
-          "role": "inker"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13127,
-          "name": "Emily Newcomen",
           "role": "editor"
         }
       ]
@@ -2104,6 +2104,58 @@
       "isVariant": false,
       "variants": [],
       "variantBaseId": 113928,
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 113929,
+      "title": "Ultimates (2024) #12",
+      "issueNumber": 12,
+      "description": "THE ULTIMATE FRACTURE! Dissent destroys the Ultimates as a disagreement long developing between two members of the team leads to a devastating departure!",
+      "date": "2025-05-21T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/10/67a39d0729376",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113929/ultimates_2024_12?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113929,
       "creators": [
         {
           "id": 13180,
