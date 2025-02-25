@@ -2355,7 +2355,7 @@
         113870,
         125984
       ],
-      "variantBaseId": 125983,
+      "variantBaseId": 113870,
       "creators": [
         {
           "id": 1133,
@@ -2405,7 +2405,7 @@
         113870,
         125983
       ],
-      "variantBaseId": 125984,
+      "variantBaseId": 113870,
       "creators": [
         {
           "id": 12492,
@@ -2451,7 +2451,10 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113870/ultimate_black_panther_2024_13?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        125983,
+        125984
+      ],
       "variantBaseId": 113870,
       "creators": [
         {
