@@ -2526,6 +2526,102 @@
           "role": "editor"
         }
       ]
+    },
+    {
+      "id": 113910,
+      "title": "Ultimate X-Men (2024) #13",
+      "issueNumber": 13,
+      "description": "THE MUTANT NEW WORLD ORDER? The start of the second year of ULTIMATE X-MEN! Chaos erupts as former Children of the Atom rise up against the society that used and abused them, just as tension between Armor and Maystorm comes to a head in an explosive confrontation!",
+      "date": "2025-03-19T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/e/03/676405ef46660",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113910/ultimate_x-men_2024_13?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113910,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 113911,
+      "title": "Ultimate X-Men (2024) #14",
+      "issueNumber": 14,
+      "description": "The Shadow King returns...more powerful than ever! Will Armor be the first to fall?",
+      "date": "2025-04-02T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/50/6791569f50c8c",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113911/ultimate_x-men_2024_14?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113911,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 113912,
+      "title": "Ultimate X-Men (2024) #15",
+      "issueNumber": 15,
+      "description": "A \"New Age\" is upon us! Witness how Hisako's journey through her inner darkness wreaks havoc on her fellow mutants and reality itself!",
+      "date": "2025-05-07T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/e0/67ab8f7f56a06",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113912/ultimate_x-men_2024_15?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113912,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
     }
   ],
   "creators": [

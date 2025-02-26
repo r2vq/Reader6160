@@ -3575,13 +3575,148 @@
       "description": "SPIDER-MAN VERSUS KRAVEN! After the horrors Peter and Harry endured during KRAVEN'S HUNT in the last issue, Spider-Man and Green Goblin turn the HUNTER into the HUNTED! But are they still prey in someone else's game?",
       "date": "2025-02-26T00:00:00-0500",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/20/673f17fd7b277",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/80/67b74a8d0af6c",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113891/ultimate_spider-man_2024_14?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        125988,
+        125989,
+        125990
+      ],
       "variantBaseId": 113891,
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
+      ]
+    },
+    {
+      "id": 113892,
+      "title": "Ultimate Spider-Man (2024) #15",
+      "issueNumber": 15,
+      "description": "THE ULTIMATE SANDMAN ATTACKS! As the dust settles from the events of recent issues, Peter, MJ and the kids take a family vacation - but nowhere is safe for Ultimate Spider-Man!",
+      "date": "2025-03-26T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/e0/676405ef6d4fb",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113892/ultimate_spider-man_2024_15?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113892,
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
+      ]
+    },
+    {
+      "id": 113893,
+      "title": "Ultimate Spider-Man (2024) #16",
+      "issueNumber": 16,
+      "description": "THE SECRET ORIGIN OF MYSTERIO! Even Kingpin knows little about the criminal in the smoky helmet…but Spider-Man's about to learn more than he bargained for!",
+      "date": "2025-04-30T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/60/679156a04f5ab",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113893/ultimate_spider-man_2024_16?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113893,
+      "creators": [
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
+      ]
+    },
+    {
+      "id": 113894,
+      "title": "Ultimate Spider-Man (2024) #17",
+      "issueNumber": 17,
+      "description": "TURF WAR IN NEW YORK! THE SINISTER SIX VS. THE TWO SPIDER-MEN! All is not well in New York with the Sinister Six at war with each other!  Fortunately, Spider-Man's not facing this one alone...catch Richard Parker in the BLACK SUIT!",
+      "date": "2025-05-28T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/03/67a39d0661664",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113894/ultimate_spider-man_2024_17?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113894,
       "creators": [
         {
           "id": 11748,
@@ -3749,6 +3884,11 @@
       "role": "painter (cover)"
     },
     {
+      "id": 9018,
+      "name": "Mahmud Asrar",
+      "role": "penciler (cover)"
+    },
+    {
       "id": 87,
       "name": "Mark Bagley",
       "role": "penciler (cover)"
@@ -3799,11 +3939,6 @@
       "role": "penciler (cover)"
     },
     {
-      "id": 14530,
-      "name": "Corin Howell",
-      "role": "penciler (cover)"
-    },
-    {
       "id": 12385,
       "name": "Carmen Carnero",
       "role": "inker (cover)"
@@ -3816,6 +3951,11 @@
     {
       "id": 14449,
       "name": "Ceci De La Cruz",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 13021,
+      "name": "David Curiel",
       "role": "colorist (cover)"
     },
     {
@@ -3837,11 +3977,6 @@
       "id": 12996,
       "name": "Ian Herring",
       "role": "colorist (cover)"
-    },
-    {
-      "id": 11743,
-      "name": "Jonathan Hickman",
-      "role": "writer"
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL"
