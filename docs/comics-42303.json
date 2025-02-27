@@ -459,7 +459,12 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/121271/ultimate_wolverine_2025_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        125580,
+        125999,
+        126000,
+        126001
+      ],
       "variantBaseId": 121271,
       "creators": [
         {
@@ -512,7 +517,7 @@
         126000,
         126001
       ],
-      "variantBaseId": 125580,
+      "variantBaseId": 121271,
       "creators": [
         {
           "id": 14220,
@@ -569,7 +574,7 @@
         126000,
         126001
       ],
-      "variantBaseId": 125999,
+      "variantBaseId": 121271,
       "creators": [
         {
           "id": 14220,
@@ -616,7 +621,7 @@
         125999,
         126001
       ],
-      "variantBaseId": 126000,
+      "variantBaseId": 121271,
       "creators": [
         {
           "id": 14220,
@@ -668,7 +673,7 @@
         125999,
         126000
       ],
-      "variantBaseId": 126001,
+      "variantBaseId": 121271,
       "creators": [
         {
           "id": 14220,

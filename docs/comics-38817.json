@@ -8,221 +8,6 @@
   "color": "#AA862E",
   "issues": [
     {
-      "id": 112996,
-      "title": "Ultimate X-Men (2024) #1",
-      "issueNumber": 1,
-      "description": "Visionary creator PEACH MOMOKO (DEMON DAYS, STAR WARS) creates a new generation of X-Men for an all-new universe!  Hisako Ichiki is a teenage girl who just wants to live a normal life - go to school, hang out with her friends, ignore the political strife broiling over after the events of ULTIMATE INVASION - but life has other plans for her. In Japan, urban legends have sprung to life and brought some unusual new powers with them…Meet Armor, Maystorm and a group of new Ultimate X-Men the likes of which you've never seen before!",
-      "date": "2024-03-06T00:00:00-0500",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/d0/65e885e02be09",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/112996/ultimate_x-men_2024_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [
-        115374,
-        115376,
-        115377,
-        115378,
-        115379,
-        116158,
-        116159,
-        116247,
-        116605
-      ],
-      "variantBaseId": 112996,
-      "creators": [
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 116605,
-      "title": "Ultimate X-Men (2024) #1 (Variant)",
-      "issueNumber": 1,
-      "description": "Visionary creator PEACH MOMOKO (DEMON DAYS, STAR WARS) creates a new generation of X-Men for an all-new universe! Hisako Ichiki is a teenage girl who just wants to live a normal life - go to school, hang out with her friends, ignore the political strife broiling over after the events of ULTIMATE INVASION - but life has other plans for her. In Japan, urban legends have sprung to life and brought some unusual new powers with them…Meet Armor, Maystorm and a group of new Ultimate X-Men the likes of which you've never seen before!",
-      "date": "2024-03-06T00:00:00-0500",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/60/65e5dbd97c86e",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/116605/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        112996,
-        115374,
-        115376,
-        115377,
-        115378,
-        115379,
-        116158,
-        116159,
-        116247
-      ],
-      "variantBaseId": 112996,
-      "creators": [
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 116247,
-      "title": "Ultimate X-Men (2024) #1 (Variant)",
-      "issueNumber": 1,
-      "description": "Visionary creator PEACH MOMOKO (DEMON DAYS, STAR WARS) creates a new generation of X-Men for an all-new universe! Hisako Ichiki is a teenage girl who just wants to live a normal life - go to school, hang out with her friends, ignore the political strife broiling over after the events of ULTIMATE INVASION - but life has other plans for her. In Japan, urban legends have sprung to life and brought some unusual new powers with them…Meet Armor, Maystorm and a group of new Ultimate X-Men the likes of which you've never seen before!",
-      "date": "2024-03-06T00:00:00-0500",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/8/e0/65e5dbca11093",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/116247/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        112996,
-        115374,
-        115376,
-        115377,
-        115378,
-        115379,
-        116158,
-        116159,
-        116605
-      ],
-      "variantBaseId": 112996,
-      "creators": [
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "inker"
-        },
-        {
-          "id": 13127,
-          "name": "Emily Newcomen",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 116159,
-      "title": "Ultimate X-Men (2024) #1 (Variant)",
-      "issueNumber": 1,
-      "description": "Visionary creator PEACH MOMOKO (DEMON DAYS, STAR WARS) creates a new generation of X-Men for an all-new universe! Hisako Ichiki is a teenage girl who just wants to live a normal life - go to school, hang out with her friends, ignore the political strife broiling over after the events of ULTIMATE INVASION - but life has other plans for her. In Japan, urban legends have sprung to life and brought some unusual new powers with them…Meet Armor, Maystorm and a group of new Ultimate X-Men the likes of which you've never seen before!",
-      "date": "2024-03-06T00:00:00-0500",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/80/65e5dbc14bc96",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/116159/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        112996,
-        115374,
-        115376,
-        115377,
-        115378,
-        115379,
-        116158,
-        116247,
-        116605
-      ],
-      "variantBaseId": 112996,
-      "creators": [
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "painter (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 116158,
-      "title": "Ultimate X-Men (2024) #1 (Variant)",
-      "issueNumber": 1,
-      "description": "Visionary creator PEACH MOMOKO (DEMON DAYS, STAR WARS) creates a new generation of X-Men for an all-new universe! Hisako Ichiki is a teenage girl who just wants to live a normal life - go to school, hang out with her friends, ignore the political strife broiling over after the events of ULTIMATE INVASION - but life has other plans for her. In Japan, urban legends have sprung to life and brought some unusual new powers with them…Meet Armor, Maystorm and a group of new Ultimate X-Men the likes of which you've never seen before!",
-      "date": "2024-03-06T00:00:00-0500",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/70/65e5dbd45083c",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/116158/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        112996,
-        115374,
-        115376,
-        115377,
-        115378,
-        115379,
-        116159,
-        116247,
-        116605
-      ],
-      "variantBaseId": 112996,
-      "creators": [
-        {
-          "id": 694,
-          "name": "Mark Brooks",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "inker"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
       "id": 115379,
       "title": "Ultimate X-Men (2024) #1 (Variant)",
       "issueNumber": 1,
@@ -266,6 +51,48 @@
           "id": 14479,
           "name": "Liu Xiaotong",
           "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 112996,
+      "title": "Ultimate X-Men (2024) #1",
+      "issueNumber": 1,
+      "description": "Visionary creator PEACH MOMOKO (DEMON DAYS, STAR WARS) creates a new generation of X-Men for an all-new universe!  Hisako Ichiki is a teenage girl who just wants to live a normal life - go to school, hang out with her friends, ignore the political strife broiling over after the events of ULTIMATE INVASION - but life has other plans for her. In Japan, urban legends have sprung to life and brought some unusual new powers with them…Meet Armor, Maystorm and a group of new Ultimate X-Men the likes of which you've never seen before!",
+      "date": "2024-03-06T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/d0/65e885e02be09",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/112996/ultimate_x-men_2024_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        115374,
+        115376,
+        115377,
+        115378,
+        115379,
+        116158,
+        116159,
+        116247,
+        116605
+      ],
+      "variantBaseId": 112996,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
         }
       ]
     },
@@ -411,6 +238,48 @@
       ]
     },
     {
+      "id": 116605,
+      "title": "Ultimate X-Men (2024) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "Visionary creator PEACH MOMOKO (DEMON DAYS, STAR WARS) creates a new generation of X-Men for an all-new universe! Hisako Ichiki is a teenage girl who just wants to live a normal life - go to school, hang out with her friends, ignore the political strife broiling over after the events of ULTIMATE INVASION - but life has other plans for her. In Japan, urban legends have sprung to life and brought some unusual new powers with them…Meet Armor, Maystorm and a group of new Ultimate X-Men the likes of which you've never seen before!",
+      "date": "2024-03-06T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/60/65e5dbd97c86e",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/116605/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        112996,
+        115374,
+        115376,
+        115377,
+        115378,
+        115379,
+        116158,
+        116159,
+        116247
+      ],
+      "variantBaseId": 112996,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
       "id": 115374,
       "title": "Ultimate X-Men (2024) #1 (Variant)",
       "issueNumber": 1,
@@ -458,139 +327,29 @@
       ]
     },
     {
-      "id": 112998,
-      "title": "Ultimate X-Men (2024) #2",
-      "issueNumber": 2,
-      "description": "THE ULTIMATE X-MEN GO BACK TO SCHOOL! High school, that is! It's a new school year for Hisako as she tries to get a grasp on her new powers… Where she meets a cool, white-haired punk girl named Mei (A.K.A. Maystorm), who understands all too well the challenge Hisako faces. And they team up to embark on a creepy adventure to learn who is behind the creepy shadow that has been haunting - and taunting - them!",
-      "date": "2024-04-10T00:00:00-0400",
+      "id": 116247,
+      "title": "Ultimate X-Men (2024) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "Visionary creator PEACH MOMOKO (DEMON DAYS, STAR WARS) creates a new generation of X-Men for an all-new universe! Hisako Ichiki is a teenage girl who just wants to live a normal life - go to school, hang out with her friends, ignore the political strife broiling over after the events of ULTIMATE INVASION - but life has other plans for her. In Japan, urban legends have sprung to life and brought some unusual new powers with them…Meet Armor, Maystorm and a group of new Ultimate X-Men the likes of which you've never seen before!",
+      "date": "2024-03-06T00:00:00-0500",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/e0/661541c9c99ad",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/8/e0/65e5dbca11093",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/112998/ultimate_x-men_2024_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [
-        115662,
-        116067,
-        116068,
-        116606,
-        116607
-      ],
-      "variantBaseId": 112998,
-      "creators": [
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 116607,
-      "title": "Ultimate X-Men (2024) #2 (Variant)",
-      "issueNumber": 2,
-      "description": "THE ULTIMATE X-MEN GO BACK TO SCHOOL! High school, that is! It's a new school year for Hisako as she tries to get a grasp on her new powers… Where she meets a cool, white-haired punk girl named Mei (A.K.A. Maystorm), who understands all too well the challenge Hisako faces. And they team up to embark on a creepy adventure to learn who is behind the creepy shadow that has been haunting - and taunting - them!",
-      "date": "2024-04-10T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/00/661546c56ec94",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/116607/ultimate_x-men_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/116247/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
-        112998,
-        115662,
-        116067,
-        116068,
-        116606
+        112996,
+        115374,
+        115376,
+        115377,
+        115378,
+        115379,
+        116158,
+        116159,
+        116605
       ],
-      "variantBaseId": 112998,
-      "creators": [
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 116606,
-      "title": "Ultimate X-Men (2024) #2 (Variant)",
-      "issueNumber": 2,
-      "description": "THE ULTIMATE X-MEN GO BACK TO SCHOOL! High school, that is! It's a new school year for Hisako as she tries to get a grasp on her new powers… Where she meets a cool, white-haired punk girl named Mei (A.K.A. Maystorm), who understands all too well the challenge Hisako faces. And they team up to embark on a creepy adventure to learn who is behind the creepy shadow that has been haunting - and taunting - them!",
-      "date": "2024-04-10T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/b0/661546bd0d68f",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/116606/ultimate_x-men_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        112998,
-        115662,
-        116067,
-        116068,
-        116607
-      ],
-      "variantBaseId": 112998,
-      "creators": [
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "inker"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 116068,
-      "title": "Ultimate X-Men (2024) #2 (Variant)",
-      "issueNumber": 2,
-      "description": "THE ULTIMATE X-MEN GO BACK TO SCHOOL! High school, that is! It's a new school year for Hisako as she tries to get a grasp on her new powers… Where she meets a cool, white-haired punk girl named Mei (A.K.A. Maystorm), who understands all too well the challenge Hisako faces. And they team up to embark on a creepy adventure to learn who is behind the creepy shadow that has been haunting - and taunting - them!",
-      "date": "2024-04-10T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/40/661546bb3e290",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/116068/ultimate_x-men_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        112998,
-        115662,
-        116067,
-        116606,
-        116607
-      ],
-      "variantBaseId": 112998,
+      "variantBaseId": 112996,
       "creators": [
         {
           "id": 12993,
@@ -606,38 +365,79 @@
           "id": 13127,
           "name": "Emily Newcomen",
           "role": "editor"
-        },
-        {
-          "id": 13459,
-          "name": "Phil Noto",
-          "role": "penciler (cover)"
         }
       ]
     },
     {
-      "id": 116067,
-      "title": "Ultimate X-Men (2024) #2 (Variant)",
-      "issueNumber": 2,
-      "description": "THE ULTIMATE X-MEN GO BACK TO SCHOOL! High school, that is! It's a new school year for Hisako as she tries to get a grasp on her new powers… Where she meets a cool, white-haired punk girl named Mei (A.K.A. Maystorm), who understands all too well the challenge Hisako faces. And they team up to embark on a creepy adventure to learn who is behind the creepy shadow that has been haunting - and taunting - them!",
-      "date": "2024-04-10T00:00:00-0400",
+      "id": 116159,
+      "title": "Ultimate X-Men (2024) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "Visionary creator PEACH MOMOKO (DEMON DAYS, STAR WARS) creates a new generation of X-Men for an all-new universe! Hisako Ichiki is a teenage girl who just wants to live a normal life - go to school, hang out with her friends, ignore the political strife broiling over after the events of ULTIMATE INVASION - but life has other plans for her. In Japan, urban legends have sprung to life and brought some unusual new powers with them…Meet Armor, Maystorm and a group of new Ultimate X-Men the likes of which you've never seen before!",
+      "date": "2024-03-06T00:00:00-0500",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/10/661546c2bde2b",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/80/65e5dbc14bc96",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/116067/ultimate_x-men_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/116159/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
-        112998,
-        115662,
-        116068,
-        116606,
-        116607
+        112996,
+        115374,
+        115376,
+        115377,
+        115378,
+        115379,
+        116158,
+        116247,
+        116605
       ],
-      "variantBaseId": 112998,
+      "variantBaseId": 112996,
       "creators": [
         {
-          "id": 1052,
-          "name": "Mike Choi",
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "painter (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 116158,
+      "title": "Ultimate X-Men (2024) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "Visionary creator PEACH MOMOKO (DEMON DAYS, STAR WARS) creates a new generation of X-Men for an all-new universe! Hisako Ichiki is a teenage girl who just wants to live a normal life - go to school, hang out with her friends, ignore the political strife broiling over after the events of ULTIMATE INVASION - but life has other plans for her. In Japan, urban legends have sprung to life and brought some unusual new powers with them…Meet Armor, Maystorm and a group of new Ultimate X-Men the likes of which you've never seen before!",
+      "date": "2024-03-06T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/70/65e5dbd45083c",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/116158/ultimate_x-men_2024_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        112996,
+        115374,
+        115376,
+        115377,
+        115378,
+        115379,
+        116159,
+        116247,
+        116605
+      ],
+      "variantBaseId": 112996,
+      "creators": [
+        {
+          "id": 694,
+          "name": "Mark Brooks",
           "role": "penciler (cover)"
         },
         {
@@ -701,25 +501,149 @@
       ]
     },
     {
-      "id": 116609,
-      "title": "Ultimate X-Men (2024) #3 (Variant)",
-      "issueNumber": 3,
-      "description": "THE MYSTERIOUS MAYSTORM, REVEALED! Maystorm's origin! Mei Igarashi was a regular girl until she discovered her unusual abilities and her hair changed from brown to white… And how she came to idolize a mysterious freedom fighter in Africa who also harnesses the power of the storm!",
-      "date": "2024-05-15T00:00:00-0400",
+      "id": 116067,
+      "title": "Ultimate X-Men (2024) #2 (Variant)",
+      "issueNumber": 2,
+      "description": "THE ULTIMATE X-MEN GO BACK TO SCHOOL! High school, that is! It's a new school year for Hisako as she tries to get a grasp on her new powers… Where she meets a cool, white-haired punk girl named Mei (A.K.A. Maystorm), who understands all too well the challenge Hisako faces. And they team up to embark on a creepy adventure to learn who is behind the creepy shadow that has been haunting - and taunting - them!",
+      "date": "2024-04-10T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/c0/663e6d94d0705",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/10/661546c2bde2b",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/116609/ultimate_x-men_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/116067/ultimate_x-men_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
-        112999,
-        115663,
-        116513,
-        116514,
-        116608
+        112998,
+        115662,
+        116068,
+        116606,
+        116607
       ],
-      "variantBaseId": 112999,
+      "variantBaseId": 112998,
+      "creators": [
+        {
+          "id": 1052,
+          "name": "Mike Choi",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 116068,
+      "title": "Ultimate X-Men (2024) #2 (Variant)",
+      "issueNumber": 2,
+      "description": "THE ULTIMATE X-MEN GO BACK TO SCHOOL! High school, that is! It's a new school year for Hisako as she tries to get a grasp on her new powers… Where she meets a cool, white-haired punk girl named Mei (A.K.A. Maystorm), who understands all too well the challenge Hisako faces. And they team up to embark on a creepy adventure to learn who is behind the creepy shadow that has been haunting - and taunting - them!",
+      "date": "2024-04-10T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/40/661546bb3e290",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/116068/ultimate_x-men_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        112998,
+        115662,
+        116067,
+        116606,
+        116607
+      ],
+      "variantBaseId": 112998,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "inker"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13459,
+          "name": "Phil Noto",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 116606,
+      "title": "Ultimate X-Men (2024) #2 (Variant)",
+      "issueNumber": 2,
+      "description": "THE ULTIMATE X-MEN GO BACK TO SCHOOL! High school, that is! It's a new school year for Hisako as she tries to get a grasp on her new powers… Where she meets a cool, white-haired punk girl named Mei (A.K.A. Maystorm), who understands all too well the challenge Hisako faces. And they team up to embark on a creepy adventure to learn who is behind the creepy shadow that has been haunting - and taunting - them!",
+      "date": "2024-04-10T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/b0/661546bd0d68f",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/116606/ultimate_x-men_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        112998,
+        115662,
+        116067,
+        116068,
+        116607
+      ],
+      "variantBaseId": 112998,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 116607,
+      "title": "Ultimate X-Men (2024) #2 (Variant)",
+      "issueNumber": 2,
+      "description": "THE ULTIMATE X-MEN GO BACK TO SCHOOL! High school, that is! It's a new school year for Hisako as she tries to get a grasp on her new powers… Where she meets a cool, white-haired punk girl named Mei (A.K.A. Maystorm), who understands all too well the challenge Hisako faces. And they team up to embark on a creepy adventure to learn who is behind the creepy shadow that has been haunting - and taunting - them!",
+      "date": "2024-04-10T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/00/661546c56ec94",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/116607/ultimate_x-men_2024_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        112998,
+        115662,
+        116067,
+        116068,
+        116606
+      ],
+      "variantBaseId": 112998,
       "creators": [
         {
           "id": 12993,
@@ -739,22 +663,60 @@
       ]
     },
     {
-      "id": 116608,
+      "id": 112998,
+      "title": "Ultimate X-Men (2024) #2",
+      "issueNumber": 2,
+      "description": "THE ULTIMATE X-MEN GO BACK TO SCHOOL! High school, that is! It's a new school year for Hisako as she tries to get a grasp on her new powers… Where she meets a cool, white-haired punk girl named Mei (A.K.A. Maystorm), who understands all too well the challenge Hisako faces. And they team up to embark on a creepy adventure to learn who is behind the creepy shadow that has been haunting - and taunting - them!",
+      "date": "2024-04-10T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/e0/661541c9c99ad",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/112998/ultimate_x-men_2024_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        115662,
+        116067,
+        116068,
+        116606,
+        116607
+      ],
+      "variantBaseId": 112998,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 116513,
       "title": "Ultimate X-Men (2024) #3 (Variant)",
       "issueNumber": 3,
       "description": "THE MYSTERIOUS MAYSTORM, REVEALED! Maystorm's origin! Mei Igarashi was a regular girl until she discovered her unusual abilities and her hair changed from brown to white… And how she came to idolize a mysterious freedom fighter in Africa who also harnesses the power of the storm!",
       "date": "2024-05-15T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/90/663e6d8a6504b",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/30/663e6d9294525",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/116608/ultimate_x-men_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/116513/ultimate_x-men_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
         112999,
         115663,
-        116513,
         116514,
+        116608,
         116609
       ],
       "variantBaseId": 112999,
@@ -773,6 +735,11 @@
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
+        },
+        {
+          "id": 12868,
+          "name": "Dustin Nguyen",
+          "role": "penciler (cover)"
         }
       ]
     },
@@ -811,44 +778,6 @@
           "id": 13682,
           "name": "PEACH MOMOKO",
           "role": "inker"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 112999,
-      "title": "Ultimate X-Men (2024) #3",
-      "issueNumber": 3,
-      "description": "THE MYSTERIOUS MAYSTORM, REVEALED! Maystorm's origin! Mei Igarashi was a regular girl until she discovered her unusual abilities and her hair changed from brown to white… And how she came to idolize a mysterious freedom fighter in Africa who also harnesses the power of the storm!",
-      "date": "2024-05-15T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/e/a0/6657416999c08",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/112999/ultimate_x-men_2024_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [
-        115663,
-        116513,
-        116514,
-        116608,
-        116609
-      ],
-      "variantBaseId": 112999,
-      "creators": [
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "penciler (cover)"
         },
         {
           "id": 12376,
@@ -901,22 +830,22 @@
       ]
     },
     {
-      "id": 116513,
+      "id": 116608,
       "title": "Ultimate X-Men (2024) #3 (Variant)",
       "issueNumber": 3,
       "description": "THE MYSTERIOUS MAYSTORM, REVEALED! Maystorm's origin! Mei Igarashi was a regular girl until she discovered her unusual abilities and her hair changed from brown to white… And how she came to idolize a mysterious freedom fighter in Africa who also harnesses the power of the storm!",
       "date": "2024-05-15T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/30/663e6d9294525",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/90/663e6d8a6504b",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/116513/ultimate_x-men_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/116608/ultimate_x-men_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
         112999,
         115663,
+        116513,
         116514,
-        116608,
         116609
       ],
       "variantBaseId": 112999,
@@ -935,11 +864,124 @@
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 116609,
+      "title": "Ultimate X-Men (2024) #3 (Variant)",
+      "issueNumber": 3,
+      "description": "THE MYSTERIOUS MAYSTORM, REVEALED! Maystorm's origin! Mei Igarashi was a regular girl until she discovered her unusual abilities and her hair changed from brown to white… And how she came to idolize a mysterious freedom fighter in Africa who also harnesses the power of the storm!",
+      "date": "2024-05-15T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/c0/663e6d94d0705",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/116609/ultimate_x-men_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        112999,
+        115663,
+        116513,
+        116514,
+        116608
+      ],
+      "variantBaseId": 112999,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
         },
         {
-          "id": 12868,
-          "name": "Dustin Nguyen",
+          "id": 13682,
+          "name": "PEACH MOMOKO",
           "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 112999,
+      "title": "Ultimate X-Men (2024) #3",
+      "issueNumber": 3,
+      "description": "THE MYSTERIOUS MAYSTORM, REVEALED! Maystorm's origin! Mei Igarashi was a regular girl until she discovered her unusual abilities and her hair changed from brown to white… And how she came to idolize a mysterious freedom fighter in Africa who also harnesses the power of the storm!",
+      "date": "2024-05-15T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/e/a0/6657416999c08",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/112999/ultimate_x-men_2024_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        115663,
+        116513,
+        116514,
+        116608,
+        116609
+      ],
+      "variantBaseId": 112999,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 120818,
+      "title": "Ultimate X-Men (2024) #4 (Variant)",
+      "issueNumber": 4,
+      "description": "NEW MUTANTS! Hisako and Mei's classmate, Nico Minoru, has figured out that these two girls possess unusual abilities… But they're not the only ones! Hisako's world gets a whole lot bigger in ULTIMATE X-MEN #4!",
+      "date": "2024-06-12T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/30/6663549ea537f",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/120818/ultimate_x-men_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113000,
+        116610,
+        116611,
+        118818
+      ],
+      "variantBaseId": 113000,
+      "creators": [
+        {
+          "id": 12849,
+          "name": "Meghan Hetrick",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
         }
       ]
     },
@@ -1097,34 +1139,34 @@
       ]
     },
     {
-      "id": 120818,
-      "title": "Ultimate X-Men (2024) #4 (Variant)",
-      "issueNumber": 4,
-      "description": "NEW MUTANTS! Hisako and Mei's classmate, Nico Minoru, has figured out that these two girls possess unusual abilities… But they're not the only ones! Hisako's world gets a whole lot bigger in ULTIMATE X-MEN #4!",
-      "date": "2024-06-12T00:00:00-0400",
+      "id": 119726,
+      "title": "Ultimate X-Men (2024) #5 (Variant)",
+      "issueNumber": 5,
+      "description": "THE NEW MUTANTS FACE THEIR FIRST ENEMY! Maystorm isn't the only mutant with electric powers - and Noriko Ashida is here to make sure she knows it! A fun summer festival turns haunted and dangerous as spirits and surges collide! PLUS: The shadow who has been haunting Armor finally reveals his true face!",
+      "date": "2024-07-17T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/30/6663549ea537f",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/10/66951fb40afa1",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/120818/ultimate_x-men_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/119726/ultimate_x-men_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
-        113000,
-        116610,
-        116611,
-        118818
+        113902,
+        119725,
+        120822,
+        122171
       ],
-      "variantBaseId": 113000,
+      "variantBaseId": 113902,
       "creators": [
-        {
-          "id": 12849,
-          "name": "Meghan Hetrick",
-          "role": "penciler (cover)"
-        },
         {
           "id": 12993,
           "name": "Vc Travis Lanham",
           "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
         },
         {
           "id": 13682,
@@ -1132,8 +1174,8 @@
           "role": "inker"
         },
         {
-          "id": 12376,
-          "name": "Wilson Moss",
+          "id": 13127,
+          "name": "Emily Newcomen",
           "role": "editor"
         }
       ]
@@ -1186,64 +1228,22 @@
       ]
     },
     {
-      "id": 119726,
+      "id": 122171,
       "title": "Ultimate X-Men (2024) #5 (Variant)",
       "issueNumber": 5,
       "description": "THE NEW MUTANTS FACE THEIR FIRST ENEMY! Maystorm isn't the only mutant with electric powers - and Noriko Ashida is here to make sure she knows it! A fun summer festival turns haunted and dangerous as spirits and surges collide! PLUS: The shadow who has been haunting Armor finally reveals his true face!",
       "date": "2024-07-17T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/10/66951fb40afa1",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/80/66951fc1ecc34",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/119726/ultimate_x-men_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/122171/ultimate_x-men_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
         113902,
         119725,
-        120822,
-        122171
-      ],
-      "variantBaseId": 113902,
-      "creators": [
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13138,
-          "name": "In-Hyuk Lee",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "inker"
-        },
-        {
-          "id": 13127,
-          "name": "Emily Newcomen",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 113902,
-      "title": "Ultimate X-Men (2024) #5",
-      "issueNumber": 5,
-      "description": "THE NEW MUTANTS FACE THEIR FIRST ENEMY! Maystorm isn't the only mutant with electric powers - and Noriko Ashida is here to make sure she knows it! A fun summer festival turns haunted and dangerous as spirits and surges collide! PLUS: The shadow who has been haunting Armor finally reveals his true face!",
-      "date": "2024-07-17T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/80/66a7f60689e8c",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113902/ultimate_x-men_2024_5?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [
-        119725,
         119726,
-        120822,
-        122171
+        120822
       ],
       "variantBaseId": 113902,
       "creators": [
@@ -1307,22 +1307,22 @@
       ]
     },
     {
-      "id": 122171,
-      "title": "Ultimate X-Men (2024) #5 (Variant)",
+      "id": 113902,
+      "title": "Ultimate X-Men (2024) #5",
       "issueNumber": 5,
       "description": "THE NEW MUTANTS FACE THEIR FIRST ENEMY! Maystorm isn't the only mutant with electric powers - and Noriko Ashida is here to make sure she knows it! A fun summer festival turns haunted and dangerous as spirits and surges collide! PLUS: The shadow who has been haunting Armor finally reveals his true face!",
       "date": "2024-07-17T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/80/66951fc1ecc34",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/80/66a7f60689e8c",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/122171/ultimate_x-men_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
+      "detailUrl": "https://marvel.com/comics/issue/113902/ultimate_x-men_2024_5?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
       "variants": [
-        113902,
         119725,
         119726,
-        120822
+        120822,
+        122171
       ],
       "variantBaseId": 113902,
       "creators": [
@@ -1344,22 +1344,22 @@
       ]
     },
     {
-      "id": 122172,
-      "title": "Ultimate X-Men (2024) #6 (Variant)",
+      "id": 113903,
+      "title": "Ultimate X-Men (2024) #6",
       "issueNumber": 6,
       "description": "THE ACTION-PACKED FINALE OF THE FIRST ARC! Armor, Maystorm and the rest of the team hunt down the mysterious shadow! But is this group of scrappy teens prepared to face true darkness? And don't miss the reveal of the final member of the group on the last page!",
       "date": "2024-08-28T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/30/66ccd0270a020",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/a0/664cce95172d2",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/122172/ultimate_x-men_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
+      "detailUrl": "https://marvel.com/comics/issue/113903/ultimate_x-men_2024_6?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
       "variants": [
-        113903,
         120823,
         121017,
-        121018
+        121018,
+        122172
       ],
       "variantBaseId": 113903,
       "creators": [
@@ -1371,7 +1371,7 @@
         {
           "id": 13682,
           "name": "PEACH MOMOKO",
-          "role": "colorist (cover)"
+          "role": "penciler (cover)"
         },
         {
           "id": 12376,
@@ -1414,6 +1414,43 @@
           "id": 13682,
           "name": "PEACH MOMOKO",
           "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 122172,
+      "title": "Ultimate X-Men (2024) #6 (Variant)",
+      "issueNumber": 6,
+      "description": "THE ACTION-PACKED FINALE OF THE FIRST ARC! Armor, Maystorm and the rest of the team hunt down the mysterious shadow! But is this group of scrappy teens prepared to face true darkness? And don't miss the reveal of the final member of the group on the last page!",
+      "date": "2024-08-28T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/30/66ccd0270a020",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/122172/ultimate_x-men_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113903,
+        120823,
+        121017,
+        121018
+      ],
+      "variantBaseId": 113903,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "colorist (cover)"
         },
         {
           "id": 12376,
@@ -1507,58 +1544,21 @@
       ]
     },
     {
-      "id": 113903,
-      "title": "Ultimate X-Men (2024) #6",
-      "issueNumber": 6,
-      "description": "THE ACTION-PACKED FINALE OF THE FIRST ARC! Armor, Maystorm and the rest of the team hunt down the mysterious shadow! But is this group of scrappy teens prepared to face true darkness? And don't miss the reveal of the final member of the group on the last page!",
-      "date": "2024-08-28T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/a0/664cce95172d2",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113903/ultimate_x-men_2024_6?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [
-        120823,
-        121017,
-        121018,
-        122172
-      ],
-      "variantBaseId": 113903,
-      "creators": [
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 113904,
-      "title": "Ultimate X-Men (2024) #7",
+      "id": 121497,
+      "title": "Ultimate X-Men (2024) #7 (Variant)",
       "issueNumber": 7,
       "description": "MEET THE MUTANTS' NEW MENTOR, PSYLOCKE! After the climactic finale of issue #6 and the surprise new teammate they found, Mei, Hisako, Nico and the mutants need some guidance! Fortunately, the mysterious Kanon is an older student with a surprising amount of expertise…",
       "date": "2024-09-18T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/d0/66e348210b2d1",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/d0/66ec71bfd011b",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/113904/ultimate_x-men_2024_7?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "detailUrl": "https://marvel.com/comics/issue/121497/ultimate_x-men_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
       "variants": [
+        113904,
         121395,
         121396,
-        121497,
         121498,
         123300
       ],
@@ -1572,50 +1572,17 @@
         {
           "id": 13682,
           "name": "PEACH MOMOKO",
-          "role": "penciler (cover)"
+          "role": "inker"
         },
         {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 123300,
-      "title": "Ultimate X-Men (2024) #7 (Variant)",
-      "issueNumber": 7,
-      "description": "MEET THE MUTANTS' NEW MENTOR, PSYLOCKE! After the climactic finale of issue #6 and the surprise new teammate they found, Mei, Hisako, Nico and the mutants need some guidance! Fortunately, the mysterious Kanon is an older student with a surprising amount of expertise…",
-      "date": "2024-09-18T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/60/66ec71c2624c5",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/123300/ultimate_x-men_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        113904,
-        121395,
-        121396,
-        121497,
-        121498
-      ],
-      "variantBaseId": 113904,
-      "creators": [
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
         },
         {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
+          "id": 11309,
+          "name": "Mike Del Mundo",
+          "role": "painter (cover)"
         }
       ]
     },
@@ -1696,21 +1663,21 @@
       ]
     },
     {
-      "id": 121497,
-      "title": "Ultimate X-Men (2024) #7 (Variant)",
+      "id": 113904,
+      "title": "Ultimate X-Men (2024) #7",
       "issueNumber": 7,
       "description": "MEET THE MUTANTS' NEW MENTOR, PSYLOCKE! After the climactic finale of issue #6 and the surprise new teammate they found, Mei, Hisako, Nico and the mutants need some guidance! Fortunately, the mysterious Kanon is an older student with a surprising amount of expertise…",
       "date": "2024-09-18T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/d0/66ec71bfd011b",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/d0/66e348210b2d1",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/121497/ultimate_x-men_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
+      "detailUrl": "https://marvel.com/comics/issue/113904/ultimate_x-men_2024_7?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
       "variants": [
-        113904,
         121395,
         121396,
+        121497,
         121498,
         123300
       ],
@@ -1724,17 +1691,12 @@
         {
           "id": 13682,
           "name": "PEACH MOMOKO",
-          "role": "inker"
+          "role": "penciler (cover)"
         },
         {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
-        },
-        {
-          "id": 11309,
-          "name": "Mike Del Mundo",
-          "role": "painter (cover)"
         }
       ]
     },
@@ -1782,24 +1744,25 @@
       ]
     },
     {
-      "id": 113905,
-      "title": "Ultimate X-Men (2024) #8",
-      "issueNumber": 8,
-      "description": "WHO ARE THE CHILDREN OF THE ATOM? What are mutants? Where do they come from? And how has the Maker's Council been keeping them under control? All these dark questions and more start to unravel as our heroes investigate a murder that, for some reason, the authorities keep covering up! And Shadow King advances his sinister plots!",
-      "date": "2024-10-30T00:00:00-0400",
+      "id": 123300,
+      "title": "Ultimate X-Men (2024) #7 (Variant)",
+      "issueNumber": 7,
+      "description": "MEET THE MUTANTS' NEW MENTOR, PSYLOCKE! After the climactic finale of issue #6 and the surprise new teammate they found, Mei, Hisako, Nico and the mutants need some guidance! Fortunately, the mysterious Kanon is an older student with a surprising amount of expertise…",
+      "date": "2024-09-18T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/70/66a3ee66a24a8",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/60/66ec71c2624c5",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/113905/ultimate_x-men_2024_8?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "detailUrl": "https://marvel.com/comics/issue/123300/ultimate_x-men_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
       "variants": [
-        122519,
-        122520,
-        123301,
-        123616
+        113904,
+        121395,
+        121396,
+        121497,
+        121498
       ],
-      "variantBaseId": 113905,
+      "variantBaseId": 113904,
       "creators": [
         {
           "id": 12993,
@@ -1903,6 +1866,43 @@
       ]
     },
     {
+      "id": 123301,
+      "title": "Ultimate X-Men (2024) #8 (Variant)",
+      "issueNumber": 8,
+      "description": "WHO ARE THE CHILDREN OF THE ATOM? What are mutants? Where do they come from? And how has the Maker's Council been keeping them under control? All these dark questions and more start to unravel as our heroes investigate a murder that, for some reason, the authorities keep covering up! And Shadow King advances his sinister plots!",
+      "date": "2024-10-30T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/d0/6765fadfbbf6c",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/123301/ultimate_x-men_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113905,
+        122519,
+        122520,
+        123616
+      ],
+      "variantBaseId": 113905,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
       "id": 123616,
       "title": "Ultimate X-Men (2024) #8 (Variant)",
       "issueNumber": 8,
@@ -1945,21 +1945,21 @@
       ]
     },
     {
-      "id": 123301,
-      "title": "Ultimate X-Men (2024) #8 (Variant)",
+      "id": 113905,
+      "title": "Ultimate X-Men (2024) #8",
       "issueNumber": 8,
       "description": "WHO ARE THE CHILDREN OF THE ATOM? What are mutants? Where do they come from? And how has the Maker's Council been keeping them under control? All these dark questions and more start to unravel as our heroes investigate a murder that, for some reason, the authorities keep covering up! And Shadow King advances his sinister plots!",
       "date": "2024-10-30T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/d0/6765fadfbbf6c",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/70/66a3ee66a24a8",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/123301/ultimate_x-men_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
+      "detailUrl": "https://marvel.com/comics/issue/113905/ultimate_x-men_2024_8?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
       "variants": [
-        113905,
         122519,
         122520,
+        123301,
         123616
       ],
       "variantBaseId": 113905,
@@ -1972,7 +1972,43 @@
         {
           "id": 13682,
           "name": "PEACH MOMOKO",
-          "role": "writer"
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 113906,
+      "title": "Ultimate X-Men (2024) #9",
+      "issueNumber": 9,
+      "description": "MAYSTORM VS. SURGE IN A STATIC SKIRMISH! Lightning collides as Maystorm and Surge finally confront each other! But when Surge is left weak and drained of her power, Maystorm has even more questions… And must investigate the mysterious cult Surge is part of and its relationship to the mutants of the Ultimate Universe!",
+      "date": "2024-11-13T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/80/67337c7d12a5f",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113906/ultimate_x-men_2024_9?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        123302,
+        123524,
+        123525
+      ],
+      "variantBaseId": 113906,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
         },
         {
           "id": 12376,
@@ -2059,42 +2095,6 @@
       ]
     },
     {
-      "id": 113906,
-      "title": "Ultimate X-Men (2024) #9",
-      "issueNumber": 9,
-      "description": "MAYSTORM VS. SURGE IN A STATIC SKIRMISH! Lightning collides as Maystorm and Surge finally confront each other! But when Surge is left weak and drained of her power, Maystorm has even more questions… And must investigate the mysterious cult Surge is part of and its relationship to the mutants of the Ultimate Universe!",
-      "date": "2024-11-13T00:00:00-0500",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/80/67337c7d12a5f",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113906/ultimate_x-men_2024_9?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [
-        123302,
-        123524,
-        123525
-      ],
-      "variantBaseId": 113906,
-      "creators": [
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
       "id": 123525,
       "title": "Ultimate X-Men (2024) #9 (Variant)",
       "issueNumber": 9,
@@ -2172,47 +2172,6 @@
       ]
     },
     {
-      "id": 124529,
-      "title": "Ultimate X-Men (2024) #10 (Variant)",
-      "issueNumber": 10,
-      "description": "ENTER…VIPER!  Viper enters the stage after a mass raid on the cult known as the Children of the Atom!  What has the Maker's Council been doing with the cult's mutants? And what of the mysterious figure they have been keeping prisoner? Hisako and her friends face a new world order as the raid leaves mutants unleashed!",
-      "date": "2024-12-11T00:00:00-0500",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/80/675a0a80c10f1",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/124529/ultimate_x-men_2024_10_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        113907,
-        123303,
-        124723
-      ],
-      "variantBaseId": 113907,
-      "creators": [
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 14299,
-          "name": "Mateus Manhanini",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "writer"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
       "id": 124723,
       "title": "Ultimate X-Men (2024) #10 (Variant)",
       "issueNumber": 10,
@@ -2271,6 +2230,82 @@
         124723
       ],
       "variantBaseId": 113907,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 124529,
+      "title": "Ultimate X-Men (2024) #10 (Variant)",
+      "issueNumber": 10,
+      "description": "ENTER…VIPER!  Viper enters the stage after a mass raid on the cult known as the Children of the Atom!  What has the Maker's Council been doing with the cult's mutants? And what of the mysterious figure they have been keeping prisoner? Hisako and her friends face a new world order as the raid leaves mutants unleashed!",
+      "date": "2024-12-11T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/80/675a0a80c10f1",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/124529/ultimate_x-men_2024_10_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113907,
+        123303,
+        124723
+      ],
+      "variantBaseId": 113907,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 14299,
+          "name": "Mateus Manhanini",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 113908,
+      "title": "Ultimate X-Men (2024) #11",
+      "issueNumber": 11,
+      "description": "WHO ARE THE X-MEN? RISE OF THE MASKED MUTANTS! Maystorm takes the reins! No more hiding their powers - even if it means hiding their faces! Disenfranchised and despairing after the raid on the Children of the Atom, the man-made mutants seek out leadership - and Maystorm is ready to rise to the occasion!",
+      "date": "2025-01-29T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/e/70/671934829e970",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113908/ultimate_x-men_2024_11?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        123304,
+        124933
+      ],
+      "variantBaseId": 113908,
       "creators": [
         {
           "id": 12993,
@@ -2365,22 +2400,105 @@
       ]
     },
     {
-      "id": 113908,
-      "title": "Ultimate X-Men (2024) #11",
-      "issueNumber": 11,
-      "description": "WHO ARE THE X-MEN? RISE OF THE MASKED MUTANTS! Maystorm takes the reins! No more hiding their powers - even if it means hiding their faces! Disenfranchised and despairing after the raid on the Children of the Atom, the man-made mutants seek out leadership - and Maystorm is ready to rise to the occasion!",
-      "date": "2025-01-29T00:00:00-0500",
+      "id": 126005,
+      "title": "Ultimate X-Men (2024) #12 (Variant)",
+      "issueNumber": 12,
+      "description": "SHOWDOWN WITH THE SHADOW KING! Maystorm leads her team of masked mutants in a climactic battle against Shadow King! But the confrontation leads to a huge rift between best friends Maystorm and Armor…",
+      "date": "2025-02-26T00:00:00-0500",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/e/70/671934829e970",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/50/67bdd3ecf0183",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/113908/ultimate_x-men_2024_11?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "detailUrl": "https://marvel.com/comics/issue/126005/ultimate_x-men_2024_12_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
       "variants": [
-        123304,
-        124933
+        113909,
+        123305,
+        126006
       ],
-      "variantBaseId": 113908,
+      "variantBaseId": 126005,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 245,
+          "name": "Jim Mahfood",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 126006,
+      "title": "Ultimate X-Men (2024) #12 (Variant)",
+      "issueNumber": 12,
+      "description": "SHOWDOWN WITH THE SHADOW KING! Maystorm leads her team of masked mutants in a climactic battle against Shadow King! But the confrontation leads to a huge rift between best friends Maystorm and Armor…",
+      "date": "2025-02-26T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/80/67bdd3e5c723d",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/126006/ultimate_x-men_2024_12_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113909,
+        123305,
+        126005
+      ],
+      "variantBaseId": 126006,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 11757,
+          "name": "Salvador Larroca",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 123305,
+      "title": "Ultimate X-Men (2024) #12 (Variant)",
+      "issueNumber": 12,
+      "description": "SHOWDOWN WITH THE SHADOW KING! Maystorm leads her team of masked mutants in a climactic battle against Shadow King! But the confrontation leads to a huge rift between best friends Maystorm and Armor…",
+      "date": "2025-02-26T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/a0/67bdd3e74c615",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/123305/ultimate_x-men_2024_12_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113909,
+        126005,
+        126006
+      ],
+      "variantBaseId": 123305,
       "creators": [
         {
           "id": 12993,
@@ -2413,102 +2531,6 @@
       "isVariant": false,
       "variants": [],
       "variantBaseId": 113909,
-      "creators": [
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 113910,
-      "title": "Ultimate X-Men (2024) #13",
-      "issueNumber": 13,
-      "description": "THE MUTANT NEW WORLD ORDER? The start of the second year of ULTIMATE X-MEN! Chaos erupts as former Children of the Atom rise up against the society that used and abused them, just as tension between Armor and Maystorm comes to a head in an explosive confrontation!",
-      "date": "2025-03-19T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/e/03/676405ef46660",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113910/ultimate_x-men_2024_13?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113910,
-      "creators": [
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 113911,
-      "title": "Ultimate X-Men (2024) #14",
-      "issueNumber": 14,
-      "description": "The Shadow King returns...more powerful than ever! Will Armor be the first to fall?",
-      "date": "2025-04-02T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/50/6791569f50c8c",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113911/ultimate_x-men_2024_14?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113911,
-      "creators": [
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 113912,
-      "title": "Ultimate X-Men (2024) #15",
-      "issueNumber": 15,
-      "description": "A \"New Age\" is upon us! Witness how Hisako's journey through her inner darkness wreaks havoc on her fellow mutants and reality itself!",
-      "date": "2025-05-07T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/e0/67ab8f7f56a06",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113912/ultimate_x-men_2024_15?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113912,
       "creators": [
         {
           "id": 12993,
@@ -2691,23 +2713,23 @@
       "role": "penciler (cover)"
     },
     {
+      "id": 11757,
+      "name": "Salvador Larroca",
+      "role": "penciler (cover)"
+    },
+    {
       "id": 13138,
       "name": "In-Hyuk Lee",
       "role": "penciler (cover)"
     },
     {
+      "id": 245,
+      "name": "Jim Mahfood",
+      "role": "penciler (cover)"
+    },
+    {
       "id": 14299,
       "name": "Mateus Manhanini",
-      "role": "penciler (cover)"
-    },
-    {
-      "id": 13682,
-      "name": "PEACH MOMOKO",
-      "role": "penciler (cover)"
-    },
-    {
-      "id": 11930,
-      "name": "Tradd Moore",
       "role": "penciler (cover)"
     },
     {
