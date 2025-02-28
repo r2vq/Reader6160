@@ -2193,6 +2193,162 @@
           "role": "penciler (cover)"
         }
       ]
+    },
+    {
+      "id": 113927,
+      "title": "Ultimates (2024) #10",
+      "issueNumber": 10,
+      "description": "NAMOR AND THE RED SKULL! Captain America and the Human Torch lead a team to recruit their old comrade - Namor! But they'll have to get through the Red Skull Gang first!",
+      "date": "2025-03-05T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/60/67b74ad8cda33",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113927/ultimates_2024_10?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113927,
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 113928,
+      "title": "Ultimates (2024) #11",
+      "issueNumber": 11,
+      "description": "THE WAR FOR ASGARD! A NEW HERO APPROACHES! Time to topple another of the Maker's dominoes: removing LOKI from his seat of power in Asgard! Thor, Sif and She-Hulk journey into mystery for blood, for glory and for rebellion, and discover a surprising new ally!",
+      "date": "2025-04-09T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/b0/6791568474df7",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113928/ultimates_2024_11?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113928,
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 113929,
+      "title": "Ultimates (2024) #12",
+      "issueNumber": 12,
+      "description": "THE ULTIMATE FRACTURE! Dissent destroys the Ultimates as a disagreement long developing between two members of the team leads to a devastating departure!",
+      "date": "2025-05-21T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/10/67a39d0729376",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113929/ultimates_2024_12?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113929,
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        }
+      ]
     }
   ],
   "creators": [
@@ -2209,11 +2365,6 @@
     {
       "id": 11579,
       "name": "Sunny Gho",
-      "role": "colorist (cover)"
-    },
-    {
-      "id": 13675,
-      "name": "Neeraj Menon",
       "role": "colorist (cover)"
     },
     {
@@ -2257,6 +2408,11 @@
       "role": "penciler (cover)"
     },
     {
+      "id": 425,
+      "name": "Greg Land",
+      "role": "penciler (cover)"
+    },
+    {
       "id": 13138,
       "name": "In-Hyuk Lee",
       "role": "penciler (cover)"
@@ -2267,8 +2423,8 @@
       "role": "penciler (cover)"
     },
     {
-      "id": 14667,
-      "name": "Gleb Melnikov",
+      "id": 14299,
+      "name": "Mateus Manhanini",
       "role": "penciler (cover)"
     },
     {
