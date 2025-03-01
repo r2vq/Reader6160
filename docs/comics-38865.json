@@ -597,6 +597,57 @@
       ]
     },
     {
+      "id": 120340,
+      "title": "Ultimates (2024) #3 (Variant)",
+      "issueNumber": 3,
+      "description": "INTRODUCING…THE SHE-HULK!  The Ultimates search for a means of destroying the Maker's most powerful pawn, the Hulk! And in the process they uncover an army of Hulks hidden away from the world… …with She-Hulk at the helm!",
+      "date": "2024-08-14T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/c0/66b67def36dca",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/120340/ultimates_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113213,
+        121019,
+        121020
+      ],
+      "variantBaseId": 113213,
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "painter (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
       "id": 113213,
       "title": "Ultimates (2024) #3",
       "issueNumber": 3,
@@ -653,38 +704,30 @@
       ]
     },
     {
-      "id": 120340,
-      "title": "Ultimates (2024) #3 (Variant)",
-      "issueNumber": 3,
-      "description": "INTRODUCING…THE SHE-HULK!  The Ultimates search for a means of destroying the Maker's most powerful pawn, the Hulk! And in the process they uncover an army of Hulks hidden away from the world… …with She-Hulk at the helm!",
-      "date": "2024-08-14T00:00:00-0400",
+      "id": 121398,
+      "title": "Ultimates (2024) #4 (Variant)",
+      "issueNumber": 4,
+      "description": "THE FATE OF THE ULTIMATE FANTASTIC FOUR!  Doom's years of torture at the hands of the Maker finally catch up to him in this secret history of the real Reed Richards! And tensions rise among the Ultimates when Doom might be more fixated on re-creating the life he should have had than the life he's got…",
+      "date": "2024-09-04T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/c0/66b67def36dca",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/10/66d7188813d44",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/120340/ultimates_2024_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/121398/ultimates_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
-        113213,
-        121019,
-        121020
+        113214,
+        120824,
+        121397,
+        121499,
+        121500
       ],
-      "variantBaseId": 113213,
+      "variantBaseId": 113214,
       "creators": [
-        {
-          "id": 13180,
-          "name": "Federico Blee",
-          "role": "colorist"
-        },
         {
           "id": 14547,
           "name": "Deniz Camp",
           "role": "writer"
-        },
-        {
-          "id": 12624,
-          "name": "Juan Frigeri",
-          "role": "inker"
         },
         {
           "id": 12993,
@@ -692,14 +735,14 @@
           "role": "letterer"
         },
         {
-          "id": 13138,
-          "name": "In-Hyuk Lee",
-          "role": "painter (cover)"
-        },
-        {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
+        },
+        {
+          "id": 13459,
+          "name": "Phil Noto",
+          "role": "inker"
         }
       ]
     },
@@ -747,21 +790,21 @@
       ]
     },
     {
-      "id": 121398,
+      "id": 120824,
       "title": "Ultimates (2024) #4 (Variant)",
       "issueNumber": 4,
       "description": "THE FATE OF THE ULTIMATE FANTASTIC FOUR!  Doom's years of torture at the hands of the Maker finally catch up to him in this secret history of the real Reed Richards! And tensions rise among the Ultimates when Doom might be more fixated on re-creating the life he should have had than the life he's got…",
       "date": "2024-09-04T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/10/66d7188813d44",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/80/66d7188f8c149",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/121398/ultimates_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/120824/ultimates_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
         113214,
-        120824,
         121397,
+        121398,
         121499,
         121500
       ],
@@ -778,6 +821,11 @@
           "role": "letterer"
         },
         {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
+        },
+        {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
@@ -786,6 +834,59 @@
           "id": 13459,
           "name": "Phil Noto",
           "role": "inker"
+        }
+      ]
+    },
+    {
+      "id": 113214,
+      "title": "Ultimates (2024) #4",
+      "issueNumber": 4,
+      "description": "THE FATE OF THE ULTIMATE FANTASTIC FOUR!  Doom's years of torture at the hands of the Maker finally catch up to him in this secret history of the real Reed Richards! And tensions rise among the Ultimates when Doom might be more fixated on re-creating the life he should have had than the life he's got…",
+      "date": "2024-09-04T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/90/66d0826e46fc0",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113214/ultimates_2024_4?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        120824,
+        121397,
+        121398,
+        121499,
+        121500
+      ],
+      "variantBaseId": 113214,
+      "creators": [
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13459,
+          "name": "Phil Noto",
+          "role": "inker"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
         }
       ]
     },
@@ -886,121 +987,20 @@
       ]
     },
     {
-      "id": 113214,
-      "title": "Ultimates (2024) #4",
-      "issueNumber": 4,
-      "description": "THE FATE OF THE ULTIMATE FANTASTIC FOUR!  Doom's years of torture at the hands of the Maker finally catch up to him in this secret history of the real Reed Richards! And tensions rise among the Ultimates when Doom might be more fixated on re-creating the life he should have had than the life he's got…",
-      "date": "2024-09-04T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/90/66d0826e46fc0",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113214/ultimates_2024_4?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [
-        120824,
-        121397,
-        121398,
-        121499,
-        121500
-      ],
-      "variantBaseId": 113214,
-      "creators": [
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13675,
-          "name": "Neeraj Menon",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 13459,
-          "name": "Phil Noto",
-          "role": "inker"
-        },
-        {
-          "id": 13932,
-          "name": "Dike Ruan",
-          "role": "penciler (cover)"
-        }
-      ]
-    },
-    {
-      "id": 120824,
-      "title": "Ultimates (2024) #4 (Variant)",
-      "issueNumber": 4,
-      "description": "THE FATE OF THE ULTIMATE FANTASTIC FOUR!  Doom's years of torture at the hands of the Maker finally catch up to him in this secret history of the real Reed Richards! And tensions rise among the Ultimates when Doom might be more fixated on re-creating the life he should have had than the life he's got…",
-      "date": "2024-09-04T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/80/66d7188f8c149",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/120824/ultimates_2024_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        113214,
-        121397,
-        121398,
-        121499,
-        121500
-      ],
-      "variantBaseId": 113214,
-      "creators": [
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13138,
-          "name": "In-Hyuk Lee",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 13459,
-          "name": "Phil Noto",
-          "role": "inker"
-        }
-      ]
-    },
-    {
-      "id": 122521,
-      "title": "Ultimates (2024) #5 (Variant)",
+      "id": 113922,
+      "title": "Ultimates (2024) #5",
       "issueNumber": 5,
       "description": "ULTIMATE HAWKEYE TARGETS CAPTAIN AMERICA! Hawkeye No More? Not for long! A new challenger approaches when an unknown civilian picks up a discarded bow and arrow - and refuses to let the Ultimates reclaim the stolen Stark Tech! Captain America tries to settle the dispute, leading to an action-packed brawl of arrows versus shields! Meanwhile, the Ultimate Hellfire Club is up to something…",
       "date": "2024-10-09T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/10/66fc4761774dc",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/a0/66fc08646155a",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/122521/ultimates_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
+      "detailUrl": "https://marvel.com/comics/issue/113922/ultimates_2024_5?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
       "variants": [
-        113922,
         120825,
+        122521,
         122522
       ],
       "variantBaseId": 113922,
@@ -1026,64 +1026,18 @@
           "role": "letterer"
         },
         {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
         },
         {
-          "id": 13235,
-          "name": "Geoffrey Shaw",
-          "role": "penciler (cover)"
-        }
-      ]
-    },
-    {
-      "id": 122522,
-      "title": "Ultimates (2024) #5 (Variant)",
-      "issueNumber": 5,
-      "description": "ULTIMATE HAWKEYE TARGETS CAPTAIN AMERICA! Hawkeye No More? Not for long! A new challenger approaches when an unknown civilian picks up a discarded bow and arrow - and refuses to let the Ultimates reclaim the stolen Stark Tech! Captain America tries to settle the dispute, leading to an action-packed brawl of arrows versus shields! Meanwhile, the Ultimate Hellfire Club is up to something…",
-      "date": "2024-10-09T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/90/66fc47617eb1b",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/122522/ultimates_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        113922,
-        120825,
-        122521
-      ],
-      "variantBaseId": 113922,
-      "creators": [
-        {
-          "id": 13180,
-          "name": "Federico Blee",
-          "role": "colorist"
-        },
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        },
-        {
-          "id": 12624,
-          "name": "Juan Frigeri",
-          "role": "inker"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13127,
-          "name": "Emily Newcomen",
-          "role": "editor"
-        },
-        {
-          "id": 7413,
-          "name": "Paulo Siqueira",
+          "id": 13932,
+          "name": "Dike Ruan",
           "role": "penciler (cover)"
         }
       ]
@@ -1140,20 +1094,71 @@
       ]
     },
     {
-      "id": 113922,
-      "title": "Ultimates (2024) #5",
+      "id": 122522,
+      "title": "Ultimates (2024) #5 (Variant)",
       "issueNumber": 5,
       "description": "ULTIMATE HAWKEYE TARGETS CAPTAIN AMERICA! Hawkeye No More? Not for long! A new challenger approaches when an unknown civilian picks up a discarded bow and arrow - and refuses to let the Ultimates reclaim the stolen Stark Tech! Captain America tries to settle the dispute, leading to an action-packed brawl of arrows versus shields! Meanwhile, the Ultimate Hellfire Club is up to something…",
       "date": "2024-10-09T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/a0/66fc08646155a",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/90/66fc47617eb1b",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/113922/ultimates_2024_5?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "detailUrl": "https://marvel.com/comics/issue/122522/ultimates_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
       "variants": [
+        113922,
         120825,
-        122521,
+        122521
+      ],
+      "variantBaseId": 113922,
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 7413,
+          "name": "Paulo Siqueira",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 122521,
+      "title": "Ultimates (2024) #5 (Variant)",
+      "issueNumber": 5,
+      "description": "ULTIMATE HAWKEYE TARGETS CAPTAIN AMERICA! Hawkeye No More? Not for long! A new challenger approaches when an unknown civilian picks up a discarded bow and arrow - and refuses to let the Ultimates reclaim the stolen Stark Tech! Captain America tries to settle the dispute, leading to an action-packed brawl of arrows versus shields! Meanwhile, the Ultimate Hellfire Club is up to something…",
+      "date": "2024-10-09T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/10/66fc4761774dc",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/122521/ultimates_2024_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113922,
+        120825,
         122522
       ],
       "variantBaseId": 113922,
@@ -1179,9 +1184,165 @@
           "role": "letterer"
         },
         {
-          "id": 13675,
-          "name": "Neeraj Menon",
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13235,
+          "name": "Geoffrey Shaw",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 124530,
+      "title": "Ultimates (2024) #6 (Variant)",
+      "issueNumber": 6,
+      "description": "ULTIMATES ASSEMBLE TO TAKE DOWN THE HULK! The entire roster of THE ULTIMATES unites for the first time in this high octane, climactic conclusion of the first arc!  Iron Lad has a plan to defeat the Hulk, the most powerful and imposing member of the Maker's Council - but has he gotten his team in over their heads?",
+      "date": "2024-11-06T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/00/675b063a89ee6",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/124530/ultimates_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113923,
+        120826,
+        123526,
+        123527
+      ],
+      "variantBaseId": 113923,
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 13748,
+          "name": "Josemaria Casanovas",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 123527,
+      "title": "Ultimates (2024) #6 (Variant)",
+      "issueNumber": 6,
+      "description": "ULTIMATES ASSEMBLE TO TAKE DOWN THE HULK! The entire roster of THE ULTIMATES unites for the first time in this high octane, climactic conclusion of the first arc!  Iron Lad has a plan to defeat the Hulk, the most powerful and imposing member of the Maker's Council - but has he gotten his team in over their heads?",
+      "date": "2024-11-06T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/c0/675b06211090d",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/123527/ultimates_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113923,
+        120826,
+        123526,
+        124530
+      ],
+      "variantBaseId": 113923,
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13459,
+          "name": "Phil Noto",
+          "role": "painter (cover)"
+        }
+      ]
+    },
+    {
+      "id": 123526,
+      "title": "Ultimates (2024) #6 (Variant)",
+      "issueNumber": 6,
+      "description": "ULTIMATES ASSEMBLE TO TAKE DOWN THE HULK! The entire roster of THE ULTIMATES unites for the first time in this high octane, climactic conclusion of the first arc!  Iron Lad has a plan to defeat the Hulk, the most powerful and imposing member of the Maker's Council - but has he gotten his team in over their heads?",
+      "date": "2024-11-06T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/d0/675b0621b047b",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/123526/ultimates_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113923,
+        120826,
+        123527,
+        124530
+      ],
+      "variantBaseId": 113923,
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 11579,
+          "name": "Sunny Gho",
           "role": "colorist (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
         },
         {
           "id": 12376,
@@ -1189,8 +1350,8 @@
           "role": "editor"
         },
         {
-          "id": 13932,
-          "name": "Dike Ruan",
+          "id": 758,
+          "name": "Leinil Francis Yu",
           "role": "penciler (cover)"
         }
       ]
@@ -1305,190 +1466,24 @@
       ]
     },
     {
-      "id": 123526,
-      "title": "Ultimates (2024) #6 (Variant)",
-      "issueNumber": 6,
-      "description": "ULTIMATES ASSEMBLE TO TAKE DOWN THE HULK! The entire roster of THE ULTIMATES unites for the first time in this high octane, climactic conclusion of the first arc!  Iron Lad has a plan to defeat the Hulk, the most powerful and imposing member of the Maker's Council - but has he gotten his team in over their heads?",
-      "date": "2024-11-06T00:00:00-0500",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/d0/675b0621b047b",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/123526/ultimates_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        113923,
-        120826,
-        123527,
-        124530
-      ],
-      "variantBaseId": 113923,
-      "creators": [
-        {
-          "id": 13180,
-          "name": "Federico Blee",
-          "role": "colorist"
-        },
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        },
-        {
-          "id": 12624,
-          "name": "Juan Frigeri",
-          "role": "inker"
-        },
-        {
-          "id": 11579,
-          "name": "Sunny Gho",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 758,
-          "name": "Leinil Francis Yu",
-          "role": "penciler (cover)"
-        }
-      ]
-    },
-    {
-      "id": 123527,
-      "title": "Ultimates (2024) #6 (Variant)",
-      "issueNumber": 6,
-      "description": "ULTIMATES ASSEMBLE TO TAKE DOWN THE HULK! The entire roster of THE ULTIMATES unites for the first time in this high octane, climactic conclusion of the first arc!  Iron Lad has a plan to defeat the Hulk, the most powerful and imposing member of the Maker's Council - but has he gotten his team in over their heads?",
-      "date": "2024-11-06T00:00:00-0500",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/c0/675b06211090d",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/123527/ultimates_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        113923,
-        120826,
-        123526,
-        124530
-      ],
-      "variantBaseId": 113923,
-      "creators": [
-        {
-          "id": 13180,
-          "name": "Federico Blee",
-          "role": "colorist"
-        },
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        },
-        {
-          "id": 12624,
-          "name": "Juan Frigeri",
-          "role": "inker"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13127,
-          "name": "Emily Newcomen",
-          "role": "editor"
-        },
-        {
-          "id": 13459,
-          "name": "Phil Noto",
-          "role": "painter (cover)"
-        }
-      ]
-    },
-    {
-      "id": 124530,
-      "title": "Ultimates (2024) #6 (Variant)",
-      "issueNumber": 6,
-      "description": "ULTIMATES ASSEMBLE TO TAKE DOWN THE HULK! The entire roster of THE ULTIMATES unites for the first time in this high octane, climactic conclusion of the first arc!  Iron Lad has a plan to defeat the Hulk, the most powerful and imposing member of the Maker's Council - but has he gotten his team in over their heads?",
-      "date": "2024-11-06T00:00:00-0500",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/00/675b063a89ee6",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/124530/ultimates_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        113923,
-        120826,
-        123526,
-        123527
-      ],
-      "variantBaseId": 113923,
-      "creators": [
-        {
-          "id": 13180,
-          "name": "Federico Blee",
-          "role": "colorist"
-        },
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        },
-        {
-          "id": 13748,
-          "name": "Josemaria Casanovas",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12624,
-          "name": "Juan Frigeri",
-          "role": "inker"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 124532,
+      "id": 123314,
       "title": "Ultimates (2024) #7 (Variant)",
       "issueNumber": 7,
       "description": "WHO ARE THE ULTIMATES? A NEW STORY ARC BEGINS! Perfect jumping-on point for the uninitiated! The aftermath of the explosive last issue - including the loss of a major member! Join the Ultimates in their secret HQ as they regroup and launch their bold new plan to change the world!",
       "date": "2024-12-04T00:00:00-0500",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/90/67472d082e08c",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/80/67472d08a335e",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/124532/ultimates_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/123314/ultimates_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
         113924,
-        123314,
-        124531
+        124531,
+        124532
       ],
       "variantBaseId": 113924,
       "creators": [
-        {
-          "id": 9018,
-          "name": "Mahmud Asrar",
-          "role": "penciler (cover)"
-        },
         {
           "id": 13180,
           "name": "Federico Blee",
@@ -1510,8 +1505,13 @@
           "role": "letterer"
         },
         {
-          "id": 13127,
-          "name": "Emily Newcomen",
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
           "role": "editor"
         }
       ]
@@ -1573,57 +1573,6 @@
       ]
     },
     {
-      "id": 123314,
-      "title": "Ultimates (2024) #7 (Variant)",
-      "issueNumber": 7,
-      "description": "WHO ARE THE ULTIMATES? A NEW STORY ARC BEGINS! Perfect jumping-on point for the uninitiated! The aftermath of the explosive last issue - including the loss of a major member! Join the Ultimates in their secret HQ as they regroup and launch their bold new plan to change the world!",
-      "date": "2024-12-04T00:00:00-0500",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/80/67472d08a335e",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/123314/ultimates_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        113924,
-        124531,
-        124532
-      ],
-      "variantBaseId": 113924,
-      "creators": [
-        {
-          "id": 13180,
-          "name": "Federico Blee",
-          "role": "colorist"
-        },
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        },
-        {
-          "id": 12624,
-          "name": "Juan Frigeri",
-          "role": "inker"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13138,
-          "name": "In-Hyuk Lee",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
       "id": 124531,
       "title": "Ultimates (2024) #7 (Variant)",
       "issueNumber": 7,
@@ -1675,23 +1624,29 @@
       ]
     },
     {
-      "id": 124934,
-      "title": "Ultimates (2024) #8 (Variant)",
-      "issueNumber": 8,
-      "description": "THE ULTIMATE GUARDIANS OF THE GALAXY! America Chavez takes center stage in this issue as a group of galactic travelers from a far-flung, Maker-free future arrive in search of her!",
-      "date": "2025-01-01T00:00:00-0500",
+      "id": 124532,
+      "title": "Ultimates (2024) #7 (Variant)",
+      "issueNumber": 7,
+      "description": "WHO ARE THE ULTIMATES? A NEW STORY ARC BEGINS! Perfect jumping-on point for the uninitiated! The aftermath of the explosive last issue - including the loss of a major member! Join the Ultimates in their secret HQ as they regroup and launch their bold new plan to change the world!",
+      "date": "2024-12-04T00:00:00-0500",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/90/67472d082e08c",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/124934/ultimates_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/124532/ultimates_2024_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
-        113925,
-        123315
+        113924,
+        123314,
+        124531
       ],
-      "variantBaseId": 113925,
+      "variantBaseId": 113924,
       "creators": [
+        {
+          "id": 9018,
+          "name": "Mahmud Asrar",
+          "role": "penciler (cover)"
+        },
         {
           "id": 13180,
           "name": "Federico Blee",
@@ -1716,11 +1671,51 @@
           "id": 13127,
           "name": "Emily Newcomen",
           "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 123315,
+      "title": "Ultimates (2024) #8 (Variant)",
+      "issueNumber": 8,
+      "description": "THE ULTIMATE GUARDIANS OF THE GALAXY! America Chavez takes center stage in this issue as a group of galactic travelers from a far-flung, Maker-free future arrive in search of her!",
+      "date": "2025-01-01T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/123315/ultimates_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113925,
+        124934
+      ],
+      "variantBaseId": 113925,
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
         },
         {
-          "id": 9408,
-          "name": "Sara Pichelli",
-          "role": "inker (cover)"
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
         }
       ]
     },
@@ -1780,7 +1775,7 @@
       ]
     },
     {
-      "id": 123315,
+      "id": 124934,
       "title": "Ultimates (2024) #8 (Variant)",
       "issueNumber": 8,
       "description": "THE ULTIMATE GUARDIANS OF THE GALAXY! America Chavez takes center stage in this issue as a group of galactic travelers from a far-flung, Maker-free future arrive in search of her!",
@@ -1789,11 +1784,11 @@
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/123315/ultimates_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/124934/ultimates_2024_8_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
         113925,
-        124934
+        123315
       ],
       "variantBaseId": 113925,
       "creators": [
@@ -1808,19 +1803,24 @@
           "role": "writer"
         },
         {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
           "id": 12993,
           "name": "Vc Travis Lanham",
           "role": "letterer"
         },
         {
-          "id": 13138,
-          "name": "In-Hyuk Lee",
-          "role": "penciler (cover)"
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
         },
         {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
+          "id": 9408,
+          "name": "Sara Pichelli",
+          "role": "inker (cover)"
         }
       ]
     },
@@ -1871,113 +1871,6 @@
         {
           "id": 13127,
           "name": "Emily Newcomen",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 126009,
-      "title": "Ultimates (2024) #9 (Variant)",
-      "issueNumber": 9,
-      "description": "LUKE CAGE AND THE ULTIMATE PRISON BREAK!  Juan Frigeri joins Deniz Camp to bring us the history and the future of Luke Cage!  Spider-Man isn't the only success story of Ultimates 1.0…meet the man who has been quietly sabotaging the Maker's Council from behind bars!",
-      "date": "2025-02-05T00:00:00-0500",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/90/67a0d4079286b",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/126009/ultimates_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        113926,
-        123316,
-        126010
-      ],
-      "variantBaseId": 113926,
-      "creators": [
-        {
-          "id": 14669,
-          "name": "Chris Allen",
-          "role": "penciler"
-        },
-        {
-          "id": 13180,
-          "name": "Federico Blee",
-          "role": "colorist"
-        },
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        },
-        {
-          "id": 430,
-          "name": "Edgar Delgado",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 14667,
-          "name": "Gleb Melnikov",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        }
-      ]
-    },
-    {
-      "id": 123316,
-      "title": "Ultimates (2024) #9 (Variant)",
-      "issueNumber": 9,
-      "description": "LUKE CAGE AND THE ULTIMATE PRISON BREAK!  Juan Frigeri joins Deniz Camp to bring us the history and the future of Luke Cage!  Spider-Man isn't the only success story of Ultimates 1.0…meet the man who has been quietly sabotaging the Maker's Council from behind bars!",
-      "date": "2025-02-05T00:00:00-0500",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/b0/67a0d407ea2bc",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/123316/ultimates_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        113926,
-        126009,
-        126010
-      ],
-      "variantBaseId": 113926,
-      "creators": [
-        {
-          "id": 14669,
-          "name": "Chris Allen",
-          "role": "penciler"
-        },
-        {
-          "id": 13180,
-          "name": "Federico Blee",
-          "role": "colorist"
-        },
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13138,
-          "name": "In-Hyuk Lee",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
           "role": "editor"
         }
       ]
@@ -2039,19 +1932,130 @@
       ]
     },
     {
-      "id": 113927,
-      "title": "Ultimates (2024) #10",
+      "id": 123316,
+      "title": "Ultimates (2024) #9 (Variant)",
+      "issueNumber": 9,
+      "description": "LUKE CAGE AND THE ULTIMATE PRISON BREAK!  Juan Frigeri joins Deniz Camp to bring us the history and the future of Luke Cage!  Spider-Man isn't the only success story of Ultimates 1.0…meet the man who has been quietly sabotaging the Maker's Council from behind bars!",
+      "date": "2025-02-05T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/b0/67a0d407ea2bc",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/123316/ultimates_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113926,
+        126009,
+        126010
+      ],
+      "variantBaseId": 113926,
+      "creators": [
+        {
+          "id": 14669,
+          "name": "Chris Allen",
+          "role": "penciler"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 126009,
+      "title": "Ultimates (2024) #9 (Variant)",
+      "issueNumber": 9,
+      "description": "LUKE CAGE AND THE ULTIMATE PRISON BREAK!  Juan Frigeri joins Deniz Camp to bring us the history and the future of Luke Cage!  Spider-Man isn't the only success story of Ultimates 1.0…meet the man who has been quietly sabotaging the Maker's Council from behind bars!",
+      "date": "2025-02-05T00:00:00-0500",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/90/67a0d4079286b",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/126009/ultimates_2024_9_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113926,
+        123316,
+        126010
+      ],
+      "variantBaseId": 113926,
+      "creators": [
+        {
+          "id": 14669,
+          "name": "Chris Allen",
+          "role": "penciler"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 14667,
+          "name": "Gleb Melnikov",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 126643,
+      "title": "Ultimates (2024) #10 (Variant)",
       "issueNumber": 10,
-      "description": "NAMOR AND THE RED SKULL! Captain America and the Human Torch lead a team to recruit their old comrade - Namor! But they'll have to get through the Red Skull Gang first!",
+      "description": "NAMOR AND THE RED SKULL!  Captain America and the Human Torch lead a team to recruit their old comrade - Namor! But they'll have to get through the Red Skull Gang first!",
       "date": "2025-03-05T00:00:00-0500",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/60/67b74ad8cda33",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/80/67c09a58ccea4",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/113927/ultimates_2024_10?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113927,
+      "detailUrl": "https://marvel.com/comics/issue/126643/ultimates_2024_10_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113927,
+        123317,
+        126642
+      ],
+      "variantBaseId": 126643,
       "creators": [
         {
           "id": 13180,
@@ -2069,41 +2073,45 @@
           "role": "inker"
         },
         {
+          "id": 425,
+          "name": "Greg Land",
+          "role": "penciler (cover)"
+        },
+        {
           "id": 12993,
           "name": "Vc Travis Lanham",
           "role": "letterer"
         },
         {
-          "id": 13675,
-          "name": "Neeraj Menon",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
+          "id": 13127,
+          "name": "Emily Newcomen",
           "role": "editor"
         },
         {
-          "id": 13932,
-          "name": "Dike Ruan",
-          "role": "penciler (cover)"
+          "id": 12991,
+          "name": "Rachelle Rosenberg",
+          "role": "colorist (cover)"
         }
       ]
     },
     {
-      "id": 113928,
-      "title": "Ultimates (2024) #11",
-      "issueNumber": 11,
-      "description": "THE WAR FOR ASGARD! A NEW HERO APPROACHES! Time to topple another of the Maker's dominoes: removing LOKI from his seat of power in Asgard! Thor, Sif and She-Hulk journey into mystery for blood, for glory and for rebellion, and discover a surprising new ally!",
-      "date": "2025-04-09T00:00:00-0400",
+      "id": 126642,
+      "title": "Ultimates (2024) #10 (Variant)",
+      "issueNumber": 10,
+      "description": "NAMOR AND THE RED SKULL!  Captain America and the Human Torch lead a team to recruit their old comrade - Namor! But they'll have to get through the Red Skull Gang first!",
+      "date": "2025-03-05T00:00:00-0500",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/b0/6791568474df7",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/a0/67c09a57d26be",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/113928/ultimates_2024_11?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113928,
+      "detailUrl": "https://marvel.com/comics/issue/126642/ultimates_2024_10_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113927,
+        123317,
+        126643
+      ],
+      "variantBaseId": 126642,
       "creators": [
         {
           "id": 13180,
@@ -2126,36 +2134,35 @@
           "role": "letterer"
         },
         {
-          "id": 13675,
-          "name": "Neeraj Menon",
-          "role": "colorist (cover)"
+          "id": 14299,
+          "name": "Mateus Manhanini",
+          "role": "penciler (cover)"
         },
         {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
-        },
-        {
-          "id": 13932,
-          "name": "Dike Ruan",
-          "role": "penciler (cover)"
         }
       ]
     },
     {
-      "id": 113929,
-      "title": "Ultimates (2024) #12",
-      "issueNumber": 12,
-      "description": "THE ULTIMATE FRACTURE! Dissent destroys the Ultimates as a disagreement long developing between two members of the team leads to a devastating departure!",
-      "date": "2025-05-21T00:00:00-0400",
+      "id": 123317,
+      "title": "Ultimates (2024) #10 (Variant)",
+      "issueNumber": 10,
+      "description": "NAMOR AND THE RED SKULL!  Captain America and the Human Torch lead a team to recruit their old comrade - Namor! But they'll have to get through the Red Skull Gang first!",
+      "date": "2025-03-05T00:00:00-0500",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/10/67a39d0729376",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/70/67c09a58cf697",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/113929/ultimates_2024_12?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113929,
+      "detailUrl": "https://marvel.com/comics/issue/123317/ultimates_2024_10_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113927,
+        126642,
+        126643
+      ],
+      "variantBaseId": 123317,
       "creators": [
         {
           "id": 13180,
@@ -2178,19 +2185,14 @@
           "role": "letterer"
         },
         {
-          "id": 13675,
-          "name": "Neeraj Menon",
-          "role": "colorist (cover)"
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
         },
         {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
-        },
-        {
-          "id": 13932,
-          "name": "Dike Ruan",
-          "role": "penciler (cover)"
         }
       ]
     },
