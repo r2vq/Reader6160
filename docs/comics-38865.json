@@ -2055,7 +2055,7 @@
         123317,
         126642
       ],
-      "variantBaseId": 126643,
+      "variantBaseId": 113927,
       "creators": [
         {
           "id": 13180,
@@ -2111,7 +2111,7 @@
         123317,
         126643
       ],
-      "variantBaseId": 126642,
+      "variantBaseId": 113927,
       "creators": [
         {
           "id": 13180,
@@ -2162,7 +2162,7 @@
         126642,
         126643
       ],
-      "variantBaseId": 123317,
+      "variantBaseId": 113927,
       "creators": [
         {
           "id": 13180,
@@ -2208,7 +2208,11 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113927/ultimates_2024_10?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        123317,
+        126642,
+        126643
+      ],
       "variantBaseId": 113927,
       "creators": [
         {
