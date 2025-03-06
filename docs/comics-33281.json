@@ -8,6 +8,557 @@
   "color": "#F8E032",
   "issues": [
     {
+      "id": 97145,
+      "title": "Ultimate Invasion (2023) #1",
+      "issueNumber": 1,
+      "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
+      "date": "2023-06-21T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/70/648735ebac505",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/97145/ultimate_invasion_2023_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        116123,
+        108914,
+        108915,
+        108916,
+        109472,
+        109473,
+        109475,
+        109476,
+        109477,
+        109901,
+        111748
+      ],
+      "variantBaseId": 97145,
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist (cover)"
+        }
+      ]
+    },
+    {
+      "id": 97147,
+      "title": "Ultimate Invasion (2023) #2",
+      "issueNumber": 2,
+      "description": "The Maker plans to make sure Earth's Mightiest Heroes never become heroes at all. And then he can reshape the universe into exactly what he wants it to be…",
+      "date": "2023-07-26T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/e0/64c290223912b",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/97147/ultimate_invasion_2023_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 97147,
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist (cover)"
+        }
+      ]
+    },
+    {
+      "id": 97148,
+      "title": "Ultimate Invasion (2023) #3",
+      "issueNumber": 3,
+      "description": "After KANG descends upon the City of Tomorrow, the Illuminati must regroup! IRON MAN has a heart-to-heart with Tony Stark! DOCTOR DOOM - the anti-Maker - prepares his own plans to deal with this evil Reed Richards… …and the Ultimate Universe that the Maker thought he had rebuilt frays at the edges as they prepare for cosmic war!",
+      "date": "2023-08-30T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/03/652991645b40a",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/97148/ultimate_invasion_2023_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        110686,
+        110687
+      ],
+      "variantBaseId": 97148,
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist (cover)"
+        }
+      ]
+    },
+    {
+      "id": 97149,
+      "title": "Ultimate Invasion (2023) #4",
+      "issueNumber": 4,
+      "description": "THE END...OR THE BEGINNING? War breaks out as timelines and universes collide! Iron Man must choose between the lesser of two evils - the Maker or Kang. But what secret does Iron Man know about the men behind the masks? And at the end of it all, the world outside your window will be forever changed! Don't miss this giant-sized, action-packed conclusion - or is it only the beginning...?",
+      "date": "2023-09-27T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/e0/652990058ffd1",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/97149/ultimate_invasion_2023_4?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        111897,
+        111898
+      ],
+      "variantBaseId": 97149,
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist (cover)"
+        }
+      ]
+    },
+    {
+      "id": 108914,
+      "title": "Ultimate Invasion (2023) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
+      "date": "2023-06-21T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/8/30/6489e899b6f7c",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/108914/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        116123,
+        97145,
+        108915,
+        108916,
+        109472,
+        109473,
+        109475,
+        109476,
+        109477,
+        109901,
+        111748
+      ],
+      "variantBaseId": 97145,
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 9408,
+          "name": "Sara Pichelli",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        }
+      ]
+    },
+    {
+      "id": 108915,
+      "title": "Ultimate Invasion (2023) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
+      "date": "2023-06-21T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/b0/6489e8b647b85",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/108915/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        116123,
+        97145,
+        108914,
+        108916,
+        109472,
+        109473,
+        109475,
+        109476,
+        109477,
+        109901,
+        111748
+      ],
+      "variantBaseId": 97145,
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist (cover)"
+        }
+      ]
+    },
+    {
+      "id": 108916,
+      "title": "Ultimate Invasion (2023) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
+      "date": "2023-06-21T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/00/6489e8c1b808a",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/108916/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        116123,
+        97145,
+        108914,
+        108915,
+        109472,
+        109473,
+        109475,
+        109476,
+        109477,
+        109901,
+        111748
+      ],
+      "variantBaseId": 97145,
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 12449,
+          "name": "Russell Dauterman",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        }
+      ]
+    },
+    {
+      "id": 109472,
+      "title": "Ultimate Invasion (2023) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
+      "date": "2023-06-21T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/60/6489e8c888828",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/109472/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        116123,
+        97145,
+        108914,
+        108915,
+        108916,
+        109473,
+        109475,
+        109476,
+        109477,
+        109901,
+        111748
+      ],
+      "variantBaseId": 97145,
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        }
+      ]
+    },
+    {
+      "id": 109473,
+      "title": "Ultimate Invasion (2023) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
+      "date": "2023-06-21T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/20/6489e8c9ae42a",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/109473/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        116123,
+        97145,
+        108914,
+        108915,
+        108916,
+        109472,
+        109475,
+        109476,
+        109477,
+        109901,
+        111748
+      ],
+      "variantBaseId": 97145,
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 10405,
+          "name": "John Tyler Christopher",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        }
+      ]
+    },
+    {
       "id": 109475,
       "title": "Ultimate Invasion (2023) #1 (Variant)",
       "issueNumber": 1,
@@ -77,18 +628,19 @@
       ]
     },
     {
-      "id": 116123,
-      "title": "Ultimate Invasion (2023) #1",
+      "id": 109476,
+      "title": "Ultimate Invasion (2023) #1 (Variant)",
       "issueNumber": 1,
-      "description": "Featuring action-packed extras including a Cover Gallery, Script, Pencils, Inked and Color Pages! THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
-      "date": "2023-10-04T00:00:00-0400",
+      "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
+      "date": "2023-06-21T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/90/65676a0cc5f44",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/40/6489e8d37a80d",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/116123/ultimate_invasion_2023_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/109476/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
+        116123,
         97145,
         108914,
         108915,
@@ -96,25 +648,70 @@
         109472,
         109473,
         109475,
-        109476,
         109477,
         109901,
         111748
       ],
       "variantBaseId": 97145,
-      "creators": []
+      "creators": [
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 658,
+          "name": "Ron Lim",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13052,
+          "name": "Israel Silva",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        }
+      ]
     },
     {
-      "id": 111748,
+      "id": 109477,
       "title": "Ultimate Invasion (2023) #1 (Variant)",
       "issueNumber": 1,
       "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
       "date": "2023-06-21T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/00/6489e8a04c3d8",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/c0/6489e89742d6c",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/111748/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/109477/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
         116123,
@@ -126,8 +723,8 @@
         109473,
         109475,
         109476,
-        109477,
-        109901
+        109901,
+        111748
       ],
       "variantBaseId": 97145,
       "creators": [
@@ -243,595 +840,6 @@
       ]
     },
     {
-      "id": 109477,
-      "title": "Ultimate Invasion (2023) #1 (Variant)",
-      "issueNumber": 1,
-      "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
-      "date": "2023-06-21T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/c0/6489e89742d6c",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/109477/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        116123,
-        97145,
-        108914,
-        108915,
-        108916,
-        109472,
-        109473,
-        109475,
-        109476,
-        109901,
-        111748
-      ],
-      "variantBaseId": 97145,
-      "creators": [
-        {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
-        },
-        {
-          "id": 505,
-          "name": "Andrew Currie",
-          "role": "inker"
-        },
-        {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 14265,
-          "name": "Alex Sinclair",
-          "role": "colorist"
-        }
-      ]
-    },
-    {
-      "id": 109476,
-      "title": "Ultimate Invasion (2023) #1 (Variant)",
-      "issueNumber": 1,
-      "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
-      "date": "2023-06-21T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/40/6489e8d37a80d",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/109476/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        116123,
-        97145,
-        108914,
-        108915,
-        108916,
-        109472,
-        109473,
-        109475,
-        109477,
-        109901,
-        111748
-      ],
-      "variantBaseId": 97145,
-      "creators": [
-        {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
-        },
-        {
-          "id": 505,
-          "name": "Andrew Currie",
-          "role": "inker"
-        },
-        {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
-        },
-        {
-          "id": 658,
-          "name": "Ron Lim",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 13052,
-          "name": "Israel Silva",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 14265,
-          "name": "Alex Sinclair",
-          "role": "colorist"
-        }
-      ]
-    },
-    {
-      "id": 97145,
-      "title": "Ultimate Invasion (2023) #1",
-      "issueNumber": 1,
-      "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
-      "date": "2023-06-21T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/70/648735ebac505",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/97145/ultimate_invasion_2023_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [
-        116123,
-        108914,
-        108915,
-        108916,
-        109472,
-        109473,
-        109475,
-        109476,
-        109477,
-        109901,
-        111748
-      ],
-      "variantBaseId": 97145,
-      "creators": [
-        {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
-        },
-        {
-          "id": 505,
-          "name": "Andrew Currie",
-          "role": "inker"
-        },
-        {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 14265,
-          "name": "Alex Sinclair",
-          "role": "colorist (cover)"
-        }
-      ]
-    },
-    {
-      "id": 109473,
-      "title": "Ultimate Invasion (2023) #1 (Variant)",
-      "issueNumber": 1,
-      "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
-      "date": "2023-06-21T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/20/6489e8c9ae42a",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/109473/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        116123,
-        97145,
-        108914,
-        108915,
-        108916,
-        109472,
-        109475,
-        109476,
-        109477,
-        109901,
-        111748
-      ],
-      "variantBaseId": 97145,
-      "creators": [
-        {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
-        },
-        {
-          "id": 10405,
-          "name": "John Tyler Christopher",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 505,
-          "name": "Andrew Currie",
-          "role": "inker"
-        },
-        {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
-        },
-        {
-          "id": 13127,
-          "name": "Emily Newcomen",
-          "role": "editor"
-        },
-        {
-          "id": 14265,
-          "name": "Alex Sinclair",
-          "role": "colorist"
-        }
-      ]
-    },
-    {
-      "id": 109472,
-      "title": "Ultimate Invasion (2023) #1 (Variant)",
-      "issueNumber": 1,
-      "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
-      "date": "2023-06-21T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/60/6489e8c888828",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/109472/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        116123,
-        97145,
-        108914,
-        108915,
-        108916,
-        109473,
-        109475,
-        109476,
-        109477,
-        109901,
-        111748
-      ],
-      "variantBaseId": 97145,
-      "creators": [
-        {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
-        },
-        {
-          "id": 505,
-          "name": "Andrew Currie",
-          "role": "inker"
-        },
-        {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 14265,
-          "name": "Alex Sinclair",
-          "role": "colorist"
-        }
-      ]
-    },
-    {
-      "id": 108916,
-      "title": "Ultimate Invasion (2023) #1 (Variant)",
-      "issueNumber": 1,
-      "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
-      "date": "2023-06-21T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/00/6489e8c1b808a",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/108916/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        116123,
-        97145,
-        108914,
-        108915,
-        109472,
-        109473,
-        109475,
-        109476,
-        109477,
-        109901,
-        111748
-      ],
-      "variantBaseId": 97145,
-      "creators": [
-        {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
-        },
-        {
-          "id": 505,
-          "name": "Andrew Currie",
-          "role": "inker"
-        },
-        {
-          "id": 12449,
-          "name": "Russell Dauterman",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
-        },
-        {
-          "id": 13127,
-          "name": "Emily Newcomen",
-          "role": "editor"
-        },
-        {
-          "id": 14265,
-          "name": "Alex Sinclair",
-          "role": "colorist"
-        }
-      ]
-    },
-    {
-      "id": 108915,
-      "title": "Ultimate Invasion (2023) #1 (Variant)",
-      "issueNumber": 1,
-      "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
-      "date": "2023-06-21T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/b0/6489e8b647b85",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/108915/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        116123,
-        97145,
-        108914,
-        108916,
-        109472,
-        109473,
-        109475,
-        109476,
-        109477,
-        109901,
-        111748
-      ],
-      "variantBaseId": 97145,
-      "creators": [
-        {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
-        },
-        {
-          "id": 505,
-          "name": "Andrew Currie",
-          "role": "inker"
-        },
-        {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "inker (cover)"
-        },
-        {
-          "id": 13127,
-          "name": "Emily Newcomen",
-          "role": "editor"
-        },
-        {
-          "id": 14265,
-          "name": "Alex Sinclair",
-          "role": "colorist (cover)"
-        }
-      ]
-    },
-    {
-      "id": 108914,
-      "title": "Ultimate Invasion (2023) #1 (Variant)",
-      "issueNumber": 1,
-      "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
-      "date": "2023-06-21T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/8/30/6489e899b6f7c",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/108914/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": true,
-      "variants": [
-        116123,
-        97145,
-        108915,
-        108916,
-        109472,
-        109473,
-        109475,
-        109476,
-        109477,
-        109901,
-        111748
-      ],
-      "variantBaseId": 97145,
-      "creators": [
-        {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
-        },
-        {
-          "id": 505,
-          "name": "Andrew Currie",
-          "role": "inker"
-        },
-        {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
-        },
-        {
-          "id": 13127,
-          "name": "Emily Newcomen",
-          "role": "editor"
-        },
-        {
-          "id": 9408,
-          "name": "Sara Pichelli",
-          "role": "inker (cover)"
-        },
-        {
-          "id": 14265,
-          "name": "Alex Sinclair",
-          "role": "colorist"
-        },
-        {
-          "id": 10279,
-          "name": "Matthew Wilson",
-          "role": "colorist (cover)"
-        }
-      ]
-    },
-    {
-      "id": 97147,
-      "title": "Ultimate Invasion (2023) #2",
-      "issueNumber": 2,
-      "description": "The Maker plans to make sure Earth's Mightiest Heroes never become heroes at all. And then he can reshape the universe into exactly what he wants it to be…",
-      "date": "2023-07-26T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/e0/64c290223912b",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/97147/ultimate_invasion_2023_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 97147,
-      "creators": [
-        {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 505,
-          "name": "Andrew Currie",
-          "role": "inker"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
-        },
-        {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 14265,
-          "name": "Alex Sinclair",
-          "role": "colorist (cover)"
-        }
-      ]
-    },
-    {
       "id": 110686,
       "title": "Ultimate Invasion (2023) #3 (Variant)",
       "issueNumber": 3,
@@ -942,22 +950,31 @@
       ]
     },
     {
-      "id": 97148,
-      "title": "Ultimate Invasion (2023) #3",
-      "issueNumber": 3,
-      "description": "After KANG descends upon the City of Tomorrow, the Illuminati must regroup! IRON MAN has a heart-to-heart with Tony Stark! DOCTOR DOOM - the anti-Maker - prepares his own plans to deal with this evil Reed Richards… …and the Ultimate Universe that the Maker thought he had rebuilt frays at the edges as they prepare for cosmic war!",
-      "date": "2023-08-30T00:00:00-0400",
+      "id": 111748,
+      "title": "Ultimate Invasion (2023) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
+      "date": "2023-06-21T00:00:00-0400",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/03/652991645b40a",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/00/6489e8a04c3d8",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/97148/ultimate_invasion_2023_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
+      "detailUrl": "https://marvel.com/comics/issue/111748/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
       "variants": [
-        110686,
-        110687
+        116123,
+        97145,
+        108914,
+        108915,
+        108916,
+        109472,
+        109473,
+        109475,
+        109476,
+        109477,
+        109901
       ],
-      "variantBaseId": 97148,
+      "variantBaseId": 97145,
       "creators": [
         {
           "id": 5251,
@@ -965,9 +982,9 @@
           "role": "letterer"
         },
         {
-          "id": 505,
-          "name": "Andrew Currie",
-          "role": "inker"
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
         },
         {
           "id": 11743,
@@ -975,9 +992,14 @@
           "role": "writer"
         },
         {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
           "id": 339,
           "name": "Bryan Hitch",
-          "role": "penciler (cover)"
+          "role": "penciler"
         },
         {
           "id": 12376,
@@ -987,57 +1009,7 @@
         {
           "id": 14265,
           "name": "Alex Sinclair",
-          "role": "colorist (cover)"
-        }
-      ]
-    },
-    {
-      "id": 97149,
-      "title": "Ultimate Invasion (2023) #4",
-      "issueNumber": 4,
-      "description": "THE END...OR THE BEGINNING? War breaks out as timelines and universes collide! Iron Man must choose between the lesser of two evils - the Maker or Kang. But what secret does Iron Man know about the men behind the masks? And at the end of it all, the world outside your window will be forever changed! Don't miss this giant-sized, action-packed conclusion - or is it only the beginning...?",
-      "date": "2023-09-27T00:00:00-0400",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/e0/652990058ffd1",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/97149/ultimate_invasion_2023_4?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [
-        111897,
-        111898
-      ],
-      "variantBaseId": 97149,
-      "creators": [
-        {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 505,
-          "name": "Andrew Currie",
-          "role": "inker"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
-        },
-        {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 14265,
-          "name": "Alex Sinclair",
-          "role": "colorist (cover)"
+          "role": "colorist"
         }
       ]
     },
@@ -1150,6 +1122,34 @@
           "role": "penciler (cover)"
         }
       ]
+    },
+    {
+      "id": 116123,
+      "title": "Ultimate Invasion (2023) #1",
+      "issueNumber": 1,
+      "description": "Featuring action-packed extras including a Cover Gallery, Script, Pencils, Inked and Color Pages! THE TRANSFORMATION OF THE MARVEL UNIVERSE BEGINS! Superstar creators Jonathan Hickman and Bryan Hitch team up! The Illuminati must form once again to stop the Maker from his plans to destroy - or perhaps rebuild - the universe, with Miles Morales at the center of it all! Bryan's work on THE ULTIMATES helped redefine super hero comics for the 2000s - wait until you see what he and Jonathan have in store for this decade! Including new data pages by Jonathan Hickman - plus exclusive behind-the-scenes material on the world-building that has gone into this project!",
+      "date": "2023-10-04T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/90/65676a0cc5f44",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/116123/ultimate_invasion_2023_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        97145,
+        108914,
+        108915,
+        108916,
+        109472,
+        109473,
+        109475,
+        109476,
+        109477,
+        109901,
+        111748
+      ],
+      "variantBaseId": 97145,
+      "creators": []
     }
   ],
   "creators": [
