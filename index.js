@@ -54,25 +54,25 @@ async function fetchData() {
         let changeMade = false;
         newData.forEach((series) => {
             const comicsFilePath = path.join(__dirname, 'docs', `comics-${series.id}.json`);
-            console.log(`\nParsing: (${series.id}) ${series.title}`);
+            console.log(`Parsing: (${series.id}) ${series.title}`);
             if (fs.existsSync(comicsFilePath)) {
                 const oldData = JSON.parse(fs.readFileSync(comicsFilePath, 'utf-8'));
                 if (JSON.stringify(oldData) == JSON.stringify(series)) {
-                    console.log(`Data unchanged. Skipping update.`);
+                    console.log(`🔵 Data unchanged. Skipping update.`);
                     return;
                 }
             } else {
-                console.log(`Old files don\'t exist. Building directory if needed`);
+                console.log(`🟠 Old files don\'t exist. Building directory if needed`);
                 fs.mkdirSync(path.dirname(comicsFilePath), { recursive: true });
             }
 
-            console.log(`No problems found. Writing to disk.`);
+            console.log(`🟢 No problems found. Writing to disk.`);
             fs.writeFileSync(comicsFilePath, JSON.stringify(series, null, 2));
             changeMade = true;
         });
 
         if (!changeMade) {
-            console.log('All files already up to date.');
+            console.log('\n🔵 All files already up to date.');
             process.exit(0);
         }
         const ts = Date.now();
@@ -82,10 +82,10 @@ async function fetchData() {
         };
 
         fs.writeFileSync(metaFilePath, JSON.stringify(meta, null, 2));
-        console.log('\nData updated successfully.');
+        console.log('\n🟢 Data updated successfully.');
         process.exit(0);
     } catch (error) {
-        console.error('Error fetching or processing data:', error);
+        console.error('\n🔴 Error fetching or processing data:', error);
         process.exit(1);
     }
 }
@@ -121,19 +121,21 @@ function parseIssues(issues) {
                 .map(({ resourceURI }) => getIdFromUri(resourceURI))
                 .forEach(variantId => variantBaseIds[variantId] = issue.id)
         );
-    return issues.map( issue => ({
-        id: issue.id,
-        title: issue.title,
-        issueNumber: issue.issueNumber,
-        description: issue.description,
-        date: findDate(issue.dates, 'onsaleDate'),
-        thumbnail: imageString(issue.thumbnail),
-        detailUrl: findUrlOrFirst(issue.urls, 'detail'),
-        isVariant: isVariant(issue),
-        variants: issue.variants.map(({ resourceURI }) => getIdFromUri(resourceURI)),
-        variantBaseId: variantBaseIds[issue.id] || issue.id,
-        creators: issue.creators.items.map(parseCreator),
-    }));
+    return issues
+        .map(issue => ({
+            id: issue.id,
+            title: issue.title,
+            issueNumber: issue.issueNumber,
+            description: issue.description,
+            date: findDate(issue.dates, 'onsaleDate'),
+            thumbnail: imageString(issue.thumbnail),
+            detailUrl: findUrlOrFirst(issue.urls, 'detail'),
+            isVariant: isVariant(issue),
+            variants: issue.variants.map(({ resourceURI }) => getIdFromUri(resourceURI)),
+            variantBaseId: variantBaseIds[issue.id] || issue.id,
+            creators: issue.creators.items.map(parseCreator),
+        }))
+        .toSorted((first, second) => first.id - second.id);
 }
 
 function isVariant(issue) {
