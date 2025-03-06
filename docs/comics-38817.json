@@ -2416,7 +2416,7 @@
         123305,
         126006
       ],
-      "variantBaseId": 126005,
+      "variantBaseId": 113909,
       "creators": [
         {
           "id": 12993,
@@ -2457,7 +2457,7 @@
         123305,
         126005
       ],
-      "variantBaseId": 126006,
+      "variantBaseId": 113909,
       "creators": [
         {
           "id": 12993,
@@ -2498,7 +2498,7 @@
         126005,
         126006
       ],
-      "variantBaseId": 123305,
+      "variantBaseId": 113909,
       "creators": [
         {
           "id": 12993,
@@ -2529,7 +2529,11 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113909/ultimate_x-men_2024_12?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        123305,
+        126005,
+        126006
+      ],
       "variantBaseId": 113909,
       "creators": [
         {

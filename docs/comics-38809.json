@@ -3695,7 +3695,7 @@
         125989,
         125990
       ],
-      "variantBaseId": 128624,
+      "variantBaseId": 113891,
       "creators": [
         {
           "id": 4430,
@@ -3776,7 +3776,8 @@
       "variants": [
         125988,
         125989,
-        125990
+        125990,
+        128624
       ],
       "variantBaseId": 113891,
       "creators": [
@@ -3920,6 +3921,11 @@
           "id": 11743,
           "name": "Jonathan Hickman",
           "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
         },
         {
           "id": 12376,
