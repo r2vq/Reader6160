@@ -3943,6 +3943,30 @@
           "role": "editor"
         }
       ]
+    },
+    {
+      "id": 128625,
+      "title": "Ultimate Spider-Man (2024) #15",
+      "issueNumber": 15,
+      "description": "",
+      "date": "2025-03-26T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128625/ultimate_spider-man_2024_15?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113892
+      ],
+      "variantBaseId": 128625,
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
+      ]
     }
   ],
   "creators": [
