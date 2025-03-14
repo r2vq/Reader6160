@@ -711,7 +711,9 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113892/ultimate_spider-man_2024_15?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        128625
+      ],
       "variantBaseId": 113892,
       "creators": [
         {
@@ -3959,7 +3961,7 @@
       "variants": [
         113892
       ],
-      "variantBaseId": 128625,
+      "variantBaseId": 113892,
       "creators": [
         {
           "id": 4430,
