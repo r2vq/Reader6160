@@ -104,6 +104,7 @@ async function parseSeries(seriesId, color) {
             issues: parseIssues(issues),
             creators: series.creators.items.map(parseCreator),
             attributionText: series.attributionText,
+            detailUrl: findUrlOrFirst(series.urls, 'detail'),
         };
     } catch (error) {
         console.error(`Error processing series: ${seriesId}:`, error);
