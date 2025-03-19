@@ -2619,6 +2619,111 @@
           "role": "letterer"
         }
       ]
+    },
+    {
+      "id": 126632,
+      "title": "Ultimate Black Panther (2024) #14 (Variant)",
+      "issueNumber": 14,
+      "description": "WHO IS THE PROGENITOR? Black Panther's dangerous reliance on vibranium becomes even more volatile when an ancient spirit attacks Wakanda!  Only the Sorcerer Supreme can help T'Challa save Wakanda - and possibly his soul - from this fiend!",
+      "date": "2025-03-19T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/8/10/67d99c993b7e7",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/126632/ultimate_black_panther_2024_14_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113871,
+        126633
+      ],
+      "variantBaseId": 126632,
+      "creators": [
+        {
+          "id": 87,
+          "name": "Mark Bagley",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 8504,
+          "name": "Frank D'ARMATA",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
+      "id": 126633,
+      "title": "Ultimate Black Panther (2024) #14 (Variant)",
+      "issueNumber": 14,
+      "description": "WHO IS THE PROGENITOR? Black Panther's dangerous reliance on vibranium becomes even more volatile when an ancient spirit attacks Wakanda!  Only the Sorcerer Supreme can help T'Challa save Wakanda - and possibly his soul - from this fiend!",
+      "date": "2025-03-19T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/c0/67d99c99dcd6b",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/126633/ultimate_black_panther_2024_14_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113871,
+        126632
+      ],
+      "variantBaseId": 126633,
+      "creators": [
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 9364,
+          "name": "Rod Reis",
+          "role": "penciler (cover)"
+        }
+      ]
     }
   ],
   "creators": [

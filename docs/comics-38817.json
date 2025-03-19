@@ -2648,6 +2648,91 @@
           "role": "editor"
         }
       ]
+    },
+    {
+      "id": 126640,
+      "title": "Ultimate X-Men (2024) #13 (Variant)",
+      "issueNumber": 13,
+      "description": "THE MUTANT NEW WORLD ORDER? The start of the second year of ULTIMATE X-MEN! Chaos erupts as former Children of the Atom rise up against the society that used and abused them, just as tension between Armor and Maystorm comes to a head in an explosive confrontation!",
+      "date": "2025-03-19T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/a0/67d99ccdd9b85",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/126640/ultimate_x-men_2024_13_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113910,
+        126641
+      ],
+      "variantBaseId": 126640,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 13299,
+          "name": "Martin Simmonds",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 126641,
+      "title": "Ultimate X-Men (2024) #13 (Variant)",
+      "issueNumber": 13,
+      "description": "THE MUTANT NEW WORLD ORDER? The start of the second year of ULTIMATE X-MEN! Chaos erupts as former Children of the Atom rise up against the society that used and abused them, just as tension between Armor and Maystorm comes to a head in an explosive confrontation!",
+      "date": "2025-03-19T00:00:00-0400",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/90/67d99ccdeba12",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/126641/ultimate_x-men_2024_13_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113910,
+        126640
+      ],
+      "variantBaseId": 126641,
+      "creators": [
+        {
+          "id": 11482,
+          "name": "Jesus Aburtov",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 10445,
+          "name": "Iban Coello",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        }
+      ]
     }
   ],
   "creators": [
