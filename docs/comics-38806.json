@@ -2748,6 +2748,11 @@
       "role": "penciler (cover)"
     },
     {
+      "id": 87,
+      "name": "Mark Bagley",
+      "role": "penciler (cover)"
+    },
+    {
       "id": 14073,
       "name": "B BossLogic",
       "role": "penciler (cover)"
@@ -2788,11 +2793,6 @@
       "role": "penciler (cover)"
     },
     {
-      "id": 13558,
-      "name": "Juan Ferreyra",
-      "role": "penciler (cover)"
-    },
-    {
       "id": 12604,
       "name": "Jim Campbell",
       "role": "colorist (cover)"
@@ -2803,6 +2803,11 @@
       "role": "colorist (cover)"
     },
     {
+      "id": 8504,
+      "name": "Frank D'ARMATA",
+      "role": "colorist (cover)"
+    },
+    {
       "id": 12449,
       "name": "Russell Dauterman",
       "role": "colorist (cover)"
@@ -2810,11 +2815,6 @@
     {
       "id": 12239,
       "name": "Guru Efx",
-      "role": "colorist (cover)"
-    },
-    {
-      "id": 13250,
-      "name": "Romulo Fajardo Jr.",
       "role": "colorist (cover)"
     },
     {
