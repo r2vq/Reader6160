@@ -85,7 +85,7 @@ async function fetchData() {
         console.log('\n🟢 Data updated successfully.');
         process.exit(0);
     } catch (error) {
-        console.error('\n🔴 Error fetching or processing data:', error);
+        console.error(`\n🔴 Error fetching or processing data:\n   ${error.message}`);
         process.exit(1);
     }
 }
@@ -107,8 +107,7 @@ async function parseSeries(seriesId, color) {
             detailUrl: findUrlOrFirst(series.urls, 'detail'),
         };
     } catch (error) {
-        console.error(`Error processing series: ${seriesId}:`, error);
-        return null;
+        throw new Error(`Error processing series ${seriesId}:\n   ${error.message}`);
     }
 }
 
@@ -219,7 +218,7 @@ async function getSeries(seriesId) {
             return results;
         }
     } catch (error) {
-        console.error(`Error fetching series ${seriesId}`, error);
+        throw new Error(`Error fetching series ${seriesId}:\n   ${error.status} ${error.code} ${error.response && error.response.data && error.response.data.message}`);
     }
 }
 
@@ -243,7 +242,7 @@ async function getIssues(seriesId, offset = 0, allIssues = []) {
             return allIssues;
         }
     } catch (error) {
-        console.error(`Error fetching issues ${seriesId} (offset ${offset}):`, error);
+        throw new Error(`Error fetching issues ${seriesId} (offset ${offset}):\n   ${error.status} ${error.code} ${error.response && error.response.data && error.response.data.message}`);
     }
 }
 
