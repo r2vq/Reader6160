@@ -12,7 +12,7 @@
       "title": "Ultimate Black Panther (2024) #1",
       "issueNumber": 1,
       "description": "THE NEW ULTIMATE BLACK PANTHER! In the wake of ULTIMATE INVASION, Khonshu and Ra - the force known together as Moon Knight - are seeking to expand their brutal control of the continent of Africa. In response, the lone bulwark against them, the isolated nation of Wakanda, will send forth its champion…its king…the Black Panther! From the creative minds of Bryan Hill (BLADE, KILLMONGER) and Stefano Caselli (X-MEN RED, AVENGERS) comes a bold new take on the world of Black Panther and Wakanda!",
-      "date": "2024-02-07T00:00:00-0500",
+      "date": "2024-02-07T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/c0/65b7d795258f9",
         "extension": "jpg"
@@ -61,7 +61,7 @@
       "title": "Ultimate Black Panther (2024) #2",
       "issueNumber": 2,
       "description": "WAKANDA BANGS THE DRUMS OF WAR! After Moon Knight's forces attack the stronghold of Wakanda, T'Challa can no longer resist Shuri and the Dora Milaje's calls to action. Grieving and enraged, Black Panther demands to know who has been leaking information about Wakanda to their enemy…and the source shocks him to his core. And a prophecy about T'Challa threatens to upend the war and all of Wakandan life!",
-      "date": "2024-03-13T00:00:00-0400",
+      "date": "2024-03-13T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/e/20/65e7393533367",
         "extension": "jpg"
@@ -108,7 +108,7 @@
       "title": "Ultimate Black Panther (2024) #3",
       "issueNumber": 3,
       "description": "ENTER...STORM AND KILLMONGER! Black Panther takes matters into his own hands and embarks on a covert solo mission to deal with Ra and Khonshu directly! Wakanda's conflict with Moon Knight has escalated. Even with spies all across the continent feeding information, Wakanda is overwhelmed. Everything changes, though, when a pair of freedom fighters enter the fray: Ultimate Killmonger and Ultimate Storm!",
-      "date": "2024-04-17T00:00:00-0400",
+      "date": "2024-04-17T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/03/6615411de5549",
         "extension": "jpg"
@@ -155,7 +155,7 @@
       "title": "Ultimate Black Panther (2024) #4",
       "issueNumber": 4,
       "description": "SHURI SEIZES THE THRONE! With T'Challa missing and presumed dead, Wakanda needs a new leader. Shuri wants war against Ra and Khonshu more than T'Challa ever did, but at what cost? Meanwhile, Black Panther must learn from his new allies, the freedom fighters Killmonger and Storm!",
-      "date": "2024-05-22T00:00:00-0400",
+      "date": "2024-05-22T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/70/663e5c19c99c8",
         "extension": "jpg"
@@ -201,7 +201,7 @@
       "title": "Ultimate Black Panther (2024) #5",
       "issueNumber": 5,
       "description": "THE BLACK PANTHER MUST TAKE BACK WAKANDA! T'Challa, Killmonger, and Storm arrive in Wakanda so T'Challa can reclaim the throne! And what do the Vodu-Khan, the mysterious, mystical branch of the Dora Milaje, have waiting for him? Plagued by an ominous prophecy, Black Panther must embark on a spiritual journey!",
-      "date": "2024-06-26T00:00:00-0400",
+      "date": "2024-06-26T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/50/667977320a022",
         "extension": "jpg"
@@ -252,14 +252,18 @@
       "title": "Ultimate Black Panther (2024) #6",
       "issueNumber": 6,
       "description": "BLACK PANTHER'S DARING TRIAL TO FACE RA AND KHONSHU!  While T'Challa has sought to grow his power, so too have the forces of Moon Knight… And with access to a unique new resource, Ra and Khonshu are stronger than ever! How will Wakanda stand in its resistance against the kings of the Upper and Lower Kingdoms? And is T'Challa prepared to bear the consequences of tapping into such dangerous wells of power?",
-      "date": "2024-07-24T00:00:00-0400",
+      "date": "2024-07-24T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/70/66a7f53f68df6",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113863/ultimate_black_panther_2024_6?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        119717,
+        119718,
+        120812
+      ],
       "variantBaseId": 113863,
       "creators": [
         {
@@ -299,7 +303,7 @@
       "title": "Ultimate Black Panther (2024) #7",
       "issueNumber": 7,
       "description": " \"WAR OF THE KINGDOMS\" STARTS HERE!  While T'Challa has sought to grow his power, so too have the forces of Moon Knight… And with access to a unique new resource, Ra and Khonshu are stronger than ever! How will Wakanda stand in its resistance against the kings of the Upper and Lower Kingdoms? And is T'Challa prepared to bear the consequences of tapping into such dangerous wells of power?",
-      "date": "2024-08-07T00:00:00-0400",
+      "date": "2024-08-07T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/40/66acfcb1a8158",
         "extension": "jpg"
@@ -344,7 +348,7 @@
       "title": "Ultimate Black Panther (2024) #8",
       "issueNumber": 8,
       "description": "BLACK PANTHER AND STORM TAKE THE FIGHT TO MOON KNIGHT! Enough planning - time for a guerrilla counterstrike against Khonshu and Ra! Meanwhile, Killmonger and Okoye seek allies to aid their cause outside of Wakanda… So don't miss the big gun they call in! Ultimate WHO? You'll have to read to find out!",
-      "date": "2024-09-11T00:00:00-0400",
+      "date": "2024-09-11T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/60/66d0820c1b005",
         "extension": "jpg"
@@ -391,7 +395,7 @@
       "title": "Ultimate Black Panther (2024) #9",
       "issueNumber": 9,
       "description": "THE ULTIMATE SORCERER SUPREME? Magic, mysticism and metal clash! But the source of this magic is not what it appears to be, due to the Maker's reshaping of the world… Black Panther wrestles with this new anti-vibranium - and deals with the devastating consequences! What is the price of such life-bringing power? And what is the price of trying to master it?",
-      "date": "2024-10-02T00:00:00-0400",
+      "date": "2024-10-02T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/c0/66fc08a84fcfb",
         "extension": "jpg"
@@ -436,7 +440,7 @@
       "title": "Ultimate Black Panther (2024) #10",
       "issueNumber": 10,
       "description": "THE BLACK PANTHER AND THE STRANGE DOCTOR? A prison break brings unlikely aid to Wakanda, but is this new ally a reliable confidant? Or does the godly Moon Knight have more to offer?",
-      "date": "2024-11-27T00:00:00-0500",
+      "date": "2024-11-27T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/40/67337040e8620",
         "extension": "jpg"
@@ -486,7 +490,7 @@
       "title": "Ultimate Black Panther (2024) #11",
       "issueNumber": 11,
       "description": "A NEW VILLAIN JOINS THE FRAY! Black Panther's war of attrition against Moon Knight becomes more complicated as Wakanda's defense must become two-pronged! Plus, T'Challa discovers vibranium in his blood, bringing with it even more visions and more mystery…",
-      "date": "2024-12-25T00:00:00-0500",
+      "date": "2024-12-25T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/10/67603a698d7eb",
         "extension": "jpg"
@@ -532,7 +536,7 @@
       "title": "Ultimate Black Panther (2024) #12",
       "issueNumber": 12,
       "description": "MOON KNIGHT VS. BLACK PANTHER! Moon Knight challenges Black Panther to a one-on-one duel to end the war! But with his army of zealots behind him, would Moon Knight's followers even accept defeat? And the Maker's Council can't be stopped so easily… The epic climax of the first year of ULTIMATE BLACK PANTHER!",
-      "date": "2025-01-08T00:00:00-0500",
+      "date": "2025-01-08T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/80/678035f979c62",
         "extension": "jpg"
@@ -577,7 +581,7 @@
       "title": "Ultimate Black Panther (2024) #13",
       "issueNumber": 13,
       "description": "ULTIMATE BLACK PANTHER: YEAR TWO STARTS HERE! With MOON KNIGHT defeated and the Maker's Council forced to regroup, T'Challa must learn the secrets of vibranium - because his very life and soul are at risk! The SORCERER SUPREME can help understand the truth of the terrifying element that built Wakanda, but her aid comes with a price…",
-      "date": "2025-02-19T00:00:00-0500",
+      "date": "2025-02-19T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/c0/67ab717b679b2",
         "extension": "jpg"
@@ -622,14 +626,17 @@
       "title": "Ultimate Black Panther (2024) #14",
       "issueNumber": 14,
       "description": "WHO IS THE PROGENITOR? Black Panther's dangerous reliance on vibranium becomes even more volatile when an ancient spirit attacks Wakanda! Only the Sorcerer Supreme can help T'Challa save Wakanda - and possibly his soul - from this fiend!",
-      "date": "2025-03-19T00:00:00-0400",
+      "date": "2025-03-19T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/03/676405ef44081",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/a0/67d9b60b22827",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113871/ultimate_black_panther_2024_14?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        126632,
+        126633
+      ],
       "variantBaseId": 113871,
       "creators": [
         {
@@ -669,7 +676,7 @@
       "title": "Ultimate Black Panther (2024) #15",
       "issueNumber": 15,
       "description": "THE NEW BLACK PANTHER! Battle-worn and beleaguered, a stripped-down T'Challa must go back to basics to prepare for battle against the new foes who have turned vibranium and its dark counterpart against him…",
-      "date": "2025-04-23T00:00:00-0400",
+      "date": "2025-04-23T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/60/6791567f5bb94",
         "extension": "jpg"
@@ -711,7 +718,7 @@
       "title": "Ultimate Black Panther (2024) #16",
       "issueNumber": 16,
       "description": "Black Panther and Storm team up to uncover why a CIA agent is undertaking covert missions in Wakanda! Will the prophesied union between the king and the mutant freedom fighter come to pass?",
-      "date": "2025-05-14T00:00:00-0400",
+      "date": "2025-05-14T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/03/67a39d0674146",
         "extension": "jpg"
@@ -754,11 +761,53 @@
       ]
     },
     {
+      "id": 113874,
+      "title": "Ultimate Black Panther (2024) #17",
+      "issueNumber": 17,
+      "description": "KILLMONGER VS. THE VODU-KHAN! Black Panther has deputized Erik Killmonger in his absence! But T'Challa's mysterious advisors, the Vodu-Khan, do not trust this interloper! Plus, Queen Okoye reveals truths behind her marriage and her mission…",
+      "date": "2025-06-11T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/a0/67dc3f41f3167",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113874/ultimate_black_panther_2024_17?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113874,
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
       "id": 114851,
       "title": "Ultimate Black Panther (2024) #1 (Variant)",
       "issueNumber": 1,
       "description": "THE NEW ULTIMATE BLACK PANTHER!  In the wake of ULTIMATE INVASION, Khonshu and Ra - the force known together as Moon Knight - are seeking to expand their brutal control of the continent of Africa.  In response, the lone bulwark against them, the isolated nation of Wakanda, will send forth its champion…its king…the Black Panther!  From the creative minds of Bryan Hill (BLADE, KILLMONGER) and Stefano Caselli (X-MEN RED, AVENGERS) comes a bold new take on the world of Black Panther and Wakanda!",
-      "date": "2024-02-07T00:00:00-0500",
+      "date": "2024-02-07T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/20/65bda4c345156",
         "extension": "jpg"
@@ -807,7 +856,7 @@
       "title": "Ultimate Black Panther (2024) #1 (Variant)",
       "issueNumber": 1,
       "description": "THE NEW ULTIMATE BLACK PANTHER!  In the wake of ULTIMATE INVASION, Khonshu and Ra - the force known together as Moon Knight - are seeking to expand their brutal control of the continent of Africa.  In response, the lone bulwark against them, the isolated nation of Wakanda, will send forth its champion…its king…the Black Panther!  From the creative minds of Bryan Hill (BLADE, KILLMONGER) and Stefano Caselli (X-MEN RED, AVENGERS) comes a bold new take on the world of Black Panther and Wakanda!",
-      "date": "2024-02-07T00:00:00-0500",
+      "date": "2024-02-07T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/40/65bda4cb0938d",
         "extension": "jpg"
@@ -861,7 +910,7 @@
       "title": "Ultimate Black Panther (2024) #1 (Variant)",
       "issueNumber": 1,
       "description": "THE NEW ULTIMATE BLACK PANTHER!  In the wake of ULTIMATE INVASION, Khonshu and Ra - the force known together as Moon Knight - are seeking to expand their brutal control of the continent of Africa.  In response, the lone bulwark against them, the isolated nation of Wakanda, will send forth its champion…its king…the Black Panther!  From the creative minds of Bryan Hill (BLADE, KILLMONGER) and Stefano Caselli (X-MEN RED, AVENGERS) comes a bold new take on the world of Black Panther and Wakanda!",
-      "date": "2024-02-07T00:00:00-0500",
+      "date": "2024-02-07T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/f0/65bda4d07698f",
         "extension": "jpg"
@@ -920,7 +969,7 @@
       "title": "Ultimate Black Panther (2024) #1 (Variant)",
       "issueNumber": 1,
       "description": "THE NEW ULTIMATE BLACK PANTHER!  In the wake of ULTIMATE INVASION, Khonshu and Ra - the force known together as Moon Knight - are seeking to expand their brutal control of the continent of Africa.  In response, the lone bulwark against them, the isolated nation of Wakanda, will send forth its champion…its king…the Black Panther!  From the creative minds of Bryan Hill (BLADE, KILLMONGER) and Stefano Caselli (X-MEN RED, AVENGERS) comes a bold new take on the world of Black Panther and Wakanda!",
-      "date": "2024-02-07T00:00:00-0500",
+      "date": "2024-02-07T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/90/65bda4da4aa6a",
         "extension": "jpg"
@@ -979,7 +1028,7 @@
       "title": "Ultimate Black Panther (2024) #1 (Variant)",
       "issueNumber": 1,
       "description": "THE NEW ULTIMATE BLACK PANTHER!  In the wake of ULTIMATE INVASION, Khonshu and Ra - the force known together as Moon Knight - are seeking to expand their brutal control of the continent of Africa.  In response, the lone bulwark against them, the isolated nation of Wakanda, will send forth its champion…its king…the Black Panther!  From the creative minds of Bryan Hill (BLADE, KILLMONGER) and Stefano Caselli (X-MEN RED, AVENGERS) comes a bold new take on the world of Black Panther and Wakanda!",
-      "date": "2024-02-07T00:00:00-0500",
+      "date": "2024-02-07T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/90/65bda4c87df5a",
         "extension": "jpg"
@@ -1038,7 +1087,7 @@
       "title": "Ultimate Black Panther (2024) #1 (Variant)",
       "issueNumber": 1,
       "description": "THE NEW ULTIMATE BLACK PANTHER!  In the wake of ULTIMATE INVASION, Khonshu and Ra - the force known together as Moon Knight - are seeking to expand their brutal control of the continent of Africa.  In response, the lone bulwark against them, the isolated nation of Wakanda, will send forth its champion…its king…the Black Panther!  From the creative minds of Bryan Hill (BLADE, KILLMONGER) and Stefano Caselli (X-MEN RED, AVENGERS) comes a bold new take on the world of Black Panther and Wakanda!",
-      "date": "2024-02-07T00:00:00-0500",
+      "date": "2024-02-07T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/60/65bda4c977b0c",
         "extension": "jpg"
@@ -1087,7 +1136,7 @@
       "title": "Ultimate Black Panther (2024) #2 (Variant)",
       "issueNumber": 2,
       "description": "WAKANDA BANGS THE DRUMS OF WAR! After Moon Knight's forces attack the stronghold of Wakanda, T'Challa can no longer resist Shuri and the Dora Milaje's calls to action. Grieving and enraged, Black Panther demands to know who has been leaking information about Wakanda to their enemy…and the source shocks him to his core. And a prophecy about T'Challa threatens to upend the war and all of Wakandan life!  32 PGS./Rated T+ …$4.100",
-      "date": "2024-03-13T00:00:00-0400",
+      "date": "2024-03-13T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/10/65f0a5346d1af",
         "extension": "jpg"
@@ -1139,7 +1188,7 @@
       "title": "Ultimate Black Panther (2024) #2 (Variant)",
       "issueNumber": 2,
       "description": "WAKANDA BANGS THE DRUMS OF WAR! After Moon Knight's forces attack the stronghold of Wakanda, T'Challa can no longer resist Shuri and the Dora Milaje's calls to action. Grieving and enraged, Black Panther demands to know who has been leaking information about Wakanda to their enemy…and the source shocks him to his core. And a prophecy about T'Challa threatens to upend the war and all of Wakandan life!  32 PGS./Rated T+ …$4.101",
-      "date": "2024-03-13T00:00:00-0400",
+      "date": "2024-03-13T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/c0/65f0a538397e1",
         "extension": "jpg"
@@ -1191,7 +1240,7 @@
       "title": "Ultimate Black Panther (2024) #2 (Variant)",
       "issueNumber": 2,
       "description": "WAKANDA BANGS THE DRUMS OF WAR! After Moon Knight's forces attack the stronghold of Wakanda, T'Challa can no longer resist Shuri and the Dora Milaje's calls to action. Grieving and enraged, Black Panther demands to know who has been leaking information about Wakanda to their enemy…and the source shocks him to his core. And a prophecy about T'Challa threatens to upend the war and all of Wakandan life! 32 PGS./Rated T+ …$4.102",
-      "date": "2024-03-13T00:00:00-0400",
+      "date": "2024-03-13T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/20/65f0a58e04ac5",
         "extension": "jpg"
@@ -1248,7 +1297,7 @@
       "title": "Ultimate Black Panther (2024) #3 (Variant)",
       "issueNumber": 3,
       "description": "ENTER...STORM AND KILLMONGER! Black Panther takes matters into his own hands and embarks on a covert solo mission to deal with Ra and Khonshu directly! Wakanda's conflict with Moon Knight has escalated. Even with spies all across the continent feeding information, Wakanda is overwhelmed. Everything changes, though, when a pair of freedom fighters enter the fray: Ultimate Killmonger and Ultimate Storm!",
-      "date": "2024-04-17T00:00:00-0400",
+      "date": "2024-04-17T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/f0/6615481287e09",
         "extension": "jpg"
@@ -1300,7 +1349,7 @@
       "title": "Ultimate Black Panther (2024) #3 (Variant)",
       "issueNumber": 3,
       "description": "ENTER...STORM AND KILLMONGER! Black Panther takes matters into his own hands and embarks on a covert solo mission to deal with Ra and Khonshu directly! Wakanda's conflict with Moon Knight has escalated. Even with spies all across the continent feeding information, Wakanda is overwhelmed. Everything changes, though, when a pair of freedom fighters enter the fray: Ultimate Killmonger and Ultimate Storm!",
-      "date": "2024-04-17T00:00:00-0400",
+      "date": "2024-04-17T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/03/661548139bb75",
         "extension": "jpg"
@@ -1357,7 +1406,7 @@
       "title": "Ultimate Black Panther (2024) #3 (Variant)",
       "issueNumber": 3,
       "description": "ENTER...STORM AND KILLMONGER! Black Panther takes matters into his own hands and embarks on a covert solo mission to deal with Ra and Khonshu directly! Wakanda's conflict with Moon Knight has escalated. Even with spies all across the continent feeding information, Wakanda is overwhelmed. Everything changes, though, when a pair of freedom fighters enter the fray: Ultimate Killmonger and Ultimate Storm!",
-      "date": "2024-04-17T00:00:00-0400",
+      "date": "2024-04-17T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/03/66154811546ad",
         "extension": "jpg"
@@ -1409,7 +1458,7 @@
       "title": "Ultimate Black Panther (2024) #2 (Variant)",
       "issueNumber": 2,
       "description": "WAKANDA BANGS THE DRUMS OF WAR! After Moon Knight's forces attack the stronghold of Wakanda, T'Challa can no longer resist Shuri and the Dora Milaje's calls to action. Grieving and enraged, Black Panther demands to know who has been leaking information about Wakanda to their enemy…and the source shocks him to his core. And a prophecy about T'Challa threatens to upend the war and all of Wakandan life! 32 PGS./Rated T+ …$4.102",
-      "date": "2024-03-13T00:00:00-0400",
+      "date": "2024-03-13T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/60/65f0a588d9c95",
         "extension": "jpg"
@@ -1456,7 +1505,7 @@
       "title": "Ultimate Black Panther (2024) #3 (Variant)",
       "issueNumber": 3,
       "description": "ENTER...STORM AND KILLMONGER! Black Panther takes matters into his own hands and embarks on a covert solo mission to deal with Ra and Khonshu directly! Wakanda's conflict with Moon Knight has escalated. Even with spies all across the continent feeding information, Wakanda is overwhelmed. Everything changes, though, when a pair of freedom fighters enter the fray: Ultimate Killmonger and Ultimate Storm!",
-      "date": "2024-04-17T00:00:00-0400",
+      "date": "2024-04-17T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/70/661548126bda8",
         "extension": "jpg"
@@ -1503,7 +1552,7 @@
       "title": "Ultimate Black Panther (2024) #4 (Variant)",
       "issueNumber": 4,
       "description": "SHURI SEIZES THE THRONE! With T'Challa missing and presumed dead, Wakanda needs a new leader. Shuri wants war against Ra and Khonshu more than T'Challa ever did, but at what cost? Meanwhile, Black Panther must learn from his new allies, the freedom fighters Killmonger and Storm!",
-      "date": "2024-05-22T00:00:00-0400",
+      "date": "2024-05-22T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/20/664ba33e30484",
         "extension": "jpg"
@@ -1554,7 +1603,7 @@
       "title": "Ultimate Black Panther (2024) #4 (Variant)",
       "issueNumber": 4,
       "description": "SHURI SEIZES THE THRONE! With T'Challa missing and presumed dead, Wakanda needs a new leader. Shuri wants war against Ra and Khonshu more than T'Challa ever did, but at what cost? Meanwhile, Black Panther must learn from his new allies, the freedom fighters Killmonger and Storm!",
-      "date": "2024-05-22T00:00:00-0400",
+      "date": "2024-05-22T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/c0/664ba33b4b7ab",
         "extension": "jpg"
@@ -1605,7 +1654,7 @@
       "title": "Ultimate Black Panther (2024) #5 (Variant)",
       "issueNumber": 5,
       "description": "THE BLACK PANTHER MUST TAKE BACK WAKANDA! T'Challa, Killmonger, and Storm arrive in Wakanda so T'Challa can reclaim the throne! And what do the Vodu-Khan, the mysterious, mystical branch of the Dora Milaje, have waiting for him? Plagued by an ominous prophecy, Black Panther must embark on a spiritual journey!",
-      "date": "2024-06-26T00:00:00-0400",
+      "date": "2024-06-26T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/c0/667d6b47b3255",
         "extension": "jpg"
@@ -1651,7 +1700,7 @@
       "title": "Ultimate Black Panther (2024) #5 (Variant)",
       "issueNumber": 5,
       "description": "THE BLACK PANTHER MUST TAKE BACK WAKANDA! T'Challa, Killmonger, and Storm arrive in Wakanda so T'Challa can reclaim the throne! And what do the Vodu-Khan, the mysterious, mystical branch of the Dora Milaje, have waiting for him? Plagued by an ominous prophecy, Black Panther must embark on a spiritual journey!",
-      "date": "2024-06-26T00:00:00-0400",
+      "date": "2024-06-26T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/a0/667d6b389f9cd",
         "extension": "jpg"
@@ -1693,11 +1742,113 @@
       ]
     },
     {
+      "id": 119717,
+      "title": "Ultimate Black Panther (2024) #6 (Variant)",
+      "issueNumber": 6,
+      "description": "BLACK PANTHER'S DARING TRIAL TO FACE RA AND KHONSHU!  While T'Challa has sought to grow his power, so too have the forces of Moon Knight… And with access to a unique new resource, Ra and Khonshu are stronger than ever! How will Wakanda stand in its resistance against the kings of the Upper and Lower Kingdoms? And is T'Challa prepared to bear the consequences of tapping into such dangerous wells of power?",
+      "date": "2024-07-24T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/e0/66982eff10642",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/119717/ultimate_black_panther_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113863,
+        119718,
+        120812
+      ],
+      "variantBaseId": 113863,
+      "creators": [
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12626,
+          "name": "Felipe Massafera",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "penciler"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
+      "id": 119718,
+      "title": "Ultimate Black Panther (2024) #6 (Variant)",
+      "issueNumber": 6,
+      "description": "BLACK PANTHER'S DARING TRIAL TO FACE RA AND KHONSHU!  While T'Challa has sought to grow his power, so too have the forces of Moon Knight… And with access to a unique new resource, Ra and Khonshu are stronger than ever! How will Wakanda stand in its resistance against the kings of the Upper and Lower Kingdoms? And is T'Challa prepared to bear the consequences of tapping into such dangerous wells of power?",
+      "date": "2024-07-24T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/30/66982efae7e06",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/119718/ultimate_black_panther_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113863,
+        119717,
+        120812
+      ],
+      "variantBaseId": 113863,
+      "creators": [
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 23,
+          "name": "David Mack",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "penciler"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
       "id": 120808,
       "title": "Ultimate Black Panther (2024) #4 (Variant)",
       "issueNumber": 4,
       "description": "SHURI SEIZES THE THRONE! With T'Challa missing and presumed dead, Wakanda needs a new leader. Shuri wants war against Ra and Khonshu more than T'Challa ever did, but at what cost? Meanwhile, Black Panther must learn from his new allies, the freedom fighters Killmonger and Storm!",
-      "date": "2024-05-22T00:00:00-0400",
+      "date": "2024-05-22T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/20/664ba34491add",
         "extension": "jpg"
@@ -1748,7 +1899,7 @@
       "title": "Ultimate Black Panther (2024) #5 (Variant)",
       "issueNumber": 5,
       "description": "THE BLACK PANTHER MUST TAKE BACK WAKANDA! T'Challa, Killmonger, and Storm arrive in Wakanda so T'Challa can reclaim the throne! And what do the Vodu-Khan, the mysterious, mystical branch of the Dora Milaje, have waiting for him? Plagued by an ominous prophecy, Black Panther must embark on a spiritual journey!",
-      "date": "2024-06-26T00:00:00-0400",
+      "date": "2024-06-26T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/70/667d6b54216bc",
         "extension": "jpg"
@@ -1790,11 +1941,62 @@
       ]
     },
     {
+      "id": 120812,
+      "title": "Ultimate Black Panther (2024) #6 (Variant)",
+      "issueNumber": 6,
+      "description": "BLACK PANTHER'S DARING TRIAL TO FACE RA AND KHONSHU!  While T'Challa has sought to grow his power, so too have the forces of Moon Knight… And with access to a unique new resource, Ra and Khonshu are stronger than ever! How will Wakanda stand in its resistance against the kings of the Upper and Lower Kingdoms? And is T'Challa prepared to bear the consequences of tapping into such dangerous wells of power?",
+      "date": "2024-07-24T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/80/66982f065e684",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/120812/ultimate_black_panther_2024_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113863,
+        119717,
+        119718
+      ],
+      "variantBaseId": 113863,
+      "creators": [
+        {
+          "id": 14073,
+          "name": "B BossLogic",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "penciler"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
       "id": 121013,
       "title": "Ultimate Black Panther (2024) #7 (Variant)",
       "issueNumber": 7,
       "description": " \"WAR OF THE KINGDOMS\" STARTS HERE!  While T'Challa has sought to grow his power, so too have the forces of Moon Knight… And with access to a unique new resource, Ra and Khonshu are stronger than ever! How will Wakanda stand in its resistance against the kings of the Upper and Lower Kingdoms? And is T'Challa prepared to bear the consequences of tapping into such dangerous wells of power?",
-      "date": "2024-08-07T00:00:00-0400",
+      "date": "2024-08-07T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/c0/671fde8288ac0",
         "extension": "jpg"
@@ -1844,7 +2046,7 @@
       "title": "Ultimate Black Panther (2024) #7 (Variant)",
       "issueNumber": 7,
       "description": " \"WAR OF THE KINGDOMS\" STARTS HERE!  While T'Challa has sought to grow his power, so too have the forces of Moon Knight… And with access to a unique new resource, Ra and Khonshu are stronger than ever! How will Wakanda stand in its resistance against the kings of the Upper and Lower Kingdoms? And is T'Challa prepared to bear the consequences of tapping into such dangerous wells of power?",
-      "date": "2024-08-07T00:00:00-0400",
+      "date": "2024-08-07T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/50/671fde82a222f",
         "extension": "jpg"
@@ -1899,7 +2101,7 @@
       "title": "Ultimate Black Panther (2024) #8 (Variant)",
       "issueNumber": 8,
       "description": "BLACK PANTHER AND STORM TAKE THE FIGHT TO MOON KNIGHT! Enough planning - time for a guerrilla counterstrike against Khonshu and Ra! Meanwhile, Killmonger and Okoye seek allies to aid their cause outside of Wakanda… So don't miss the big gun they call in! Ultimate WHO? You'll have to read to find out!",
-      "date": "2024-09-11T00:00:00-0400",
+      "date": "2024-09-11T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/10/66df01d84b061",
         "extension": "jpg"
@@ -1946,7 +2148,7 @@
       "title": "Ultimate Black Panther (2024) #8 (Variant)",
       "issueNumber": 8,
       "description": "BLACK PANTHER AND STORM TAKE THE FIGHT TO MOON KNIGHT! Enough planning - time for a guerrilla counterstrike against Khonshu and Ra! Meanwhile, Killmonger and Okoye seek allies to aid their cause outside of Wakanda… So don't miss the big gun they call in! Ultimate WHO? You'll have to read to find out!",
-      "date": "2024-09-11T00:00:00-0400",
+      "date": "2024-09-11T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/f0/66df01bddaced",
         "extension": "jpg"
@@ -1993,7 +2195,7 @@
       "title": "Ultimate Black Panther (2024) #8 (Variant)",
       "issueNumber": 8,
       "description": "BLACK PANTHER AND STORM TAKE THE FIGHT TO MOON KNIGHT! Enough planning - time for a guerrilla counterstrike against Khonshu and Ra! Meanwhile, Killmonger and Okoye seek allies to aid their cause outside of Wakanda… So don't miss the big gun they call in! Ultimate WHO? You'll have to read to find out!",
-      "date": "2024-09-11T00:00:00-0400",
+      "date": "2024-09-11T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/a0/66df01e41202d",
         "extension": "jpg"
@@ -2045,7 +2247,7 @@
       "title": "Ultimate Black Panther (2024) #8 (Variant)",
       "issueNumber": 8,
       "description": "BLACK PANTHER AND STORM TAKE THE FIGHT TO MOON KNIGHT! Enough planning - time for a guerrilla counterstrike against Khonshu and Ra! Meanwhile, Killmonger and Okoye seek allies to aid their cause outside of Wakanda… So don't miss the big gun they call in! Ultimate WHO? You'll have to read to find out!",
-      "date": "2024-09-11T00:00:00-0400",
+      "date": "2024-09-11T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/f0/66df01c016562",
         "extension": "jpg"
@@ -2097,7 +2299,7 @@
       "title": "Ultimate Black Panther (2024) #9 (Variant)",
       "issueNumber": 9,
       "description": "THE ULTIMATE SORCERER SUPREME? Magic, mysticism and metal clash! But the source of this magic is not what it appears to be, due to the Maker's reshaping of the world…  Black Panther wrestles with this new anti-vibranium - and deals with the devastating consequences! What is the price of such life-bringing power? And what is the price of trying to master it?",
-      "date": "2024-10-02T00:00:00-0400",
+      "date": "2024-10-02T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/90/66fc13c605791",
         "extension": "jpg"
@@ -2147,7 +2349,7 @@
       "title": "Ultimate Black Panther (2024) #9 (Variant)",
       "issueNumber": 9,
       "description": "THE ULTIMATE SORCERER SUPREME? Magic, mysticism and metal clash! But the source of this magic is not what it appears to be, due to the Maker's reshaping of the world…  Black Panther wrestles with this new anti-vibranium - and deals with the devastating consequences! What is the price of such life-bringing power? And what is the price of trying to master it?",
-      "date": "2024-10-02T00:00:00-0400",
+      "date": "2024-10-02T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/40/66fc13c699654",
         "extension": "jpg"
@@ -2197,7 +2399,7 @@
       "title": "Ultimate Black Panther (2024) #10 (Variant)",
       "issueNumber": 10,
       "description": "THE BLACK PANTHER AND THE STRANGE DOCTOR? A prison break brings unlikely aid to Wakanda, but is this new ally a reliable confidant? Or does the godly Moon Knight have more to offer?",
-      "date": "2024-11-27T00:00:00-0500",
+      "date": "2024-11-27T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/03/67472751ee461",
         "extension": "jpg"
@@ -2252,7 +2454,7 @@
       "title": "Ultimate Black Panther (2024) #10 (Variant)",
       "issueNumber": 10,
       "description": "THE BLACK PANTHER AND THE STRANGE DOCTOR? A prison break brings unlikely aid to Wakanda, but is this new ally a reliable confidant? Or does the godly Moon Knight have more to offer?",
-      "date": "2024-11-27T00:00:00-0500",
+      "date": "2024-11-27T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/03/6747275209dc2",
         "extension": "jpg"
@@ -2302,7 +2504,7 @@
       "title": "Ultimate Black Panther (2024) #11 (Variant)",
       "issueNumber": 11,
       "description": "A NEW VILLAIN JOINS THE FRAY! Black Panther's war of attrition against Moon Knight becomes more complicated as Wakanda's defense must become two-pronged! Plus, T'Challa discovers vibranium in his blood, bringing with it even more visions and more mystery…",
-      "date": "2024-12-25T00:00:00-0500",
+      "date": "2024-12-25T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/80/67644ebb7eb2c",
         "extension": "jpg"
@@ -2343,7 +2545,7 @@
       "title": "Ultimate Black Panther (2024) #11 (Variant)",
       "issueNumber": 11,
       "description": "A NEW VILLAIN JOINS THE FRAY! Black Panther's war of attrition against Moon Knight becomes more complicated as Wakanda's defense must become two-pronged! Plus, T'Challa discovers vibranium in his blood, bringing with it even more visions and more mystery…",
-      "date": "2024-12-25T00:00:00-0500",
+      "date": "2024-12-25T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/f0/67644ebd765cc",
         "extension": "jpg"
@@ -2384,7 +2586,7 @@
       "title": "Ultimate Black Panther (2024) #11 (Variant)",
       "issueNumber": 11,
       "description": "A NEW VILLAIN JOINS THE FRAY! Black Panther's war of attrition against Moon Knight becomes more complicated as Wakanda's defense must become two-pronged! Plus, T'Challa discovers vibranium in his blood, bringing with it even more visions and more mystery…",
-      "date": "2024-12-25T00:00:00-0500",
+      "date": "2024-12-25T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/20/67644eb37f9ea",
         "extension": "jpg"
@@ -2425,7 +2627,7 @@
       "title": "Ultimate Black Panther (2024) #12 (Variant)",
       "issueNumber": 12,
       "description": "MOON KNIGHT VS. BLACK PANTHER! Moon Knight challenges Black Panther to a one-on-one duel to end the war! But with his army of zealots behind him, would Moon Knight's followers even accept defeat? And the Maker's Council can't be stopped so easily… The epic climax of the first year of ULTIMATE BLACK PANTHER!",
-      "date": "2025-01-08T00:00:00-0500",
+      "date": "2025-01-08T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
         "extension": "jpg"
@@ -2475,7 +2677,7 @@
       "title": "Ultimate Black Panther (2024) #12 (Variant)",
       "issueNumber": 12,
       "description": "MOON KNIGHT VS. BLACK PANTHER! Moon Knight challenges Black Panther to a one-on-one duel to end the war! But with his army of zealots behind him, would Moon Knight's followers even accept defeat? And the Maker's Council can't be stopped so easily… The epic climax of the first year of ULTIMATE BLACK PANTHER!",
-      "date": "2025-01-08T00:00:00-0500",
+      "date": "2025-01-08T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
         "extension": "jpg"
@@ -2525,7 +2727,7 @@
       "title": "Ultimate Black Panther (2024) #13 (Variant)",
       "issueNumber": 13,
       "description": "ULTIMATE BLACK PANTHER: YEAR TWO STARTS HERE! With MOON KNIGHT defeated and the Maker's Council forced to regroup, T'Challa must learn the secrets of vibranium - because his very life and soul are at risk! The SORCERER SUPREME can help understand the truth of the terrifying element that built Wakanda, but her aid comes with a price…",
-      "date": "2025-02-19T00:00:00-0500",
+      "date": "2025-02-19T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/e0/67b73fb6be429",
         "extension": "jpg"
@@ -2575,7 +2777,7 @@
       "title": "Ultimate Black Panther (2024) #13 (Variant)",
       "issueNumber": 13,
       "description": "ULTIMATE BLACK PANTHER: YEAR TWO STARTS HERE! With MOON KNIGHT defeated and the Maker's Council forced to regroup, T'Challa must learn the secrets of vibranium - because his very life and soul are at risk! The SORCERER SUPREME can help understand the truth of the terrifying element that built Wakanda, but her aid comes with a price…",
-      "date": "2025-02-19T00:00:00-0500",
+      "date": "2025-02-19T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/b0/67b73fb75b2c6",
         "extension": "jpg"
@@ -2625,7 +2827,7 @@
       "title": "Ultimate Black Panther (2024) #14 (Variant)",
       "issueNumber": 14,
       "description": "WHO IS THE PROGENITOR? Black Panther's dangerous reliance on vibranium becomes even more volatile when an ancient spirit attacks Wakanda!  Only the Sorcerer Supreme can help T'Challa save Wakanda - and possibly his soul - from this fiend!",
-      "date": "2025-03-19T00:00:00-0400",
+      "date": "2025-03-19T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/8/10/67d99c993b7e7",
         "extension": "jpg"
@@ -2636,7 +2838,7 @@
         113871,
         126633
       ],
-      "variantBaseId": 126632,
+      "variantBaseId": 113871,
       "creators": [
         {
           "id": 87,
@@ -2680,7 +2882,7 @@
       "title": "Ultimate Black Panther (2024) #14 (Variant)",
       "issueNumber": 14,
       "description": "WHO IS THE PROGENITOR? Black Panther's dangerous reliance on vibranium becomes even more volatile when an ancient spirit attacks Wakanda!  Only the Sorcerer Supreme can help T'Challa save Wakanda - and possibly his soul - from this fiend!",
-      "date": "2025-03-19T00:00:00-0400",
+      "date": "2025-03-19T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/c0/67d99c99dcd6b",
         "extension": "jpg"
@@ -2691,7 +2893,7 @@
         113871,
         126632
       ],
-      "variantBaseId": 126633,
+      "variantBaseId": 113871,
       "creators": [
         {
           "id": 13021,
@@ -2728,8 +2930,38 @@
   ],
   "creators": [
     {
+      "id": 11482,
+      "name": "Jesus Aburtov",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 12604,
+      "name": "Jim Campbell",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 13021,
+      "name": "David Curiel",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 8504,
+      "name": "Frank D'ARMATA",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 12449,
+      "name": "Russell Dauterman",
+      "role": "colorist (cover)"
+    },
+    {
       "id": 13098,
       "name": "Rafael Albuquerque",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14669,
+      "name": "Chris Allen",
       "role": "penciler (cover)"
     },
     {
@@ -2786,36 +3018,6 @@
       "id": 14380,
       "name": "Karen Darboe",
       "role": "penciler (cover)"
-    },
-    {
-      "id": 14144,
-      "name": "D Doaly",
-      "role": "penciler (cover)"
-    },
-    {
-      "id": 12604,
-      "name": "Jim Campbell",
-      "role": "colorist (cover)"
-    },
-    {
-      "id": 13021,
-      "name": "David Curiel",
-      "role": "colorist (cover)"
-    },
-    {
-      "id": 8504,
-      "name": "Frank D'ARMATA",
-      "role": "colorist (cover)"
-    },
-    {
-      "id": 12449,
-      "name": "Russell Dauterman",
-      "role": "colorist (cover)"
-    },
-    {
-      "id": 12239,
-      "name": "Guru Efx",
-      "role": "colorist (cover)"
     },
     {
       "id": 1141,

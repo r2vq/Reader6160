@@ -12,7 +12,7 @@
       "title": "Ultimate Universe (2023) #1",
       "issueNumber": 1,
       "description": "THE SPOILS OF VICTORY! After the worlds-shaking conclusion of ULTIMATE INVASION, a new team of heroes bands together to save the future! From mastermind Jonathan Hickman and superstar artist Stefano Caselli, don't miss out on this foundational issue for the new line of Ultimate Comics!",
-      "date": "2023-11-01T00:00:00-0400",
+      "date": "2023-11-01T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/a0/654bb102098a1",
         "extension": "jpg"
@@ -66,7 +66,7 @@
       "title": "Ultimate Universe (2023) #1",
       "issueNumber": 1,
       "description": "",
-      "date": "2023-11-01T00:00:00-0400",
+      "date": "2023-11-01T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/a0/6540ff3575e4a",
         "extension": "jpg"
@@ -103,9 +103,19 @@
       "role": "colorist"
     },
     {
-      "id": 11743,
-      "name": "Jonathan Hickman",
-      "role": "writer"
+      "id": 13250,
+      "name": "Romulo Fajardo Jr.",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 14265,
+      "name": "Alex Sinclair",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 14443,
+      "name": "Ben Harvey",
+      "role": "penciler (cover)"
     },
     {
       "id": 339,
@@ -113,19 +123,29 @@
       "role": "penciler (cover)"
     },
     {
+      "id": 758,
+      "name": "Leinil Francis Yu",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 11743,
+      "name": "Jonathan Hickman",
+      "role": "writer"
+    },
+    {
       "id": 12376,
       "name": "Wilson Moss",
+      "role": "editor"
+    },
+    {
+      "id": 13127,
+      "name": "Emily Newcomen",
       "role": "editor"
     },
     {
       "id": 4430,
       "name": "Jeff Youngquist",
       "role": "editor"
-    },
-    {
-      "id": 14265,
-      "name": "Alex Sinclair",
-      "role": "colorist (cover)"
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL",

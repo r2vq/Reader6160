@@ -12,7 +12,7 @@
       "title": "Ultimate Wolverine (2025) #1",
       "issueNumber": 1,
       "description": "THE MAKER'S ULTIMATE WEAPON! From rising star Chris Condon (That Texas Blood) and MOON KNIGHT powerhouse artist Alessandro Cappuccio comes the story of the ULTIMATE WOLVERINE! In order to maintain control of their corner of the Maker's world, three members of his council - Magik, Colossus and Omega Red - deploy their most lethal asset: The Winter Soldier!  But WHO is the weapon behind the mask?",
-      "date": "2025-01-15T00:00:00-0500",
+      "date": "2025-01-15T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/20/678037465ed64",
         "extension": "jpg"
@@ -67,7 +67,7 @@
       "title": "Ultimate Wolverine (2025) #2",
       "issueNumber": 2,
       "description": "THE MAKER'S COUNCIL AND THEIR ULTIMATE WEAPON! Colossus, Omega Red and Magik put the Ultimate Wolverine to the test by seeing how well he handles the OPPOSITION, a group fighting for mutant liberation!",
-      "date": "2025-02-19T00:00:00-0500",
+      "date": "2025-02-19T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/20/67ab717a87666",
         "extension": "jpg"
@@ -119,14 +119,19 @@
       "title": "Ultimate Wolverine (2025) #3",
       "issueNumber": 3,
       "description": "WOLVERINE VS. GAMBIT & KITTY PRYDE! The Winter Soldier leads a strike against two members of the Opposition: Kitty Pryde and Gambit! But do the duo recognize the man behind the mask?",
-      "date": "2025-03-26T00:00:00-0400",
+      "date": "2025-03-26T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/20/67d99ed713523",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121272/ultimate_wolverine_2025_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        125581,
+        126637,
+        126638,
+        126639
+      ],
       "variantBaseId": 121272,
       "creators": [
         {
@@ -166,7 +171,7 @@
       "title": "Ultimate Wolverine (2025) #4",
       "issueNumber": 4,
       "description": "THE WINTER SOLDIER THAWS? Wolverine's confrontation with Kitty Pryde and Gambit leaves him disoriented, violent and questioning his Maker's Council overlords… who is \"Logan\"?",
-      "date": "2025-04-16T00:00:00-0400",
+      "date": "2025-04-16T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/20/679156a053321",
         "extension": "jpg"
@@ -213,7 +218,7 @@
       "title": "Ultimate Wolverine (2025) #5",
       "issueNumber": 5,
       "description": "ULTIMATE SABRETOOTH CLAWS HIS WAY ONTO THE SCENE! Mysteries of Ultimate Wolverine's past are revealed when a familiar face joins the fray!",
-      "date": "2025-05-07T00:00:00-0400",
+      "date": "2025-05-07T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/90/67ab86b9d2504",
         "extension": "jpg"
@@ -261,11 +266,63 @@
       ]
     },
     {
+      "id": 121275,
+      "title": "Ultimate Wolverine (2025) #6",
+      "issueNumber": 6,
+      "description": "REUNION WITH THE OPPOSITION? Guest artist Alex Lins (NAMOR) takes Wolverine on a psychedelic journey through his mind as familiar and unfamiliar faces of the Opposition try to untangle Logan's Winter Soldier programming!",
+      "date": "2025-06-04T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/a0/67dc3f41eae9c",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/121275/ultimate_wolverine_2025_6?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 121275,
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 13712,
+          "name": "Alex Lins",
+          "role": "inker"
+        },
+        {
+          "id": 4991,
+          "name": "Frank Martin",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        }
+      ]
+    },
+    {
       "id": 124528,
       "title": "Ultimate Wolverine (2025) #1 (Variant)",
       "issueNumber": 1,
       "description": "THE MAKER'S ULTIMATE WEAPON! From rising star Chris Condon (That Texas Blood) and MOON KNIGHT powerhouse artist Alessandro Cappuccio comes the story of the ULTIMATE WOLVERINE! In order to maintain control of their corner of the Maker's world, three members of his council - Magik, Colossus and Omega Red - deploy their most lethal asset: The Winter Soldier!  But WHO is the weapon behind the mask?",
-      "date": "2025-01-15T00:00:00-0500",
+      "date": "2025-01-15T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
         "extension": "jpg"
@@ -315,7 +372,7 @@
       "title": "Ultimate Wolverine (2025) #1 (Variant)",
       "issueNumber": 1,
       "description": "THE MAKER'S ULTIMATE WEAPON! From rising star Chris Condon (That Texas Blood) and MOON KNIGHT powerhouse artist Alessandro Cappuccio comes the story of the ULTIMATE WOLVERINE! In order to maintain control of their corner of the Maker's world, three members of his council - Magik, Colossus and Omega Red - deploy their most lethal asset: The Winter Soldier!  But WHO is the weapon behind the mask?",
-      "date": "2025-01-15T00:00:00-0500",
+      "date": "2025-01-15T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
         "extension": "jpg"
@@ -380,7 +437,7 @@
       "title": "Ultimate Wolverine (2025) #1 (Variant)",
       "issueNumber": 1,
       "description": "THE MAKER'S ULTIMATE WEAPON! From rising star Chris Condon (That Texas Blood) and MOON KNIGHT powerhouse artist Alessandro Cappuccio comes the story of the ULTIMATE WOLVERINE! In order to maintain control of their corner of the Maker's world, three members of his council - Magik, Colossus and Omega Red - deploy their most lethal asset: The Winter Soldier!  But WHO is the weapon behind the mask?",
-      "date": "2025-01-15T00:00:00-0500",
+      "date": "2025-01-15T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
         "extension": "jpg"
@@ -435,7 +492,7 @@
       "title": "Ultimate Wolverine (2025) #1 (Variant)",
       "issueNumber": 1,
       "description": "THE MAKER'S ULTIMATE WEAPON! From rising star Chris Condon (That Texas Blood) and MOON KNIGHT powerhouse artist Alessandro Cappuccio comes the story of the ULTIMATE WOLVERINE! In order to maintain control of their corner of the Maker's world, three members of his council - Magik, Colossus and Omega Red - deploy their most lethal asset: The Winter Soldier! But WHO is the weapon behind the mask?",
-      "date": "2025-01-15T00:00:00-0500",
+      "date": "2025-01-15T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
         "extension": "jpg"
@@ -485,7 +542,7 @@
       "title": "Ultimate Wolverine (2025) #1 (Variant)",
       "issueNumber": 1,
       "description": "THE MAKER'S ULTIMATE WEAPON! From rising star Chris Condon (That Texas Blood) and MOON KNIGHT powerhouse artist Alessandro Cappuccio comes the story of the ULTIMATE WOLVERINE! In order to maintain control of their corner of the Maker's world, three members of his council - Magik, Colossus and Omega Red - deploy their most lethal asset: The Winter Soldier!  But WHO is the weapon behind the mask?",
-      "date": "2025-01-15T00:00:00-0500",
+      "date": "2025-01-15T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
         "extension": "jpg"
@@ -540,7 +597,7 @@
       "title": "Ultimate Wolverine (2025) #1 (Variant)",
       "issueNumber": 1,
       "description": "THE MAKER'S ULTIMATE WEAPON! From rising star Chris Condon (That Texas Blood) and MOON KNIGHT powerhouse artist Alessandro Cappuccio comes the story of the ULTIMATE WOLVERINE! In order to maintain control of their corner of the Maker's world, three members of his council - Magik, Colossus and Omega Red - deploy their most lethal asset: The Winter Soldier!  But WHO is the weapon behind the mask?",
-      "date": "2025-01-15T00:00:00-0500",
+      "date": "2025-01-15T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
         "extension": "jpg"
@@ -595,7 +652,7 @@
       "title": "Ultimate Wolverine (2025) #1 (Variant)",
       "issueNumber": 1,
       "description": "THE MAKER'S ULTIMATE WEAPON! From rising star Chris Condon (That Texas Blood) and MOON KNIGHT powerhouse artist Alessandro Cappuccio comes the story of the ULTIMATE WOLVERINE! In order to maintain control of their corner of the Maker's world, three members of his council - Magik, Colossus and Omega Red - deploy their most lethal asset: The Winter Soldier!  But WHO is the weapon behind the mask?",
-      "date": "2025-01-15T00:00:00-0500",
+      "date": "2025-01-15T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
         "extension": "jpg"
@@ -650,7 +707,7 @@
       "title": "Ultimate Wolverine (2025) #2 (Variant)",
       "issueNumber": 2,
       "description": "THE MAKER'S COUNCIL AND THEIR ULTIMATE WEAPON! Colossus, Omega Red and Magik put the Ultimate Wolverine to the test by seeing how well he handles the OPPOSITION, a group fighting for mutant liberation!",
-      "date": "2025-02-19T00:00:00-0500",
+      "date": "2025-02-19T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/60/67b73fb7f0d30",
         "extension": "jpg"
@@ -703,11 +760,68 @@
       ]
     },
     {
+      "id": 125581,
+      "title": "Ultimate Wolverine (2025) #3 (Variant)",
+      "issueNumber": 3,
+      "description": "WOLVERINE VS. GAMBIT & KITTY PRYDE!  The Winter Soldier leads a strike against two members of the Opposition: Kitty Pryde and Gambit! But do the duo recognize the man behind the mask?",
+      "date": "2025-03-26T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/90/67e2cafe05f4f",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/125581/ultimate_wolverine_2025_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        121272,
+        126637,
+        126638,
+        126639
+      ],
+      "variantBaseId": 121272,
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 13250,
+          "name": "Romulo Fajardo Jr.",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        },
+        {
+          "id": 758,
+          "name": "Leinil Francis Yu",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
       "id": 125999,
       "title": "Ultimate Wolverine (2025) #2 (Variant)",
       "issueNumber": 2,
       "description": "THE MAKER'S COUNCIL AND THEIR ULTIMATE WEAPON! Colossus, Omega Red and Magik put the Ultimate Wolverine to the test by seeing how well he handles the OPPOSITION, a group fighting for mutant liberation!",
-      "date": "2025-02-19T00:00:00-0500",
+      "date": "2025-02-19T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/40/67b73fb821a5a",
         "extension": "jpg"
@@ -754,7 +868,7 @@
       "title": "Ultimate Wolverine (2025) #2 (Variant)",
       "issueNumber": 2,
       "description": "THE MAKER'S COUNCIL AND THEIR ULTIMATE WEAPON! Colossus, Omega Red and Magik put the Ultimate Wolverine to the test by seeing how well he handles the OPPOSITION, a group fighting for mutant liberation!",
-      "date": "2025-02-19T00:00:00-0500",
+      "date": "2025-02-19T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/50/67b73fb84d86e",
         "extension": "jpg"
@@ -806,7 +920,7 @@
       "title": "Ultimate Wolverine (2025) #2 (Variant)",
       "issueNumber": 2,
       "description": "THE MAKER'S COUNCIL AND THEIR ULTIMATE WEAPON! Colossus, Omega Red and Magik put the Ultimate Wolverine to the test by seeing how well he handles the OPPOSITION, a group fighting for mutant liberation!",
-      "date": "2025-02-19T00:00:00-0500",
+      "date": "2025-02-19T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/40/67b73fb83a0c3",
         "extension": "jpg"
@@ -852,43 +966,164 @@
           "role": "painter (cover)"
         }
       ]
+    },
+    {
+      "id": 126637,
+      "title": "Ultimate Wolverine (2025) #3 (Variant)",
+      "issueNumber": 3,
+      "description": "WOLVERINE VS. GAMBIT & KITTY PRYDE!  The Winter Soldier leads a strike against two members of the Opposition: Kitty Pryde and Gambit! But do the duo recognize the man behind the mask?",
+      "date": "2025-03-26T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/b0/67e2cafd17e5f",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/126637/ultimate_wolverine_2025_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        121272,
+        125581,
+        126638,
+        126639
+      ],
+      "variantBaseId": 121272,
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        }
+      ]
+    },
+    {
+      "id": 126638,
+      "title": "Ultimate Wolverine (2025) #3 (Variant)",
+      "issueNumber": 3,
+      "description": "WOLVERINE VS. GAMBIT & KITTY PRYDE!  The Winter Soldier leads a strike against two members of the Opposition: Kitty Pryde and Gambit! But do the duo recognize the man behind the mask?",
+      "date": "2025-03-26T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/20/67e2cafdf1dca",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/126638/ultimate_wolverine_2025_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        121272,
+        125581,
+        126637,
+        126639
+      ],
+      "variantBaseId": 121272,
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        }
+      ]
+    },
+    {
+      "id": 126639,
+      "title": "Ultimate Wolverine (2025) #3 (Variant)",
+      "issueNumber": 3,
+      "description": "WOLVERINE VS. GAMBIT & KITTY PRYDE!  The Winter Soldier leads a strike against two members of the Opposition: Kitty Pryde and Gambit! But do the duo recognize the man behind the mask?",
+      "date": "2025-03-26T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/0/04/67e2cafe98e3c",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/126639/ultimate_wolverine_2025_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        121272,
+        125581,
+        126637,
+        126638
+      ],
+      "variantBaseId": 121272,
+      "creators": [
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 14299,
+          "name": "Mateus Manhanini",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        }
+      ]
     }
   ],
   "creators": [
     {
-      "id": 512,
-      "name": "Lee Bermejo",
-      "role": "painter (cover)"
+      "id": 11482,
+      "name": "Jesus Aburtov",
+      "role": "colorist (cover)"
     },
     {
-      "id": 8522,
-      "name": "Gabriele Dell'otto",
-      "role": "painter (cover)"
-    },
-    {
-      "id": 12698,
-      "name": "Yasmine Putri",
-      "role": "painter (cover)"
-    },
-    {
-      "id": 12303,
-      "name": "Jung-Geun Yoon",
-      "role": "painter (cover)"
-    },
-    {
-      "id": 14220,
-      "name": "Alessandro Cappuccio",
-      "role": "penciler (cover)"
-    },
-    {
-      "id": 13748,
-      "name": "Josemaria Casanovas",
-      "role": "penciler (cover)"
-    },
-    {
-      "id": 14508,
-      "name": "Christopher Condon",
-      "role": "writer"
+      "id": 13215,
+      "name": "Rain Beredo",
+      "role": "colorist (cover)"
     },
     {
       "id": 430,
@@ -906,49 +1141,79 @@
       "role": "colorist (cover)"
     },
     {
-      "id": 4991,
-      "name": "Frank Martin",
-      "role": "colorist (cover)"
+      "id": 750,
+      "name": "David Aja",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13632,
+      "name": "Ryan Brown",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14220,
+      "name": "Alessandro Cappuccio",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13748,
+      "name": "Josemaria Casanovas",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 7718,
+      "name": "Sanford Greene",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 1026,
+      "name": "Tyler Kirkham",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13138,
+      "name": "In-Hyuk Lee",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 23,
+      "name": "David Mack",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14299,
+      "name": "Mateus Manhanini",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 512,
+      "name": "Lee Bermejo",
+      "role": "painter (cover)"
+    },
+    {
+      "id": 600,
+      "name": "Clayton Crain",
+      "role": "painter (cover)"
+    },
+    {
+      "id": 8522,
+      "name": "Gabriele Dell'otto",
+      "role": "painter (cover)"
+    },
+    {
+      "id": 10445,
+      "name": "Iban Coello",
+      "role": "inker (cover)"
+    },
+    {
+      "id": 14508,
+      "name": "Christopher Condon",
+      "role": "writer"
     },
     {
       "id": 13712,
       "name": "Alex Lins",
       "role": "inker"
-    },
-    {
-      "id": 14667,
-      "name": "Gleb Melnikov",
-      "role": "inker (cover)"
-    },
-    {
-      "id": 1249,
-      "name": "Steve Skroce",
-      "role": "inker (cover)"
-    },
-    {
-      "id": 758,
-      "name": "Leinil Francis Yu",
-      "role": "inker (cover)"
-    },
-    {
-      "id": 12376,
-      "name": "Wilson Moss",
-      "role": "editor"
-    },
-    {
-      "id": 13127,
-      "name": "Emily Newcomen",
-      "role": "editor"
-    },
-    {
-      "id": 12980,
-      "name": "Vc Cory Petit",
-      "role": "letterer"
-    },
-    {
-      "id": 14328,
-      "name": "Bryan Valenza",
-      "role": "colorist"
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL",
