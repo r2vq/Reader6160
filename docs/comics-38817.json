@@ -554,6 +554,70 @@
       ]
     },
     {
+      "id": 113912,
+      "title": "Ultimate X-Men (2024) #15",
+      "issueNumber": 15,
+      "description": "A \"New Age\" is upon us! Witness how Hisako's journey through her inner darkness wreaks havoc on her fellow mutants and reality itself!",
+      "date": "2025-05-07T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/e0/67ab8f7f56a06",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113912/ultimate_x-men_2024_15?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113912,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 113913,
+      "title": "Ultimate X-Men (2024) #16",
+      "issueNumber": 16,
+      "description": "THE DAWN OF A NEW MUTANT CULT? It's springtime in Hi No Kuni, the period for renewal and new beginnings. But what's new is not always what's better, as Hisako's dark era spreads…",
+      "date": "2025-06-11T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/60/67dc3f519d302",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113913/ultimate_x-men_2024_16?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113913,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
       "id": 113913,
       "title": "Ultimate X-Men (2024) #16",
       "issueNumber": 16,
