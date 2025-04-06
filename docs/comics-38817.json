@@ -402,6 +402,11 @@
       "variantBaseId": 113908,
       "creators": [
         {
+          "id": 14191,
+          "name": "Zack Davisson",
+          "role": "writer"
+        },
+        {
           "id": 12993,
           "name": "Vc Travis Lanham",
           "role": "letterer"
@@ -2942,14 +2947,14 @@
       "role": "penciler (cover)"
     },
     {
-      "id": 14063,
-      "name": "G Gurihiru",
-      "role": "penciler (cover)"
-    },
-    {
       "id": 12385,
       "name": "Carmen Carnero",
       "role": "inker (cover)"
+    },
+    {
+      "id": 14191,
+      "name": "Zack Davisson",
+      "role": "writer"
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL",

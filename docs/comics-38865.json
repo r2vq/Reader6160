@@ -617,58 +617,6 @@
       ]
     },
     {
-      "id": 113928,
-      "title": "Ultimates (2024) #11",
-      "issueNumber": 11,
-      "description": "THE WAR FOR ASGARD! A NEW HERO APPROACHES! Time to topple another of the Maker's dominoes: removing LOKI from his seat of power in Asgard! Thor, Sif and She-Hulk journey into mystery for blood, for glory and for rebellion, and discover a surprising new ally!",
-      "date": "2025-04-09T00:00:00+0000",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/b0/6791568474df7",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113928/ultimates_2024_11?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113928,
-      "creators": [
-        {
-          "id": 13180,
-          "name": "Federico Blee",
-          "role": "colorist"
-        },
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        },
-        {
-          "id": 12624,
-          "name": "Juan Frigeri",
-          "role": "inker"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13675,
-          "name": "Neeraj Menon",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 13932,
-          "name": "Dike Ruan",
-          "role": "penciler (cover)"
-        }
-      ]
-    },
-    {
       "id": 113929,
       "title": "Ultimates (2024) #12",
       "issueNumber": 12,
@@ -717,100 +665,6 @@
           "id": 13932,
           "name": "Dike Ruan",
           "role": "penciler (cover)"
-        }
-      ]
-    },
-    {
-      "id": 113929,
-      "title": "Ultimates (2024) #12",
-      "issueNumber": 12,
-      "description": "THE ULTIMATE FRACTURE! Dissent destroys the Ultimates as a disagreement long developing between two members of the team leads to a devastating departure!",
-      "date": "2025-05-21T00:00:00+0000",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/10/67a39d0729376",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113929/ultimates_2024_12?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113929,
-      "creators": [
-        {
-          "id": 13180,
-          "name": "Federico Blee",
-          "role": "colorist"
-        },
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        },
-        {
-          "id": 12624,
-          "name": "Juan Frigeri",
-          "role": "inker"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13675,
-          "name": "Neeraj Menon",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 13932,
-          "name": "Dike Ruan",
-          "role": "penciler (cover)"
-        }
-      ]
-    },
-    {
-      "id": 113930,
-      "title": "Ultimates (2024) #13",
-      "issueNumber": 13,
-      "description": "THE SECOND YEAR OF THE ULTIMATES STARTS HERE! Time is of the essence! And no one knows that better than Iron Lad… With the Maker set to be released in six months, it's time to kick off new, more daring actions! Enter: Ultimates 3.0!",
-      "date": "2025-06-18T00:00:00+0000",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/a0/67dc3f42000c3",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113930/ultimates_2024_13?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113930,
-      "creators": [
-        {
-          "id": 13180,
-          "name": "Federico Blee",
-          "role": "colorist"
-        },
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        },
-        {
-          "id": 12624,
-          "name": "Juan Frigeri",
-          "role": "inker"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
         }
       ]
     },
@@ -2018,6 +1872,57 @@
       ]
     },
     {
+      "id": 123318,
+      "title": "Ultimates (2024) #11 (Variant)",
+      "issueNumber": 11,
+      "description": "THE WAR FOR ASGARD! A NEW HERO APPROACHES! Time to topple another of the Maker's dominoes: removing LOKI from his seat of power in Asgard! Thor, Sif and She-Hulk journey into mystery for blood, for glory and for rebellion, and discover a surprising new ally!",
+      "date": "2025-04-09T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/b0/67ee9f3ac6da2",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/123318/ultimates_2024_11_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113928,
+        127411,
+        127412
+      ],
+      "variantBaseId": 123318,
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
       "id": 123526,
       "title": "Ultimates (2024) #6 (Variant)",
       "issueNumber": 6,
@@ -2543,6 +2448,108 @@
           "role": "colorist (cover)"
         }
       ]
+    },
+    {
+      "id": 127411,
+      "title": "Ultimates (2024) #11 (Variant)",
+      "issueNumber": 11,
+      "description": "THE WAR FOR ASGARD! A NEW HERO APPROACHES! Time to topple another of the Maker's dominoes: removing LOKI from his seat of power in Asgard! Thor, Sif and She-Hulk journey into mystery for blood, for glory and for rebellion, and discover a surprising new ally!",
+      "date": "2025-04-09T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/80/67ee9f3956163",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/127411/ultimates_2024_11_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113928,
+        123318,
+        127412
+      ],
+      "variantBaseId": 127411,
+      "creators": [
+        {
+          "id": 12492,
+          "name": "Ario Anindito",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 127412,
+      "title": "Ultimates (2024) #11 (Variant)",
+      "issueNumber": 11,
+      "description": "THE WAR FOR ASGARD! A NEW HERO APPROACHES! Time to topple another of the Maker's dominoes: removing LOKI from his seat of power in Asgard! Thor, Sif and She-Hulk journey into mystery for blood, for glory and for rebellion, and discover a surprising new ally!",
+      "date": "2025-04-09T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/c0/67ee9f394d359",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/127412/ultimates_2024_11_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113928,
+        123318,
+        127411
+      ],
+      "variantBaseId": 127412,
+      "creators": [
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13703,
+          "name": "Federico Vicentini",
+          "role": "penciler (cover)"
+        }
+      ]
     }
   ],
   "creators": [
@@ -2648,5 +2655,5 @@
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL",
-  "detailUrl": "https://marvel.com/comics/series/38865/ultimates_2024_-_present?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269"
+  "detailUrl": "https://marvel.com/comics/series/38865/ultimates_2024_-_present?utm_campaign=apiRef&utm_source=55cf85fd0c1e2b30c2b45b25f027fb86"
 }
