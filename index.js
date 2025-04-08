@@ -54,19 +54,19 @@ async function fetchData() {
         let changeMade = false;
         newData.forEach((series) => {
             const comicsFilePath = path.join(__dirname, 'docs', `comics-${series.id}.json`);
-            console.log(`Parsing: (${series.id}) ${series.title}`);
+            console.log(`(${series.id}) Parsing ${series.title}`);
             if (fs.existsSync(comicsFilePath)) {
                 const oldData = JSON.parse(fs.readFileSync(comicsFilePath, 'utf-8'));
                 if (JSON.stringify(oldData) == JSON.stringify(series)) {
-                    console.log(`🔵 Data unchanged. Skipping update.`);
+                    console.log(`(${series.id}) 🔵 Data unchanged. Skipping update.`);
                     return;
                 }
             } else {
-                console.log(`🟠 Old files don\'t exist. Building directory if needed`);
+                console.log(`(${series.id}) 🟠 Old files don\'t exist. Building directory if needed`);
                 fs.mkdirSync(path.dirname(comicsFilePath), { recursive: true });
             }
 
-            console.log(`🟢 No problems found. Writing to disk.`);
+            console.log(`(${series.id}) 🟢 No problems found. Writing to disk.`);
             fs.writeFileSync(comicsFilePath, JSON.stringify(series, null, 2));
             changeMade = true;
         });
@@ -112,15 +112,14 @@ async function parseSeries(seriesId, color) {
 }
 
 function parseIssues(issues) {
-    const variantBaseIds = {};
-    issues
-        .filter(issue => !isVariant(issue))
-        .forEach(issue =>
-            issue
-                .variants
-                .map(({ resourceURI }) => getIdFromUri(resourceURI))
-                .forEach(variantId => variantBaseIds[variantId] = issue.id)
-        );
+    const variantBaseIds = issues.reduce((acc, issue) => {
+        if (!isVariant(issue) && issue.variants) {
+          issue.variants.forEach(({ resourceURI }) => {
+            acc[getIdFromUri(resourceURI)] = issue.id;
+          });
+        }
+        return acc;
+      }, {});
     return issues
         .map(issue => ({
             id: issue.id,
@@ -131,9 +130,9 @@ function parseIssues(issues) {
             thumbnail: imageString(issue.thumbnail),
             detailUrl: findUrlOrFirst(issue.urls, 'detail'),
             isVariant: isVariant(issue),
-            variants: issue.variants.map(({ resourceURI }) => getIdFromUri(resourceURI)),
+            variants: issue.variants.map(({ resourceURI }) => getIdFromUri(resourceURI)).toSorted((first, second) => first - second),
             variantBaseId: variantBaseIds[issue.id] || issue.id,
-            creators: issue.creators.items.map(parseCreator),
+            creators: issue.creators.items.map(parseCreator).toSorted((first, second) => first.id - second.id),
         }))
         .toSorted((first, second) => first.id - second.id);
 }
@@ -205,7 +204,7 @@ function fixUrl(path) {
 }
 
 async function getSeries(seriesId) {
-    console.log(`Getting series ${seriesId}`);
+    console.log(`(${seriesId}) Getting series`);
     const ts = Date.now();
     const hash = createHash(ts, privateKey, publicKey);
     const parsedUrl = `${baseUrl}v1/public/series/${seriesId}?ts=${ts}&apikey=${publicKey}&hash=${hash}`;
@@ -223,7 +222,7 @@ async function getSeries(seriesId) {
 }
 
 async function getIssues(seriesId, offset = 0, allIssues = []) {
-    console.log(`Getting issues for series ${seriesId}`);
+    console.log(`(${seriesId}) Getting issues`);
     const ts = Date.now();
     const hash = createHash(ts, privateKey, publicKey);
     const parsedUrl = `${baseUrl}v1/public/series/${seriesId}/comics?ts=${ts}&apikey=${publicKey}&hash=${hash}&orderBy=issueNumber&limit=100&offset=${offset}`;
