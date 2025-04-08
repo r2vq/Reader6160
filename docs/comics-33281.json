@@ -20,7 +20,6 @@
       "detailUrl": "https://marvel.com/comics/issue/97145/ultimate_invasion_2023_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
       "variants": [
-        116123,
         108914,
         108915,
         108916,
@@ -30,24 +29,15 @@
         109476,
         109477,
         109901,
-        111748
+        111748,
+        116123
       ],
       "variantBaseId": 97145,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler (cover)"
         },
         {
           "id": 505,
@@ -55,14 +45,24 @@
           "role": "inker"
         },
         {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler (cover)"
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
         },
         {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
         },
         {
           "id": 14265,
@@ -87,9 +87,9 @@
       "variantBaseId": 97147,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler (cover)"
         },
         {
           "id": 505,
@@ -97,14 +97,14 @@
           "role": "inker"
         },
         {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
           "id": 11743,
           "name": "Jonathan Hickman",
           "role": "writer"
-        },
-        {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler (cover)"
         },
         {
           "id": 12376,
@@ -137,9 +137,9 @@
       "variantBaseId": 97148,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler (cover)"
         },
         {
           "id": 505,
@@ -147,14 +147,14 @@
           "role": "inker"
         },
         {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
           "id": 11743,
           "name": "Jonathan Hickman",
           "role": "writer"
-        },
-        {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler (cover)"
         },
         {
           "id": 12376,
@@ -187,9 +187,9 @@
       "variantBaseId": 97149,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler (cover)"
         },
         {
           "id": 505,
@@ -197,14 +197,14 @@
           "role": "inker"
         },
         {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
           "id": 11743,
           "name": "Jonathan Hickman",
           "role": "writer"
-        },
-        {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler (cover)"
         },
         {
           "id": 12376,
@@ -231,7 +231,6 @@
       "detailUrl": "https://marvel.com/comics/issue/108914/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
-        116123,
         97145,
         108915,
         108916,
@@ -241,24 +240,15 @@
         109476,
         109477,
         109901,
-        111748
+        111748,
+        116123
       ],
       "variantBaseId": 97145,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
         },
         {
           "id": 505,
@@ -266,14 +256,9 @@
           "role": "inker"
         },
         {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
-        },
-        {
-          "id": 13127,
-          "name": "Emily Newcomen",
-          "role": "editor"
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
         },
         {
           "id": 9408,
@@ -281,14 +266,29 @@
           "role": "inker (cover)"
         },
         {
-          "id": 14265,
-          "name": "Alex Sinclair",
-          "role": "colorist"
-        },
-        {
           "id": 10279,
           "name": "Matthew Wilson",
           "role": "colorist (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
         }
       ]
     },
@@ -305,7 +305,6 @@
       "detailUrl": "https://marvel.com/comics/issue/108915/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
-        116123,
         97145,
         108914,
         108916,
@@ -315,24 +314,15 @@
         109476,
         109477,
         109901,
-        111748
+        111748,
+        116123
       ],
       "variantBaseId": 97145,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "inker (cover)"
         },
         {
           "id": 505,
@@ -340,9 +330,19 @@
           "role": "inker"
         },
         {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "inker (cover)"
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
         },
         {
           "id": 13127,
@@ -369,7 +369,6 @@
       "detailUrl": "https://marvel.com/comics/issue/108916/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
-        116123,
         97145,
         108914,
         108915,
@@ -379,24 +378,15 @@
         109476,
         109477,
         109901,
-        111748
+        111748,
+        116123
       ],
       "variantBaseId": 97145,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
         },
         {
           "id": 505,
@@ -404,14 +394,24 @@
           "role": "inker"
         },
         {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
           "id": 12449,
           "name": "Russell Dauterman",
           "role": "colorist (cover)"
         },
         {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
         },
         {
           "id": 13127,
@@ -438,7 +438,6 @@
       "detailUrl": "https://marvel.com/comics/issue/109472/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
-        116123,
         97145,
         108914,
         108915,
@@ -448,24 +447,15 @@
         109476,
         109477,
         109901,
-        111748
+        111748,
+        116123
       ],
       "variantBaseId": 97145,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
         },
         {
           "id": 505,
@@ -473,14 +463,24 @@
           "role": "inker"
         },
         {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
         },
         {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
         },
         {
           "id": 14265,
@@ -502,7 +502,6 @@
       "detailUrl": "https://marvel.com/comics/issue/109473/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
-        116123,
         97145,
         108914,
         108915,
@@ -512,29 +511,15 @@
         109476,
         109477,
         109901,
-        111748
+        111748,
+        116123
       ],
       "variantBaseId": 97145,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
-        },
-        {
-          "id": 10405,
-          "name": "John Tyler Christopher",
-          "role": "penciler (cover)"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
         },
         {
           "id": 505,
@@ -542,9 +527,24 @@
           "role": "inker"
         },
         {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 10405,
+          "name": "John Tyler Christopher",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
         },
         {
           "id": 13127,
@@ -571,7 +571,6 @@
       "detailUrl": "https://marvel.com/comics/issue/109475/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
-        116123,
         97145,
         108914,
         108915,
@@ -581,24 +580,15 @@
         109476,
         109477,
         109901,
-        111748
+        111748,
+        116123
       ],
       "variantBaseId": 97145,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
         },
         {
           "id": 505,
@@ -606,19 +596,29 @@
           "role": "inker"
         },
         {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
         },
         {
-          "id": 13682,
-          "name": "PEACH MOMOKO",
-          "role": "penciler (cover)"
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
         },
         {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
         },
         {
           "id": 14265,
@@ -640,7 +640,6 @@
       "detailUrl": "https://marvel.com/comics/issue/109476/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
-        116123,
         97145,
         108914,
         108915,
@@ -650,24 +649,15 @@
         109475,
         109477,
         109901,
-        111748
+        111748,
+        116123
       ],
       "variantBaseId": 97145,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
         },
         {
           "id": 505,
@@ -675,19 +665,29 @@
           "role": "inker"
         },
         {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
-        },
-        {
           "id": 658,
           "name": "Ron Lim",
           "role": "penciler (cover)"
         },
         {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
         },
         {
           "id": 13052,
@@ -714,7 +714,6 @@
       "detailUrl": "https://marvel.com/comics/issue/109477/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
-        116123,
         97145,
         108914,
         108915,
@@ -724,24 +723,15 @@
         109475,
         109476,
         109901,
-        111748
+        111748,
+        116123
       ],
       "variantBaseId": 97145,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
         },
         {
           "id": 505,
@@ -749,14 +739,24 @@
           "role": "inker"
         },
         {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
         },
         {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
         },
         {
           "id": 14265,
@@ -778,7 +778,6 @@
       "detailUrl": "https://marvel.com/comics/issue/109901/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
-        116123,
         97145,
         108914,
         108915,
@@ -788,24 +787,15 @@
         109475,
         109476,
         109477,
-        111748
+        111748,
+        116123
       ],
       "variantBaseId": 97145,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
         },
         {
           "id": 505,
@@ -813,9 +803,9 @@
           "role": "inker"
         },
         {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
+          "id": 649,
+          "name": "Ed Mcguinness",
+          "role": "inker (cover)"
         },
         {
           "id": 4306,
@@ -823,9 +813,19 @@
           "role": "colorist (cover)"
         },
         {
-          "id": 649,
-          "name": "Ed Mcguinness",
-          "role": "inker (cover)"
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
         },
         {
           "id": 13127,
@@ -858,6 +858,16 @@
       "variantBaseId": 97148,
       "creators": [
         {
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
+        },
+        {
+          "id": 505,
+          "name": "Andrew Currie",
+          "role": "inker"
+        },
+        {
           "id": 1004,
           "name": "Daniel Acuna",
           "role": "penciler (cover)"
@@ -868,19 +878,9 @@
           "role": "letterer"
         },
         {
-          "id": 505,
-          "name": "Andrew Currie",
-          "role": "inker"
-        },
-        {
           "id": 11743,
           "name": "Jonathan Hickman",
           "role": "writer"
-        },
-        {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
         },
         {
           "id": 12376,
@@ -913,9 +913,9 @@
       "variantBaseId": 97148,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
         },
         {
           "id": 505,
@@ -923,14 +923,14 @@
           "role": "inker"
         },
         {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
           "id": 11743,
           "name": "Jonathan Hickman",
           "role": "writer"
-        },
-        {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
         },
         {
           "id": 13127,
@@ -962,7 +962,6 @@
       "detailUrl": "https://marvel.com/comics/issue/111748/ultimate_invasion_2023_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": true,
       "variants": [
-        116123,
         97145,
         108914,
         108915,
@@ -972,24 +971,15 @@
         109475,
         109476,
         109477,
-        109901
+        109901,
+        116123
       ],
       "variantBaseId": 97145,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
-        },
-        {
-          "id": 12712,
-          "name": "Donny Cates",
-          "role": "writer"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
         },
         {
           "id": 505,
@@ -997,14 +987,24 @@
           "role": "inker"
         },
         {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
         },
         {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
+        },
+        {
+          "id": 12712,
+          "name": "Donny Cates",
+          "role": "writer"
         },
         {
           "id": 14265,
@@ -1032,9 +1032,9 @@
       "variantBaseId": 97149,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
         },
         {
           "id": 505,
@@ -1042,24 +1042,24 @@
           "role": "inker"
         },
         {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
           "id": 11743,
           "name": "Jonathan Hickman",
           "role": "writer"
         },
         {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
         },
         {
           "id": 14179,
           "name": "Francis Manapul",
           "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
         },
         {
           "id": 14265,
@@ -1087,9 +1087,9 @@
       "variantBaseId": 97149,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler"
         },
         {
           "id": 505,
@@ -1097,14 +1097,19 @@
           "role": "inker"
         },
         {
+          "id": 758,
+          "name": "Leinil Francis Yu",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
           "id": 11743,
           "name": "Jonathan Hickman",
           "role": "writer"
-        },
-        {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler"
         },
         {
           "id": 13127,
@@ -1115,11 +1120,6 @@
           "id": 14265,
           "name": "Alex Sinclair",
           "role": "colorist"
-        },
-        {
-          "id": 758,
-          "name": "Leinil Francis Yu",
-          "role": "penciler (cover)"
         }
       ]
     },

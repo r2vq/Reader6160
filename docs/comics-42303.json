@@ -31,16 +31,6 @@
       "variantBaseId": 121270,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
           "id": 4991,
           "name": "Frank Martin",
           "role": "colorist (cover)"
@@ -56,9 +46,19 @@
           "role": "letterer"
         },
         {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -83,16 +83,6 @@
       "variantBaseId": 121271,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
           "id": 4991,
           "name": "Frank Martin",
           "role": "colorist (cover)"
@@ -108,9 +98,19 @@
           "role": "letterer"
         },
         {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -135,16 +135,6 @@
       "variantBaseId": 121272,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
           "id": 4991,
           "name": "Frank Martin",
           "role": "colorist (cover)"
@@ -160,9 +150,19 @@
           "role": "letterer"
         },
         {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -182,16 +182,6 @@
       "variantBaseId": 121273,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
           "id": 4991,
           "name": "Frank Martin",
           "role": "colorist (cover)"
@@ -207,9 +197,19 @@
           "role": "letterer"
         },
         {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -229,21 +229,6 @@
       "variantBaseId": 121274,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
-          "id": 13712,
-          "name": "Alex Lins",
-          "role": "inker"
-        },
-        {
           "id": 4991,
           "name": "Frank Martin",
           "role": "colorist (cover)"
@@ -259,9 +244,24 @@
           "role": "letterer"
         },
         {
+          "id": 13712,
+          "name": "Alex Lins",
+          "role": "inker"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -281,21 +281,6 @@
       "variantBaseId": 121275,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
-          "id": 13712,
-          "name": "Alex Lins",
-          "role": "inker"
-        },
-        {
           "id": 4991,
           "name": "Frank Martin",
           "role": "colorist (cover)"
@@ -311,9 +296,24 @@
           "role": "letterer"
         },
         {
+          "id": 13712,
+          "name": "Alex Lins",
+          "role": "inker"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -341,21 +341,6 @@
       "variantBaseId": 121270,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "inker"
-        },
-        {
-          "id": 13748,
-          "name": "Josemaria Casanovas",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
@@ -364,6 +349,21 @@
           "id": 12980,
           "name": "Vc Cory Petit",
           "role": "letterer"
+        },
+        {
+          "id": 13748,
+          "name": "Josemaria Casanovas",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -396,19 +396,9 @@
           "role": "painter (cover)"
         },
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "inker"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
-          "id": 13055,
-          "name": "Richard Isanove",
-          "role": "colorist (cover)"
+          "id": 1249,
+          "name": "Steve Skroce",
+          "role": "inker (cover)"
         },
         {
           "id": 12376,
@@ -421,14 +411,24 @@
           "role": "letterer"
         },
         {
-          "id": 1249,
-          "name": "Steve Skroce",
-          "role": "inker (cover)"
+          "id": 13055,
+          "name": "Richard Isanove",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
         },
         {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -456,19 +456,9 @@
       "variantBaseId": 121270,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "inker"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
-          "id": 13250,
-          "name": "Romulo Fajardo Jr.",
-          "role": "colorist (cover)"
+          "id": 758,
+          "name": "Leinil Francis Yu",
+          "role": "inker (cover)"
         },
         {
           "id": 12376,
@@ -481,9 +471,19 @@
           "role": "letterer"
         },
         {
-          "id": 758,
-          "name": "Leinil Francis Yu",
-          "role": "inker (cover)"
+          "id": 13250,
+          "name": "Romulo Fajardo Jr.",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -511,16 +511,6 @@
       "variantBaseId": 121270,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "inker"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
@@ -531,9 +521,19 @@
           "role": "letterer"
         },
         {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -561,24 +561,9 @@
       "variantBaseId": 121270,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "inker"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
           "id": 430,
           "name": "Edgar Delgado",
           "role": "colorist (cover)"
-        },
-        {
-          "id": 14667,
-          "name": "Gleb Melnikov",
-          "role": "inker (cover)"
         },
         {
           "id": 12376,
@@ -589,6 +574,21 @@
           "id": 12980,
           "name": "Vc Cory Petit",
           "role": "letterer"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 14667,
+          "name": "Gleb Melnikov",
+          "role": "inker (cover)"
         }
       ]
     },
@@ -616,16 +616,6 @@
       "variantBaseId": 121270,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "inker"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
           "id": 8522,
           "name": "Gabriele Dell'otto",
           "role": "painter (cover)"
@@ -641,9 +631,19 @@
           "role": "letterer"
         },
         {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -676,16 +676,6 @@
           "role": "painter (cover)"
         },
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "inker"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
@@ -696,9 +686,19 @@
           "role": "letterer"
         },
         {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -723,19 +723,9 @@
       "variantBaseId": 121271,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "inker"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
-          "id": 13250,
-          "name": "Romulo Fajardo Jr.",
-          "role": "colorist (cover)"
+          "id": 758,
+          "name": "Leinil Francis Yu",
+          "role": "penciler (cover)"
         },
         {
           "id": 12376,
@@ -748,14 +738,24 @@
           "role": "letterer"
         },
         {
+          "id": 13250,
+          "name": "Romulo Fajardo Jr.",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
         },
         {
-          "id": 758,
-          "name": "Leinil Francis Yu",
-          "role": "penciler (cover)"
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -780,19 +780,9 @@
       "variantBaseId": 121272,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "inker"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
-          "id": 13250,
-          "name": "Romulo Fajardo Jr.",
-          "role": "colorist (cover)"
+          "id": 758,
+          "name": "Leinil Francis Yu",
+          "role": "penciler (cover)"
         },
         {
           "id": 12376,
@@ -805,14 +795,24 @@
           "role": "letterer"
         },
         {
+          "id": 13250,
+          "name": "Romulo Fajardo Jr.",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
         },
         {
-          "id": 758,
-          "name": "Leinil Francis Yu",
-          "role": "penciler (cover)"
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -837,16 +837,6 @@
       "variantBaseId": 121271,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "inker"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
@@ -857,9 +847,19 @@
           "role": "letterer"
         },
         {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -884,19 +884,9 @@
       "variantBaseId": 121271,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "inker"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
-          "id": 13127,
-          "name": "Emily Newcomen",
-          "role": "editor"
+          "id": 12698,
+          "name": "Yasmine Putri",
+          "role": "painter (cover)"
         },
         {
           "id": 12980,
@@ -904,14 +894,24 @@
           "role": "letterer"
         },
         {
-          "id": 12698,
-          "name": "Yasmine Putri",
-          "role": "painter (cover)"
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
         },
         {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -936,14 +936,9 @@
       "variantBaseId": 121271,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "inker"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
+          "id": 12303,
+          "name": "Jung-Geun Yoon",
+          "role": "painter (cover)"
         },
         {
           "id": 12376,
@@ -956,14 +951,19 @@
           "role": "letterer"
         },
         {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
         },
         {
-          "id": 12303,
-          "name": "Jung-Geun Yoon",
-          "role": "painter (cover)"
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -988,14 +988,9 @@
       "variantBaseId": 121272,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "inker"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
         },
         {
           "id": 13127,
@@ -1003,14 +998,19 @@
           "role": "editor"
         },
         {
-          "id": 12980,
-          "name": "Vc Cory Petit",
-          "role": "letterer"
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
         },
         {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -1035,14 +1035,9 @@
       "variantBaseId": 121272,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "inker"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
         },
         {
           "id": 13127,
@@ -1050,14 +1045,19 @@
           "role": "editor"
         },
         {
-          "id": 12980,
-          "name": "Vc Cory Petit",
-          "role": "letterer"
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
         },
         {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     },
@@ -1082,19 +1082,9 @@
       "variantBaseId": 121272,
       "creators": [
         {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "inker"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        },
-        {
-          "id": 14299,
-          "name": "Mateus Manhanini",
-          "role": "penciler (cover)"
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
         },
         {
           "id": 13127,
@@ -1102,14 +1092,24 @@
           "role": "editor"
         },
         {
-          "id": 12980,
-          "name": "Vc Cory Petit",
-          "role": "letterer"
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14299,
+          "name": "Mateus Manhanini",
+          "role": "penciler (cover)"
         },
         {
           "id": 14328,
           "name": "Bryan Valenza",
           "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
         }
       ]
     }

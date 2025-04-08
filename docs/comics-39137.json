@@ -23,19 +23,14 @@
       "variantBaseId": 114059,
       "creators": [
         {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
+          "id": 1156,
+          "name": "Ryan Stegman",
+          "role": "penciler"
         },
         {
-          "id": 12174,
-          "name": "Al Ewing",
-          "role": "writer"
-        },
-        {
-          "id": 10409,
-          "name": "Zeb Wells",
-          "role": "writer"
+          "id": 4300,
+          "name": "Nick Lowe",
+          "role": "editor"
         },
         {
           "id": 5251,
@@ -43,9 +38,19 @@
           "role": "letterer"
         },
         {
+          "id": 10409,
+          "name": "Zeb Wells",
+          "role": "writer"
+        },
+        {
           "id": 10445,
           "name": "Iban Coello",
           "role": "inker"
+        },
+        {
+          "id": 12174,
+          "name": "Al Ewing",
+          "role": "writer"
         },
         {
           "id": 12624,
@@ -58,14 +63,9 @@
           "role": "inker"
         },
         {
-          "id": 4300,
-          "name": "Nick Lowe",
-          "role": "editor"
-        },
-        {
-          "id": 1156,
-          "name": "Ryan Stegman",
-          "role": "penciler"
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
         }
       ]
     }

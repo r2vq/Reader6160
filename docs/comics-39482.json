@@ -25,9 +25,9 @@
       "variantBaseId": 112990,
       "creators": [
         {
-          "id": 5251,
-          "name": "Vc Joe Caramagna",
-          "role": "letterer"
+          "id": 339,
+          "name": "Bryan Hitch",
+          "role": "penciler (cover)"
         },
         {
           "id": 1133,
@@ -35,9 +35,9 @@
           "role": "inker"
         },
         {
-          "id": 13021,
-          "name": "David Curiel",
-          "role": "colorist"
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
         },
         {
           "id": 11743,
@@ -45,14 +45,14 @@
           "role": "writer"
         },
         {
-          "id": 339,
-          "name": "Bryan Hitch",
-          "role": "penciler (cover)"
-        },
-        {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
         },
         {
           "id": 14265,
