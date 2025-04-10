@@ -546,7 +546,10 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113911/ultimate_x-men_2024_14?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        127409,
+        127410
+      ],
       "variantBaseId": 113911,
       "creators": [
         {
@@ -563,6 +566,11 @@
           "id": 13682,
           "name": "PEACH MOMOKO",
           "role": "penciler (cover)"
+        },
+        {
+          "id": 14191,
+          "name": "Zack Davisson",
+          "role": "writer"
         }
       ]
     },
@@ -2840,7 +2848,7 @@
         113911,
         127410
       ],
-      "variantBaseId": 127409,
+      "variantBaseId": 113911,
       "creators": [
         {
           "id": 12376,
@@ -2880,7 +2888,7 @@
         113911,
         127409
       ],
-      "variantBaseId": 127410,
+      "variantBaseId": 113911,
       "creators": [
         {
           "id": 12376,
