@@ -4285,11 +4285,6 @@
       "role": "penciler (cover)"
     },
     {
-      "id": 277,
-      "name": "Terry Dodson",
-      "role": "penciler (cover)"
-    },
-    {
       "id": 14280,
       "name": "Marc Aspinall",
       "role": "painter (cover)"
@@ -4297,6 +4292,11 @@
     {
       "id": 648,
       "name": "Simone Bianchi",
+      "role": "painter (cover)"
+    },
+    {
+      "id": 14111,
+      "name": "Taurin Clarke",
       "role": "painter (cover)"
     },
     {
