@@ -576,7 +576,11 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113928/ultimates_2024_11?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        123318,
+        127411,
+        127412
+      ],
       "variantBaseId": 113928,
       "creators": [
         {
@@ -1612,7 +1616,7 @@
         },
         {
           "id": 13235,
-          "name": "Geoffrey Shaw",
+          "name": "Geoff Shaw",
           "role": "penciler (cover)"
         },
         {
@@ -1888,7 +1892,7 @@
         127411,
         127412
       ],
-      "variantBaseId": 123318,
+      "variantBaseId": 113928,
       "creators": [
         {
           "id": 12376,
@@ -2466,7 +2470,7 @@
         123318,
         127412
       ],
-      "variantBaseId": 127411,
+      "variantBaseId": 113928,
       "creators": [
         {
           "id": 12376,
@@ -2517,7 +2521,7 @@
         123318,
         127411
       ],
-      "variantBaseId": 127412,
+      "variantBaseId": 113928,
       "creators": [
         {
           "id": 12624,
