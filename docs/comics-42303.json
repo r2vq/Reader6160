@@ -270,110 +270,6 @@
       ]
     },
     {
-      "id": 121274,
-      "title": "Ultimate Wolverine (2025) #5",
-      "issueNumber": 5,
-      "description": "ULTIMATE SABRETOOTH CLAWS HIS WAY ONTO THE SCENE! Mysteries of Ultimate Wolverine's past are revealed when a familiar face joins the fray!",
-      "date": "2025-05-07T00:00:00+0000",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/90/67ab86b9d2504",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/121274/ultimate_wolverine_2025_5?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 121274,
-      "creators": [
-        {
-          "id": 4991,
-          "name": "Frank Martin",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 12980,
-          "name": "Vc Cory Petit",
-          "role": "letterer"
-        },
-        {
-          "id": 13712,
-          "name": "Alex Lins",
-          "role": "inker"
-        },
-        {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 14328,
-          "name": "Bryan Valenza",
-          "role": "colorist"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        }
-      ]
-    },
-    {
-      "id": 121275,
-      "title": "Ultimate Wolverine (2025) #6",
-      "issueNumber": 6,
-      "description": "REUNION WITH THE OPPOSITION? Guest artist Alex Lins (NAMOR) takes Wolverine on a psychedelic journey through his mind as familiar and unfamiliar faces of the Opposition try to untangle Logan's Winter Soldier programming!",
-      "date": "2025-06-04T00:00:00+0000",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/a0/67dc3f41eae9c",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/121275/ultimate_wolverine_2025_6?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 121275,
-      "creators": [
-        {
-          "id": 4991,
-          "name": "Frank Martin",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 12980,
-          "name": "Vc Cory Petit",
-          "role": "letterer"
-        },
-        {
-          "id": 13712,
-          "name": "Alex Lins",
-          "role": "inker"
-        },
-        {
-          "id": 14220,
-          "name": "Alessandro Cappuccio",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 14328,
-          "name": "Bryan Valenza",
-          "role": "colorist"
-        },
-        {
-          "id": 14508,
-          "name": "Christopher Condon",
-          "role": "writer"
-        }
-      ]
-    },
-    {
       "id": 121275,
       "title": "Ultimate Wolverine (2025) #6",
       "issueNumber": 6,
@@ -925,6 +821,62 @@
       ]
     },
     {
+      "id": 125582,
+      "title": "Ultimate Wolverine (2025) #4 (Variant)",
+      "issueNumber": 4,
+      "description": "THE WINTER SOLDIER THAWS? Wolverine's confrontation with Kitty Pryde and Gambit leaves him disoriented, violent and questioning his Maker's Council overlords… who is \"Logan\"?",
+      "date": "2025-04-16T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/20/67fd2a3a7a05f",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/125582/ultimate_wolverine_2025_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        121273,
+        127135,
+        127408
+      ],
+      "variantBaseId": 121273,
+      "creators": [
+        {
+          "id": 758,
+          "name": "Leinil Francis Yu",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13250,
+          "name": "Romulo Fajardo Jr.",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        }
+      ]
+    },
+    {
       "id": 125999,
       "title": "Ultimate Wolverine (2025) #2 (Variant)",
       "issueNumber": 2,
@@ -1208,6 +1160,62 @@
           "id": 14299,
           "name": "Mateus Manhanini",
           "role": "penciler (cover)"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 127135,
+      "title": "Ultimate Wolverine (2025) #4 (Variant)",
+      "issueNumber": 4,
+      "description": "THE WINTER SOLDIER THAWS? Wolverine's confrontation with Kitty Pryde and Gambit leaves him disoriented, violent and questioning his Maker's Council overlords… who is \"Logan\"?",
+      "date": "2025-04-16T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/50/67fd2a3a34dfe",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/127135/ultimate_wolverine_2025_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        121273,
+        125582,
+        127408
+      ],
+      "variantBaseId": 121273,
+      "creators": [
+        {
+          "id": 10445,
+          "name": "Iban Coello",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 11482,
+          "name": "Jesus Aburtov",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
         },
         {
           "id": 14328,
