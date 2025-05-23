@@ -627,7 +627,7 @@
       "description": "THE ULTIMATE FRACTURE! Dissent destroys the Ultimates as a disagreement long developing between two members of the team leads to a devastating departure!",
       "date": "2025-05-21T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/10/67a39d0729376",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/e0/6826063442400",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113929/ultimates_2024_12?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
@@ -706,6 +706,58 @@
           "id": 13180,
           "name": "Federico Blee",
           "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 113931,
+      "title": "Ultimates (2024) #14",
+      "issueNumber": 14,
+      "description": "THE ULTIMATE SCARLET WITCH AND QUICKSILVER! The Ultimates' next mission? Destroy one of the Hellfire Club's strongholds! But a dangerous pair of twins complicates matters…",
+      "date": "2025-07-30T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/00/67fff860d6080",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113931/ultimates_2024_14?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113931,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
         },
         {
           "id": 14547,
@@ -1927,6 +1979,57 @@
       ]
     },
     {
+      "id": 123319,
+      "title": "Ultimates (2024) #12 (Variant)",
+      "issueNumber": 12,
+      "description": "THE ULTIMATE FRACTURE! Dissent destroys the Ultimates as a disagreement long developing between two members of the team leads to a devastating departure!",
+      "date": "2025-05-21T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/b0/682608a207765",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/123319/ultimates_2024_12_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113929,
+        128165,
+        128166
+      ],
+      "variantBaseId": 123319,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
       "id": 123526,
       "title": "Ultimates (2024) #6 (Variant)",
       "issueNumber": 6,
@@ -2554,6 +2657,108 @@
           "role": "writer"
         }
       ]
+    },
+    {
+      "id": 128165,
+      "title": "Ultimates (2024) #12 (Variant)",
+      "issueNumber": 12,
+      "description": "THE ULTIMATE FRACTURE! Dissent destroys the Ultimates as a disagreement long developing between two members of the team leads to a devastating departure!",
+      "date": "2025-05-21T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/60/682608a21edf4",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128165/ultimates_2024_12_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113929,
+        123319,
+        128166
+      ],
+      "variantBaseId": 128165,
+      "creators": [
+        {
+          "id": 7718,
+          "name": "Sanford Greene",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 128166,
+      "title": "Ultimates (2024) #12 (Variant)",
+      "issueNumber": 12,
+      "description": "THE ULTIMATE FRACTURE! Dissent destroys the Ultimates as a disagreement long developing between two members of the team leads to a devastating departure!",
+      "date": "2025-05-21T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/d0/682608a1d38e8",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128166/ultimates_2024_12_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113929,
+        123319,
+        128165
+      ],
+      "variantBaseId": 128166,
+      "creators": [
+        {
+          "id": 9998,
+          "name": "Elena Casagrande",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
     }
   ],
   "creators": [
@@ -2633,8 +2838,8 @@
       "role": "penciler (cover)"
     },
     {
-      "id": 7718,
-      "name": "Sanford Greene",
+      "id": 12426,
+      "name": "Javier Garron",
       "role": "penciler (cover)"
     },
     {

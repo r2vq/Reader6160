@@ -224,7 +224,7 @@
       "description": "ULTIMATE SABRETOOTH CLAWS HIS WAY ONTO THE SCENE! Mysteries of Ultimate Wolverine's past are revealed when a familiar face joins the fray!",
       "date": "2025-05-07T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/90/67ab86b9d2504",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/20/6808f3d11ca44",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121274/ultimate_wolverine_2025_5?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
@@ -303,6 +303,53 @@
           "id": 13712,
           "name": "Alex Lins",
           "role": "inker"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 121276,
+      "title": "Ultimate Wolverine (2025) #7",
+      "issueNumber": 7,
+      "description": "…IN LIMBO? Has the OPPOSITION finally helped Logan reclaim his identity? But what lengths will COLOSSUS, MAGIK and OMEGA RED go to keep their prized weapon? And don't miss Ultimate MAGIK revealing the depth of her power!",
+      "date": "2025-07-02T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/40/67fff863c76b1",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/121276/ultimate_wolverine_2025_7?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 121276,
+      "creators": [
+        {
+          "id": 4991,
+          "name": "Frank Martin",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
         },
         {
           "id": 14220,

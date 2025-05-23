@@ -581,12 +581,17 @@
       "description": "A \"New Age\" is upon us! Witness how Hisako's journey through her inner darkness wreaks havoc on her fellow mutants and reality itself!",
       "date": "2025-05-07T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/e0/67ab8f7f56a06",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/70/6808f3b9d1968",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113912/ultimate_x-men_2024_15?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        128162,
+        128163,
+        128164,
+        128662
+      ],
       "variantBaseId": 113912,
       "creators": [
         {
@@ -645,6 +650,38 @@
           "id": 14191,
           "name": "Zack Davisson",
           "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 113914,
+      "title": "Ultimate X-Men (2024) #17",
+      "issueNumber": 17,
+      "description": "OPERATION: RESCUE ARMOR! Hisako has been missing, but Nico's undercover sleuthing finally tracks her down! But the Church of the Children of the Atom aren't going to give up Armor without a fight... What dangers await our X-Men in the Astral Plane?",
+      "date": "2025-07-16T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/f0/67fff864b4b2c",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113914/ultimate_x-men_2024_17?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113914,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
         }
       ]
     },
@@ -2909,6 +2946,184 @@
           "id": 14375,
           "name": "Nicoletta Baldari",
           "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 128162,
+      "title": "Ultimate X-Men (2024) #15 (Variant)",
+      "issueNumber": 15,
+      "description": "A \"New Age\" is upon us! Witness how Hisako's journey through her inner darkness wreaks havoc on her fellow mutants and reality itself!",
+      "date": "2025-05-14T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/d0/68220e4bd6489",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128162/ultimate_x-men_2024_15_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113912,
+        128163,
+        128164,
+        128662
+      ],
+      "variantBaseId": 113912,
+      "creators": [
+        {
+          "id": 189,
+          "name": "Kyle Hotz",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12991,
+          "name": "Rachelle Rosenberg",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 128163,
+      "title": "Ultimate X-Men (2024) #15 (Variant)",
+      "issueNumber": 15,
+      "description": "A \"New Age\" is upon us! Witness how Hisako's journey through her inner darkness wreaks havoc on her fellow mutants and reality itself!",
+      "date": "2025-05-14T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/50/68220e34efedb",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128163/ultimate_x-men_2024_15_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113912,
+        128162,
+        128164,
+        128662
+      ],
+      "variantBaseId": 113912,
+      "creators": [
+        {
+          "id": 9454,
+          "name": "Stan Sakai",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        },
+        {
+          "id": 14286,
+          "name": "Emi Fujii",
+          "role": "colorist (cover)"
+        }
+      ]
+    },
+    {
+      "id": 128164,
+      "title": "Ultimate X-Men (2024) #15 (Variant)",
+      "issueNumber": 15,
+      "description": "A \"New Age\" is upon us! Witness how Hisako's journey through her inner darkness wreaks havoc on her fellow mutants and reality itself!",
+      "date": "2025-05-14T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/03/68220e34e7411",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128164/ultimate_x-men_2024_15_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113912,
+        128162,
+        128163,
+        128662
+      ],
+      "variantBaseId": 113912,
+      "creators": [
+        {
+          "id": 9799,
+          "name": "David Baldeon",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 11482,
+          "name": "Jesus Aburtov",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 128662,
+      "title": "Ultimate X-Men (2024) #15 (Variant)",
+      "issueNumber": 15,
+      "description": "A \"New Age\" is upon us! Witness how Hisako's journey through her inner darkness wreaks havoc on her fellow mutants and reality itself!",
+      "date": "2025-05-14T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/10/68220e34ef223",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128662/ultimate_x-men_2024_15_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113912,
+        128162,
+        128163,
+        128164
+      ],
+      "variantBaseId": 113912,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
         }
       ]
     }

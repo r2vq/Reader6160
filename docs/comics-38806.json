@@ -678,12 +678,15 @@
       "description": "THE NEW BLACK PANTHER! Battle-worn and beleaguered, a stripped-down T'Challa must go back to basics to prepare for battle against the new foes who have turned vibranium and its dark counterpart against him…",
       "date": "2025-04-23T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/8/d0/67fd26dd0001d",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/e0/680f876dde205",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113872/ultimate_black_panther_2024_15?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        127404,
+        127405
+      ],
       "variantBaseId": 113872,
       "creators": [
         {
@@ -720,59 +723,15 @@
       "description": "Black Panther and Storm team up to uncover why a CIA agent is undertaking covert missions in Wakanda! Will the prophesied union between the king and the mutant freedom fighter come to pass?",
       "date": "2025-05-14T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/03/67a39d0674146",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/d0/680f870da7922",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113873/ultimate_black_panther_2024_16?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113873,
-      "creators": [
-        {
-          "id": 1133,
-          "name": "Stefano Caselli",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 12980,
-          "name": "Vc Cory Petit",
-          "role": "letterer"
-        },
-        {
-          "id": 13017,
-          "name": "Bryan Edward Hill",
-          "role": "writer"
-        },
-        {
-          "id": 13021,
-          "name": "David Curiel",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 14489,
-          "name": "Carlos Nieto",
-          "role": "inker"
-        }
-      ]
-    },
-    {
-      "id": 113873,
-      "title": "Ultimate Black Panther (2024) #16",
-      "issueNumber": 16,
-      "description": "Black Panther and Storm team up to uncover why a CIA agent is undertaking covert missions in Wakanda! Will the prophesied union between the king and the mutant freedom fighter come to pass?",
-      "date": "2025-05-14T00:00:00+0000",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/03/67a39d0674146",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113873/ultimate_black_panther_2024_16?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
+      "variants": [
+        127722,
+        128159
+      ],
       "variantBaseId": 113873,
       "creators": [
         {
@@ -850,19 +809,19 @@
       ]
     },
     {
-      "id": 113874,
-      "title": "Ultimate Black Panther (2024) #17",
-      "issueNumber": 17,
-      "description": "KILLMONGER VS. THE VODU-KHAN! Black Panther has deputized Erik Killmonger in his absence! But T'Challa's mysterious advisors, the Vodu-Khan, do not trust this interloper! Plus, Queen Okoye reveals truths behind her marriage and her mission…",
-      "date": "2025-06-11T00:00:00+0000",
+      "id": 113875,
+      "title": "Ultimate Black Panther (2024) #18",
+      "issueNumber": 18,
+      "description": "BETRAYED BY THE VODU-KHAN?! Despite their promises and prophecies, the VODU-KHAN have positioned themselves against BLACK PANTHER and alongside his enemy! What secrets of vibranium have the Vodu-Khan kept all this time? Without vibranium and without their counsel, how will T'Challa defend against mystic mayhem?",
+      "date": "2025-07-16T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/a0/67dc3f41f3167",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/a0/67fff85aa2ac5",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/113874/ultimate_black_panther_2024_17?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/113875/ultimate_black_panther_2024_18?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
       "variants": [],
-      "variantBaseId": 113874,
+      "variantBaseId": 113875,
       "creators": [
         {
           "id": 1133,
@@ -3015,12 +2974,222 @@
           "role": "inker"
         }
       ]
+    },
+    {
+      "id": 127404,
+      "title": "Ultimate Black Panther (2024) #15 (Variant)",
+      "issueNumber": 15,
+      "description": "THE NEW BLACK PANTHER! Battle-worn and beleaguered, a stripped-down T'Challa must go back to basics to prepare for battle against the new foes who have turned vibranium and its dark counterpart against him…",
+      "date": "2025-04-23T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/c0/680695c2b5de4",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/127404/ultimate_black_panther_2024_15_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113872,
+        127405
+      ],
+      "variantBaseId": 113872,
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14024,
+          "name": "Kael Ngu",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 127405,
+      "title": "Ultimate Black Panther (2024) #15 (Variant)",
+      "issueNumber": 15,
+      "description": "THE NEW BLACK PANTHER! Battle-worn and beleaguered, a stripped-down T'Challa must go back to basics to prepare for battle against the new foes who have turned vibranium and its dark counterpart against him…",
+      "date": "2025-04-23T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/b0/680695c2c2b57",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/127405/ultimate_black_panther_2024_15_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113872,
+        127404
+      ],
+      "variantBaseId": 113872,
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 9364,
+          "name": "Rod Reis",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        }
+      ]
+    },
+    {
+      "id": 127722,
+      "title": "Ultimate Black Panther (2024) #16 (Variant)",
+      "issueNumber": 16,
+      "description": "Black Panther and Storm team up to uncover why a CIA agent is undertaking covert missions in Wakanda! Will the prophesied union between the king and the mutant freedom fighter come to pass?",
+      "date": "2025-05-14T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/10/68220e34e69f8",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/127722/ultimate_black_panther_2024_16_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113873,
+        128159
+      ],
+      "variantBaseId": 113873,
+      "creators": [
+        {
+          "id": 9364,
+          "name": "Rod Reis",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        }
+      ]
+    },
+    {
+      "id": 128159,
+      "title": "Ultimate Black Panther (2024) #16 (Variant)",
+      "issueNumber": 16,
+      "description": "Black Panther and Storm team up to uncover why a CIA agent is undertaking covert missions in Wakanda! Will the prophesied union between the king and the mutant freedom fighter come to pass?",
+      "date": "2025-05-14T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/03/68220e34e6083",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128159/ultimate_black_panther_2024_16_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113873,
+        127722
+      ],
+      "variantBaseId": 113873,
+      "creators": [
+        {
+          "id": 11482,
+          "name": "Jesus Aburtov",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12426,
+          "name": "Javier Garron",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        }
+      ]
     }
   ],
   "creators": [
     {
       "id": 11482,
       "name": "Jesus Aburtov",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 13215,
+      "name": "Rain Beredo",
       "role": "colorist (cover)"
     },
     {
@@ -3036,11 +3205,6 @@
     {
       "id": 8504,
       "name": "Frank D'ARMATA",
-      "role": "colorist (cover)"
-    },
-    {
-      "id": 12449,
-      "name": "Russell Dauterman",
       "role": "colorist (cover)"
     },
     {

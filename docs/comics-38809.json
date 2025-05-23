@@ -759,12 +759,16 @@
       "description": "THE SECRET ORIGIN OF MYSTERIO! Even Kingpin knows little about the criminal in the smoky helmet…but Spider-Man's about to learn more than he bargained for!",
       "date": "2025-04-30T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/d0/67fd2691aae7e",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/90/680f872a49a0d",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113893/ultimate_spider-man_2024_16?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        126437,
+        127406,
+        127407
+      ],
       "variantBaseId": 113893,
       "creators": [
         {
@@ -801,7 +805,7 @@
       "description": "TURF WAR IN NEW YORK! THE SINISTER SIX VS. THE TWO SPIDER-MEN! All is not well in New York with the Sinister Six at war with each other! Fortunately, Spider-Man's not facing this one alone...catch Richard Parker in the BLACK SUIT!",
       "date": "2025-05-28T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/03/67a39d0661664",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/a0/6825fbae3ed4f",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113894/ultimate_spider-man_2024_17?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
@@ -855,6 +859,48 @@
       "isVariant": false,
       "variants": [],
       "variantBaseId": 113895,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
+      "id": 113896,
+      "title": "Ultimate Spider-Man (2024) #19",
+      "issueNumber": 19,
+      "description": "THREE-WAY DANCE, ALL-OUT WAR! FISK vs. MR. NEGATIVE vs. MYSTERIO with SPIDER-MAN and his allies caught in the middle! Will the SINISTER SIX destroy New York before they destroy each other?!",
+      "date": "2025-07-23T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/90/67fff864d5149",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113896/ultimate_spider-man_2024_19?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113896,
       "creators": [
         {
           "id": 10279,
@@ -1697,7 +1743,7 @@
       "title": "Ultimate Spider-Man (2024) #1",
       "issueNumber": 1,
       "description": "",
-      "date": "2025-03-01T00:00:00+0000",
+      "date": "2025-04-01T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/b0/6793f00f2b00a",
         "extension": "jpg"
@@ -1729,7 +1775,7 @@
       "title": "Ultimate Spider-Man (2024) #2",
       "issueNumber": 2,
       "description": "",
-      "date": "2025-03-02T00:00:00+0000",
+      "date": "2025-04-02T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/a0/6793f00f3086c",
         "extension": "jpg"
@@ -1758,7 +1804,7 @@
       "title": "Ultimate Spider-Man (2024) #3",
       "issueNumber": 3,
       "description": "PETER PARKER'S NEW LIFE GETS EVEN MORE COMPLICATED. Spider-Man sizes up the new hero Green Goblin! As they team up to fight a new super villain, secrets about the corporations running North America are revealed...and you'll never guess who discovers Spider-Man's secret identity!",
-      "date": "2025-03-03T00:00:00+0000",
+      "date": "2025-04-03T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/70/6793f00f292c1",
         "extension": "jpg"
@@ -1787,7 +1833,7 @@
       "title": "Ultimate Spider-Man (2024) #4",
       "issueNumber": 4,
       "description": "WHO IS THE GREEN GOBLIN? Peter Parker's secret life starts fraying the edges of his personal life! J. Jonah Jameson and Ben Parker's pursuit of truth - or, at least, the news - stirs unrest with the world at large… And now that Spider-Man may not have to operate alone, the real work of rebuilding this corrupt world can begin!",
-      "date": "2025-03-04T00:00:00+0000",
+      "date": "2025-04-04T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/70/6793f392088fc",
         "extension": "jpg"
@@ -3077,7 +3123,7 @@
       "title": "Ultimate Spider-Man (2024) #5",
       "issueNumber": 5,
       "description": "THE SECRET HISTORY OF HARRY OSBORN! How does the heir apparent of Oscorp become a masked vigilante? And what does Green Goblin know of the true status of the world he lives in? All and more will be revealed!",
-      "date": "2025-03-05T00:00:00+0000",
+      "date": "2025-04-05T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/03/6793f00f36921",
         "extension": "jpg"
@@ -3104,7 +3150,7 @@
       "title": "Ultimate Spider-Man (2024) #6",
       "issueNumber": 6,
       "description": "",
-      "date": "2025-03-06T00:00:00+0000",
+      "date": "2025-04-06T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/03/6793f0232816c",
         "extension": "jpg"
@@ -3131,7 +3177,7 @@
       "title": "Ultimate Spider-Man (2024) #7",
       "issueNumber": 7,
       "description": "",
-      "date": "2025-03-07T00:00:00+0000",
+      "date": "2025-04-07T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/40/6793f02405c1e",
         "extension": "jpg"
@@ -3157,7 +3203,7 @@
       "title": "Ultimate Spider-Man (2024) #8",
       "issueNumber": 8,
       "description": "KINGPIN'S SINISTER SIX! Kingpin gathers a team to deal with his masked-vigilante problem… But a group of super villains isn't the only challenge Spider-Man will face! Meanwhile, Green Goblin joins forces with…Doc Ock?",
-      "date": "2025-03-08T00:00:00+0000",
+      "date": "2025-04-08T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/00/6793f02402bb4",
         "extension": "jpg"
@@ -3183,7 +3229,7 @@
       "title": "Ultimate Spider-Man (2024) #9",
       "issueNumber": 9,
       "description": "THE SINISTER SIX MAKE THEIR FIRST STRIKE! But WHO are the Sinister Six? The first member throws down with Spider-Man and Green Goblin in this action-packed issue! Plus, with Tony Stark's return, Peter must also explore the limitations of his new suit…",
-      "date": "2025-03-09T00:00:00+0000",
+      "date": "2025-04-09T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/50/6793f02406315",
         "extension": "jpg"
@@ -3211,7 +3257,7 @@
       "title": "Ultimate Spider-Man (2024) #10",
       "issueNumber": 10,
       "description": "J. JONAH JAMESON, BEN PARKER AND THE GREEN GOBLIN COLLIDE! Fan-favorite duo Ben Parker and J. Jonah Jameson take center stage in this investigative mystery issue! But in this world of shadows and secrets, every unturned rock leads to danger… And they'll soon have to decide which is the greater challenge - uncovering secrets or keeping them!",
-      "date": "2025-03-10T00:00:00+0000",
+      "date": "2025-04-10T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/03/6793f0241256a",
         "extension": "jpg"
@@ -3237,7 +3283,7 @@
       "title": "Ultimate Spider-Man (2024) #11",
       "issueNumber": 11,
       "description": "WHO IS THE ULTIMATE BLACK CAT? Tensions rise between Spider-Man and Green Goblin in the wake of recent events! And a new villain steps up to the plate! What is her connection to the Black Cat on Kingpin's Sinister Six?",
-      "date": "2025-03-11T00:00:00+0000",
+      "date": "2025-04-11T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/03/6793f0240934f",
         "extension": "jpg"
@@ -3264,7 +3310,7 @@
       "title": "Ultimate Spider-Man (2024) #12",
       "issueNumber": 12,
       "description": "A VERY MERRY SPIDER-CHRISTMAS? Season's greetings from the Parker family! But why is Peter acting so strangely during the most wonderful time of the year? And what's got Gwen so concerned? Don't miss the thrilling conclusion of the second arc - and the first year - of ULTIMATE SPIDER-MAN!",
-      "date": "2025-03-12T00:00:00+0000",
+      "date": "2025-04-12T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/00/6793f0266247e",
         "extension": "jpg"
@@ -3998,6 +4044,57 @@
       ]
     },
     {
+      "id": 126437,
+      "title": "Ultimate Spider-Man (2024) #16 (Variant)",
+      "issueNumber": 16,
+      "description": "THE SECRET ORIGIN OF MYSTERIO! Even Kingpin knows little about the criminal in the smoky helmet…but Spider-Man's about to learn more than he bargained for!",
+      "date": "2025-04-30T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/10/680fcc6314b24",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/126437/ultimate_spider-man_2024_16_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113893,
+        127406,
+        127407
+      ],
+      "variantBaseId": 113893,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12369,
+          "name": "Gerardo Sandoval",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        }
+      ]
+    },
+    {
       "id": 126634,
       "title": "Ultimate Spider-Man (2024) #15 (Variant)",
       "issueNumber": 15,
@@ -4152,11 +4249,103 @@
       ]
     },
     {
+      "id": 127406,
+      "title": "Ultimate Spider-Man (2024) #16 (Variant)",
+      "issueNumber": 16,
+      "description": "THE SECRET ORIGIN OF MYSTERIO! Even Kingpin knows little about the criminal in the smoky helmet…but Spider-Man's about to learn more than he bargained for!",
+      "date": "2025-04-30T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/f0/680fcc6269247",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/127406/ultimate_spider-man_2024_16_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113893,
+        126437,
+        127407
+      ],
+      "variantBaseId": 113893,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12393,
+          "name": "Michael Walsh",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
+      "id": 127407,
+      "title": "Ultimate Spider-Man (2024) #16 (Variant)",
+      "issueNumber": 16,
+      "description": "THE SECRET ORIGIN OF MYSTERIO! Even Kingpin knows little about the criminal in the smoky helmet…but Spider-Man's about to learn more than he bargained for!",
+      "date": "2025-04-30T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/a0/680fcc63148d5",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/127407/ultimate_spider-man_2024_16_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113893,
+        126437,
+        127406
+      ],
+      "variantBaseId": 113893,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13276,
+          "name": "C.F. Villa",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
       "id": 128623,
       "title": "Ultimate Spider-Man (2024) #13",
       "issueNumber": 13,
       "description": "KRAVEN'S MOST DANGEROUS GAME! The Sinister Six are all hunting Spider-Man and the Green Goblin for their ringleader, Kingpin - and this time, Kraven has the upper hand in Jonathan Hickman & Marco Checchetto's love letter to \"Kraven's Last Hunt\"!",
-      "date": "2025-01-22T00:00:00+0000",
+      "date": "2025-04-13T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/10/6792a550797e1",
         "extension": "jpg"
