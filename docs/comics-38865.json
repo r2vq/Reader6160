@@ -767,6 +767,53 @@
       ]
     },
     {
+      "id": 113932,
+      "title": "Ultimates (2024) #15",
+      "issueNumber": 15,
+      "description": "THE MONK, THE DRAGON AND THE FIST: SHANG-CHI! The Ultimates return to the site of their untimely deaths at the hands of the Hulk and encounter a young boy who has been starting his own insurgency!",
+      "date": "2025-08-13T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/03/6824c4821d226",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113932/ultimates_2024_15?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113932,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
       "id": 116160,
       "title": "Ultimates (2024) #1 (Variant)",
       "issueNumber": 1,

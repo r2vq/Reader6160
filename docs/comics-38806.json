@@ -851,6 +851,53 @@
       ]
     },
     {
+      "id": 113876,
+      "title": "Ultimate Black Panther (2024) #19",
+      "issueNumber": 19,
+      "description": "VIBRANIUM'S MYSTERIES AND THE BLACK PANTHER! T'Challa leads a campaign against Adi and his associates, the monsters of Vibranium Incarnate! Meanwhile, his trusted confidants must protect Wakanda when the Vodu-Khan want to advance their own prophecies!",
+      "date": "2025-08-20T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/d0/6824c47b936b4",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113876/ultimate_black_panther_2024_19?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113876,
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        }
+      ]
+    },
+    {
       "id": 114851,
       "title": "Ultimate Black Panther (2024) #1 (Variant)",
       "issueNumber": 1,

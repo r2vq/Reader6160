@@ -686,6 +686,38 @@
       ]
     },
     {
+      "id": 113915,
+      "title": "Ultimate X-Men (2024) #18",
+      "issueNumber": 18,
+      "description": "INSIDE THE ASTRAL PLANE! ARMOR'S SOUL IS ON THE LINE! The Children of the Atom's sinister plot leads to the Astral Plane! The X-Men have journeyed there, but that's only the beginning! What horrors await in the climactic finale of volume 3 of ULTIMATE X-MEN?",
+      "date": "2025-08-06T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/03/6824c483536c7",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113915/ultimate_x-men_2024_18?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113915,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
       "id": 115374,
       "title": "Ultimate X-Men (2024) #1 (Variant)",
       "issueNumber": 1,

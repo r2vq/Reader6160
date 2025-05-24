@@ -369,6 +369,53 @@
       ]
     },
     {
+      "id": 121277,
+      "title": "Ultimate Wolverine (2025) #8",
+      "issueNumber": 8,
+      "description": "WOLVERINE VS. ULTIMATE ANGEL! The Opposition infiltrates a facility holding a group of high-powered mutants!  And Winter Soldier's handler has a sinister plot to destroy the Opposition once and for all…",
+      "date": "2025-08-06T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/e/03/6824c48192c74",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/121277/ultimate_wolverine_2025_8?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 121277,
+      "creators": [
+        {
+          "id": 4991,
+          "name": "Frank Martin",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        }
+      ]
+    },
+    {
       "id": 124528,
       "title": "Ultimate Wolverine (2025) #1 (Variant)",
       "issueNumber": 1,
