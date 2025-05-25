@@ -888,90 +888,6 @@
       ]
     },
     {
-      "id": 113895,
-      "title": "Ultimate Spider-Man (2024) #18",
-      "issueNumber": 18,
-      "description": "WAR RAGES ON IN NEW YORK CITY!  Black Cat enlists Richard Parker's aid in the Sinister Six turf war…and Spider-Man gains a surprising ally!",
-      "date": "2025-06-25T00:00:00+0000",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/f0/67dc3f41d8f5e",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113895/ultimate_spider-man_2024_18?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113895,
-      "creators": [
-        {
-          "id": 10279,
-          "name": "Matthew Wilson",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
-        },
-        {
-          "id": 11748,
-          "name": "Marco Checchetto",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 12980,
-          "name": "Vc Cory Petit",
-          "role": "letterer"
-        }
-      ]
-    },
-    {
-      "id": 113896,
-      "title": "Ultimate Spider-Man (2024) #19",
-      "issueNumber": 19,
-      "description": "THREE-WAY DANCE, ALL-OUT WAR! FISK vs. MR. NEGATIVE vs. MYSTERIO with SPIDER-MAN and his allies caught in the middle! Will the SINISTER SIX destroy New York before they destroy each other?!",
-      "date": "2025-07-23T00:00:00+0000",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/90/67fff864d5149",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113896/ultimate_spider-man_2024_19?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113896,
-      "creators": [
-        {
-          "id": 10279,
-          "name": "Matthew Wilson",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
-        },
-        {
-          "id": 11748,
-          "name": "Marco Checchetto",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 12980,
-          "name": "Vc Cory Petit",
-          "role": "letterer"
-        }
-      ]
-    },
-    {
       "id": 113896,
       "title": "Ultimate Spider-Man (2024) #19",
       "issueNumber": 19,
@@ -4544,6 +4460,57 @@
         126636
       ],
       "variantBaseId": 113892,
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 128626,
+      "title": "Ultimate Spider-Man (2024) #16",
+      "issueNumber": 16,
+      "description": "",
+      "date": "2025-04-30T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/a0/68068d18530dd",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128626/ultimate_spider-man_2024_16?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113893,
+        126437,
+        127406,
+        127407
+      ],
+      "variantBaseId": 128626,
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 128627,
+      "title": "Ultimate Spider-Man (2024) #17",
+      "issueNumber": 17,
+      "description": "",
+      "date": "2025-05-28T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/30/682dff3b4e776",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128627/ultimate_spider-man_2024_17?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113894
+      ],
+      "variantBaseId": 128627,
       "creators": [
         {
           "id": 4430,

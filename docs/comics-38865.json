@@ -2820,11 +2820,6 @@
       "role": "colorist (cover)"
     },
     {
-      "id": 11579,
-      "name": "Sunny Gho",
-      "role": "colorist (cover)"
-    },
-    {
       "id": 14669,
       "name": "Chris Allen",
       "role": "penciler"
@@ -2882,6 +2877,11 @@
     {
       "id": 13558,
       "name": "Juan Ferreyra",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 8933,
+      "name": "Lee Garbett",
       "role": "penciler (cover)"
     },
     {
