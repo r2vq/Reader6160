@@ -767,7 +767,8 @@
       "variants": [
         126437,
         127406,
-        127407
+        127407,
+        128626
       ],
       "variantBaseId": 113893,
       "creators": [
@@ -810,7 +811,9 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113894/ultimate_spider-man_2024_17?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        128627
+      ],
       "variantBaseId": 113894,
       "creators": [
         {
@@ -4105,7 +4108,8 @@
       "variants": [
         113893,
         127406,
-        127407
+        127407,
+        128626
       ],
       "variantBaseId": 113893,
       "creators": [
@@ -4310,7 +4314,8 @@
       "variants": [
         113893,
         126437,
-        127407
+        127407,
+        128626
       ],
       "variantBaseId": 113893,
       "creators": [
@@ -4356,7 +4361,8 @@
       "variants": [
         113893,
         126437,
-        127406
+        127406,
+        128626
       ],
       "variantBaseId": 113893,
       "creators": [
@@ -4486,7 +4492,7 @@
         127406,
         127407
       ],
-      "variantBaseId": 128626,
+      "variantBaseId": 113893,
       "creators": [
         {
           "id": 4430,
@@ -4510,7 +4516,7 @@
       "variants": [
         113894
       ],
-      "variantBaseId": 128627,
+      "variantBaseId": 113894,
       "creators": [
         {
           "id": 4430,
