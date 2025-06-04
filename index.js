@@ -44,6 +44,10 @@ const comicConfig = [
         id: 42303, // Ultimate Wolverine (2025)
         color: "#841D24",
     },
+    {
+        id: 43373, // Ultimate Spider-Man: Incursion (2025)
+        color: "#841D24",
+    },
 ]
 
 async function fetchData() {
