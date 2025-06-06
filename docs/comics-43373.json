@@ -1,0 +1,627 @@
+{
+  "id": 43373,
+  "title": "Ultimate Spider-Man: Incursion (2025 - Present)",
+  "thumbnail": {
+    "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/20/67dc3f41ecbad",
+    "extension": "jpg"
+  },
+  "color": "#841D24",
+  "issues": [
+    {
+      "id": 125522,
+      "title": "Ultimate Spider-Man: Incursion (2025) #1",
+      "issueNumber": 1,
+      "description": "MILES MORALES CAUGHT IN THE MIDDLE OF A UNIVERSAL COLLISION! Two of today's most exciting writers, DENIZ CAMP (ULTIMATES) and CODY ZIGLAR (MILES MORALES: SPIDER-MAN), join forces for an adventure that will change Miles Morales- and the Ultimate Universe - forever! Drawn by rising star JONAS SCHARF, the brilliantly moody artist who brought you ULTIMATE UNIVERSE: ONE YEAR IN and DARK X-MEN… Before The Maker remade Earth-6160, he left Miles Morales the key to reach his new universe…and when Miles' baby sister, Billie, uses it to travel to the Ultimate Universe, it's up to Spider-Man to save her! But the Ultimate Universe is never safe for any Spider-Man! When the Spot attacks, Miles will have to team up with an all-new Peter Parker - and that's just the start of his journey across Earth-6160…",
+      "date": "2025-06-04T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/20/67dc3f41ecbad",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/125522/ultimate_spider-man_incursion_2025_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        128861
+      ],
+      "variantBaseId": 125522,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 9408,
+          "name": "Sara Pichelli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12744,
+          "name": "Tamra Bonvillain",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 125523,
+      "title": "Ultimate Spider-Man: Incursion (2025) #2",
+      "issueNumber": 2,
+      "description": "MILES AND THE ULTIMATES VS. BLACK PANTHER! MILES MORALES teams up with fan-favorite ULTIMATES team members GIANT-MAN and THE WASP! But BLACK PANTHER doesn't want these Ultimate terrorist interlopers in Wakanda… Plus: The secret history of Janet Van Dyne!",
+      "date": "2025-07-09T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/80/67fff863c8d08",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/125523/ultimate_spider-man_incursion_2025_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 125523,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 9408,
+          "name": "Sara Pichelli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12744,
+          "name": "Tamra Bonvillain",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 125524,
+      "title": "Ultimate Spider-Man: Incursion (2025) #3",
+      "issueNumber": 3,
+      "description": "MILES' FIRST CONFRONTATION WITH THE MAKER'S COUNCIL! Silver Samurai attacks interloper Miles Morales! Fortunately, a band of mutants calling themselves the X-Men come to his aid! What will Miles make of the dark history of this alternate universe now that he is faced with the reality of what the Maker has done?",
+      "date": "2025-08-13T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/d0/6824c482d9e23",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/125524/ultimate_spider-man_incursion_2025_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 125524,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 9408,
+          "name": "Sara Pichelli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12744,
+          "name": "Tamra Bonvillain",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 128861,
+      "title": "Ultimate Spider-Man: Incursion (2025) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "MILES MORALES CAUGHT IN THE MIDDLE OF A UNIVERSAL COLLISION! Two of today's most exciting writers, DENIZ CAMP (ULTIMATES) and CODY ZIGLAR (MILES MORALES: SPIDER-MAN), join forces for an adventure that will change Miles Morales- and the Ultimate Universe - forever! Drawn by rising star JONAS SCHARF, the brilliantly moody artist who brought you ULTIMATE UNIVERSE: ONE YEAR IN and DARK X-MEN… Before The Maker remade Earth-6160, he left Miles Morales the key to reach his new universe…and when Miles' baby sister, Billie, uses it to travel to the Ultimate Universe, it's up to Spider-Man to save her! But the Ultimate Universe is never safe for any Spider-Man! When the Spot attacks, Miles will have to team up with an all-new Peter Parker - and that's just the start of his journey across Earth-6160…",
+      "date": "2025-06-04T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/d0/67dc3f41f2f75",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128861/ultimate_spider-man_incursion_2025_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125522
+      ],
+      "variantBaseId": 125522,
+      "creators": [
+        {
+          "id": 191,
+          "name": "Kaare Andrews",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 128862,
+      "title": "Ultimate Spider-Man: Incursion (2025) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "MILES MORALES CAUGHT IN THE MIDDLE OF A UNIVERSAL COLLISION! Two of today's most exciting writers, DENIZ CAMP (ULTIMATES) and CODY ZIGLAR (MILES MORALES: SPIDER-MAN), join forces for an adventure that will change Miles Morales- and the Ultimate Universe - forever! Drawn by rising star JONAS SCHARF, the brilliantly moody artist who brought you ULTIMATE UNIVERSE: ONE YEAR IN and DARK X-MEN… Before The Maker remade Earth-6160, he left Miles Morales the key to reach his new universe…and when Miles' baby sister, Billie, uses it to travel to the Ultimate Universe, it's up to Spider-Man to save her! But the Ultimate Universe is never safe for any Spider-Man! When the Spot attacks, Miles will have to team up with an all-new Peter Parker - and that's just the start of his journey across Earth-6160…",
+      "date": "2025-06-04T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/60/6841da1088c3f",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128862/ultimate_spider-man_incursion_2025_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125522,
+        128861,
+        128863,
+        128864,
+        128866,
+        129366
+      ],
+      "variantBaseId": 128862,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 128863,
+      "title": "Ultimate Spider-Man: Incursion (2025) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "MILES MORALES CAUGHT IN THE MIDDLE OF A UNIVERSAL COLLISION! Two of today's most exciting writers, DENIZ CAMP (ULTIMATES) and CODY ZIGLAR (MILES MORALES: SPIDER-MAN), join forces for an adventure that will change Miles Morales- and the Ultimate Universe - forever! Drawn by rising star JONAS SCHARF, the brilliantly moody artist who brought you ULTIMATE UNIVERSE: ONE YEAR IN and DARK X-MEN… Before The Maker remade Earth-6160, he left Miles Morales the key to reach his new universe…and when Miles' baby sister, Billie, uses it to travel to the Ultimate Universe, it's up to Spider-Man to save her! But the Ultimate Universe is never safe for any Spider-Man! When the Spot attacks, Miles will have to team up with an all-new Peter Parker - and that's just the start of his journey across Earth-6160…",
+      "date": "2025-06-04T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/40/6841da108c64e",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128863/ultimate_spider-man_incursion_2025_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125522,
+        128861,
+        128862,
+        128864,
+        128866,
+        129366
+      ],
+      "variantBaseId": 128863,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13250,
+          "name": "Romulo Fajardo Jr.",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13602,
+          "name": "Francesco Mobili",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 128864,
+      "title": "Ultimate Spider-Man: Incursion (2025) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "MILES MORALES CAUGHT IN THE MIDDLE OF A UNIVERSAL COLLISION! Two of today's most exciting writers, DENIZ CAMP (ULTIMATES) and CODY ZIGLAR (MILES MORALES: SPIDER-MAN), join forces for an adventure that will change Miles Morales- and the Ultimate Universe - forever! Drawn by rising star JONAS SCHARF, the brilliantly moody artist who brought you ULTIMATE UNIVERSE: ONE YEAR IN and DARK X-MEN… Before The Maker remade Earth-6160, he left Miles Morales the key to reach his new universe…and when Miles' baby sister, Billie, uses it to travel to the Ultimate Universe, it's up to Spider-Man to save her! But the Ultimate Universe is never safe for any Spider-Man! When the Spot attacks, Miles will have to team up with an all-new Peter Parker - and that's just the start of his journey across Earth-6160…",
+      "date": "2025-06-04T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/03/6841da1088966",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128864/ultimate_spider-man_incursion_2025_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125522,
+        128861,
+        128862,
+        128863,
+        128866,
+        129366
+      ],
+      "variantBaseId": 128864,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 128866,
+      "title": "Ultimate Spider-Man: Incursion (2025) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "MILES MORALES CAUGHT IN THE MIDDLE OF A UNIVERSAL COLLISION! Two of today's most exciting writers, DENIZ CAMP (ULTIMATES) and CODY ZIGLAR (MILES MORALES: SPIDER-MAN), join forces for an adventure that will change Miles Morales- and the Ultimate Universe - forever! Drawn by rising star JONAS SCHARF, the brilliantly moody artist who brought you ULTIMATE UNIVERSE: ONE YEAR IN and DARK X-MEN… Before The Maker remade Earth-6160, he left Miles Morales the key to reach his new universe…and when Miles' baby sister, Billie, uses it to travel to the Ultimate Universe, it's up to Spider-Man to save her! But the Ultimate Universe is never safe for any Spider-Man! When the Spot attacks, Miles will have to team up with an all-new Peter Parker - and that's just the start of his journey across Earth-6160…",
+      "date": "2025-06-04T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/e0/6841da0fb33dc",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128866/ultimate_spider-man_incursion_2025_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125522,
+        128861,
+        128862,
+        128863,
+        128864,
+        129366
+      ],
+      "variantBaseId": 128866,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 11610,
+          "name": "David Marquez",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 129366,
+      "title": "Ultimate Spider-Man: Incursion (2025) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "MILES MORALES CAUGHT IN THE MIDDLE OF A UNIVERSAL COLLISION! Two of today's most exciting writers, DENIZ CAMP (ULTIMATES) and CODY ZIGLAR (MILES MORALES: SPIDER-MAN), join forces for an adventure that will change Miles Morales- and the Ultimate Universe - forever! Drawn by rising star JONAS SCHARF, the brilliantly moody artist who brought you ULTIMATE UNIVERSE: ONE YEAR IN and DARK X-MEN… Before The Maker remade Earth-6160, he left Miles Morales the key to reach his new universe…and when Miles' baby sister, Billie, uses it to travel to the Ultimate Universe, it's up to Spider-Man to save her! But the Ultimate Universe is never safe for any Spider-Man! When the Spot attacks, Miles will have to team up with an all-new Peter Parker - and that's just the start of his journey across Earth-6160…",
+      "date": "2025-06-04T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/03/6841da1087991",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129366/ultimate_spider-man_incursion_2025_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125522,
+        128861,
+        128862,
+        128863,
+        128864,
+        128866
+      ],
+      "variantBaseId": 129366,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    }
+  ],
+  "creators": [
+    {
+      "id": 14669,
+      "name": "Chris Allen",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 191,
+      "name": "Kaare Andrews",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14280,
+      "name": "Marc Aspinall",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 5138,
+      "name": "C Cafu",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 1141,
+      "name": "Giuseppe Camuncoli",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 7718,
+      "name": "Sanford Greene",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 1026,
+      "name": "Tyler Kirkham",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 11610,
+      "name": "David Marquez",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13554,
+      "name": "Simone DI Meo",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 13602,
+      "name": "Francesco Mobili",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 9408,
+      "name": "Sara Pichelli",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 12744,
+      "name": "Tamra Bonvillain",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 13250,
+      "name": "Romulo Fajardo Jr.",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 13055,
+      "name": "Richard Isanove",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 14547,
+      "name": "Deniz Camp",
+      "role": "writer"
+    },
+    {
+      "id": 430,
+      "name": "Edgar Delgado",
+      "role": "colorist"
+    },
+    {
+      "id": 12376,
+      "name": "Wilson Moss",
+      "role": "editor"
+    },
+    {
+      "id": 13127,
+      "name": "Emily Newcomen",
+      "role": "editor"
+    },
+    {
+      "id": 12980,
+      "name": "Vc Cory Petit",
+      "role": "letterer"
+    },
+    {
+      "id": 13879,
+      "name": "Jonas Scharf",
+      "role": "inker"
+    }
+  ],
+  "attributionText": "Data provided by Marvel. © 2025 MARVEL",
+  "detailUrl": "https://marvel.com/comics/series/43373/ultimate_spider-man_incursion_2025_-_present?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269"
+}
