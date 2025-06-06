@@ -971,6 +971,62 @@
       ]
     },
     {
+      "id": 125584,
+      "title": "Ultimate Wolverine (2025) #6 (Variant)",
+      "issueNumber": 6,
+      "description": "REUNION WITH THE OPPOSITION? Guest artist Alex Lins (NAMOR) takes Wolverine on a psychedelic journey through his mind as familiar and unfamiliar faces of the Opposition try to untangle Logan's Winter Soldier programming!",
+      "date": "2025-06-04T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/d0/6841da11b7b16",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/125584/ultimate_wolverine_2025_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        121275,
+        128867,
+        128868
+      ],
+      "variantBaseId": 125584,
+      "creators": [
+        {
+          "id": 758,
+          "name": "Leinil Francis Yu",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13250,
+          "name": "Romulo Fajardo Jr.",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13712,
+          "name": "Alex Lins",
+          "role": "inker"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        }
+      ]
+    },
+    {
       "id": 125999,
       "title": "Ultimate Wolverine (2025) #2 (Variant)",
       "issueNumber": 2,
@@ -1360,6 +1416,113 @@
         {
           "id": 14220,
           "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 128867,
+      "title": "Ultimate Wolverine (2025) #6 (Variant)",
+      "issueNumber": 6,
+      "description": "REUNION WITH THE OPPOSITION? Guest artist Alex Lins (NAMOR) takes Wolverine on a psychedelic journey through his mind as familiar and unfamiliar faces of the Opposition try to untangle Logan's Winter Soldier programming!",
+      "date": "2025-06-04T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/a0/6841da10a1905",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128867/ultimate_wolverine_2025_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        121275,
+        125584,
+        128868
+      ],
+      "variantBaseId": 128867,
+      "creators": [
+        {
+          "id": 758,
+          "name": "Leinil Francis Yu",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13250,
+          "name": "Romulo Fajardo Jr.",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13712,
+          "name": "Alex Lins",
+          "role": "inker"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 128868,
+      "title": "Ultimate Wolverine (2025) #6 (Variant)",
+      "issueNumber": 6,
+      "description": "REUNION WITH THE OPPOSITION? Guest artist Alex Lins (NAMOR) takes Wolverine on a psychedelic journey through his mind as familiar and unfamiliar faces of the Opposition try to untangle Logan's Winter Soldier programming!",
+      "date": "2025-06-04T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/50/6841da11b4659",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128868/ultimate_wolverine_2025_6_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        121275,
+        125584,
+        128867
+      ],
+      "variantBaseId": 128868,
+      "creators": [
+        {
+          "id": 7718,
+          "name": "Sanford Greene",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13712,
+          "name": "Alex Lins",
           "role": "inker"
         },
         {

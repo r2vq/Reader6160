@@ -3158,6 +3158,174 @@
           "role": "writer"
         }
       ]
+    },
+    {
+      "id": 128663,
+      "title": "Ultimate X-Men (2024) #16 (Variant)",
+      "issueNumber": 16,
+      "description": "THE DAWN OF A NEW MUTANT CULT? It's springtime in Hi No Kuni, the period for renewal and new beginnings. But what's new is not always what's better, as Hisako's dark era spreads…",
+      "date": "2025-06-11T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/8/03/68420b90e7363",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128663/ultimate_x-men_2024_16_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113913,
+        128869,
+        128870,
+        129267
+      ],
+      "variantBaseId": 128663,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 128869,
+      "title": "Ultimate X-Men (2024) #16 (Variant)",
+      "issueNumber": 16,
+      "description": "THE DAWN OF A NEW MUTANT CULT? It's springtime in Hi No Kuni, the period for renewal and new beginnings. But what's new is not always what's better, as Hisako's dark era spreads…",
+      "date": "2025-06-11T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/03/68420b91933d1",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128869/ultimate_x-men_2024_16_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113913,
+        128663,
+        128870,
+        129267
+      ],
+      "variantBaseId": 128869,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        },
+        {
+          "id": 13929,
+          "name": "Miguel Mercado",
+          "role": "painter (cover)"
+        }
+      ]
+    },
+    {
+      "id": 128870,
+      "title": "Ultimate X-Men (2024) #16 (Variant)",
+      "issueNumber": 16,
+      "description": "THE DAWN OF A NEW MUTANT CULT? It's springtime in Hi No Kuni, the period for renewal and new beginnings. But what's new is not always what's better, as Hisako's dark era spreads…",
+      "date": "2025-06-11T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/70/68420b9155aef",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128870/ultimate_x-men_2024_16_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113913,
+        128663,
+        128869,
+        129267
+      ],
+      "variantBaseId": 128870,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        },
+        {
+          "id": 14144,
+          "name": "D Doaly",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 129267,
+      "title": "Ultimate X-Men (2024) #16 (Variant)",
+      "issueNumber": 16,
+      "description": "THE DAWN OF A NEW MUTANT CULT? It's springtime in Hi No Kuni, the period for renewal and new beginnings. But what's new is not always what's better, as Hisako's dark era spreads…",
+      "date": "2025-06-11T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/03/68420b91448b3",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129267/ultimate_x-men_2024_16_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113913,
+        128663,
+        128869,
+        128870
+      ],
+      "variantBaseId": 129267,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12991,
+          "name": "Rachelle Rosenberg",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        },
+        {
+          "id": 14530,
+          "name": "Corin Howell",
+          "role": "inker (cover)"
+        }
+      ]
     }
   ],
   "creators": [
