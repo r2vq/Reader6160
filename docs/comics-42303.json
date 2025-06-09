@@ -276,12 +276,16 @@
       "description": "REUNION WITH THE OPPOSITION? Guest artist Alex Lins (NAMOR) takes Wolverine on a psychedelic journey through his mind as familiar and unfamiliar faces of the Opposition try to untangle Logan's Winter Soldier programming!",
       "date": "2025-06-04T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/a0/67dc3f41eae9c",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/e0/6841ca016571b",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/121275/ultimate_wolverine_2025_6?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        125584,
+        128867,
+        128868
+      ],
       "variantBaseId": 121275,
       "creators": [
         {
@@ -987,7 +991,7 @@
         128867,
         128868
       ],
-      "variantBaseId": 125584,
+      "variantBaseId": 121275,
       "creators": [
         {
           "id": 758,
@@ -1447,7 +1451,7 @@
         125584,
         128868
       ],
-      "variantBaseId": 128867,
+      "variantBaseId": 121275,
       "creators": [
         {
           "id": 758,
@@ -1503,7 +1507,7 @@
         125584,
         128867
       ],
-      "variantBaseId": 128868,
+      "variantBaseId": 121275,
       "creators": [
         {
           "id": 7718,

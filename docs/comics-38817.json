@@ -623,12 +623,17 @@
       "description": "THE DAWN OF A NEW MUTANT CULT? It's springtime in Hi No Kuni, the period for renewal and new beginnings. But what's new is not always what's better, as Hisako's dark era spreads…",
       "date": "2025-06-11T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/60/67dc3f519d302",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/30/6841e9fca72e9",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113913/ultimate_x-men_2024_16?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        128663,
+        128869,
+        128870,
+        129267
+      ],
       "variantBaseId": 113913,
       "creators": [
         {
@@ -3177,7 +3182,7 @@
         128870,
         129267
       ],
-      "variantBaseId": 128663,
+      "variantBaseId": 113913,
       "creators": [
         {
           "id": 12376,
@@ -3214,7 +3219,7 @@
         128870,
         129267
       ],
-      "variantBaseId": 128869,
+      "variantBaseId": 113913,
       "creators": [
         {
           "id": 12376,
@@ -3256,7 +3261,7 @@
         128869,
         129267
       ],
-      "variantBaseId": 128870,
+      "variantBaseId": 113913,
       "creators": [
         {
           "id": 12993,
@@ -3298,7 +3303,7 @@
         128869,
         128870
       ],
-      "variantBaseId": 129267,
+      "variantBaseId": 113913,
       "creators": [
         {
           "id": 12376,
