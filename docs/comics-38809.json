@@ -806,7 +806,7 @@
       "description": "TURF WAR IN NEW YORK! THE SINISTER SIX VS. THE TWO SPIDER-MEN! All is not well in New York with the Sinister Six at war with each other! Fortunately, Spider-Man's not facing this one alone...catch Richard Parker in the BLACK SUIT!",
       "date": "2025-05-28T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/a0/6825fbae3ed4f",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/d0/6849a2afd79b1",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113894/ultimate_spider-man_2024_17?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
@@ -891,6 +891,48 @@
       ]
     },
     {
+      "id": 113895,
+      "title": "Ultimate Spider-Man (2024) #18",
+      "issueNumber": 18,
+      "description": "WAR RAGES ON IN NEW YORK CITY!  Black Cat enlists Richard Parker's aid in the Sinister Six turf war…and Spider-Man gains a surprising ally!",
+      "date": "2025-06-25T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/f0/67dc3f41d8f5e",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113895/ultimate_spider-man_2024_18?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113895,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
       "id": 113896,
       "title": "Ultimate Spider-Man (2024) #19",
       "issueNumber": 19,
@@ -919,6 +961,95 @@
           "id": 11748,
           "name": "Marco Checchetto",
           "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
+      "id": 113896,
+      "title": "Ultimate Spider-Man (2024) #19",
+      "issueNumber": 19,
+      "description": "THREE-WAY DANCE, ALL-OUT WAR! FISK vs. MR. NEGATIVE vs. MYSTERIO with SPIDER-MAN and his allies caught in the middle! Will the SINISTER SIX destroy New York before they destroy each other?!",
+      "date": "2025-07-30T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/90/67fff864d5149",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113896/ultimate_spider-man_2024_19?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113896,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
+      "id": 113897,
+      "title": "Ultimate Spider-Man (2024) #20",
+      "issueNumber": 20,
+      "description": "MY DINNER WITH HARRY! Harry Osborn lives! Peter and Mary Jane have another fateful dinner with Harry and Gwen…",
+      "date": "2025-08-27T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/80/6824c480df45a",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113897/ultimate_spider-man_2024_20?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113897,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
         },
         {
           "id": 12376,
