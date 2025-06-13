@@ -771,105 +771,6 @@
       ]
     },
     {
-      "id": 113931,
-      "title": "Ultimates (2024) #14",
-      "issueNumber": 14,
-      "description": "THE ULTIMATE SCARLET WITCH AND QUICKSILVER! The Ultimates' next mission? Destroy one of the Hellfire Club's strongholds! But a dangerous pair of twins complicates matters…",
-      "date": "2025-07-30T00:00:00+0000",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/00/67fff860d6080",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113931/ultimates_2024_14?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113931,
-      "creators": [
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 12624,
-          "name": "Juan Frigeri",
-          "role": "inker"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13180,
-          "name": "Federico Blee",
-          "role": "colorist"
-        },
-        {
-          "id": 13675,
-          "name": "Neeraj Menon",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 13932,
-          "name": "Dike Ruan",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        }
-      ]
-    },
-    {
-      "id": 113932,
-      "title": "Ultimates (2024) #15",
-      "issueNumber": 15,
-      "description": "THE MONK, THE DRAGON AND THE FIST: SHANG-CHI! The Ultimates return to the site of their untimely deaths at the hands of the Hulk and encounter a young boy who has been starting his own insurgency!",
-      "date": "2025-08-13T00:00:00+0000",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/03/6824c4821d226",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113932/ultimates_2024_15?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113932,
-      "creators": [
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 12993,
-          "name": "Vc Travis Lanham",
-          "role": "letterer"
-        },
-        {
-          "id": 13180,
-          "name": "Federico Blee",
-          "role": "colorist"
-        },
-        {
-          "id": 13675,
-          "name": "Neeraj Menon",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 13932,
-          "name": "Dike Ruan",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        }
-      ]
-    },
-    {
       "id": 113932,
       "title": "Ultimates (2024) #15",
       "issueNumber": 15,
@@ -2881,6 +2782,96 @@
         {
           "id": 9998,
           "name": "Elena Casagrande",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 128871,
+      "title": "Ultimates (2024) #13 (Variant)",
+      "issueNumber": 13,
+      "description": "THE SECOND YEAR OF THE ULTIMATES STARTS HERE! Time is of the essence! And no one knows that better than Iron Lad… With the Maker set to be released in six months, it's time to kick off new, more daring actions! Enter: Ultimates 3.0!",
+      "date": "2025-06-18T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/a0/68499acc10eec",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128871/ultimates_2024_13_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113930,
+        128872
+      ],
+      "variantBaseId": 128871,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 128872,
+      "title": "Ultimates (2024) #13 (Variant)",
+      "issueNumber": 13,
+      "description": "THE SECOND YEAR OF THE ULTIMATES STARTS HERE! Time is of the essence! And no one knows that better than Iron Lad… With the Maker set to be released in six months, it's time to kick off new, more daring actions! Enter: Ultimates 3.0!",
+      "date": "2025-06-18T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/00/68499acc06bf6",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128872/ultimates_2024_13_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113930,
+        128871
+      ],
+      "variantBaseId": 128872,
+      "creators": [
+        {
+          "id": 425,
+          "name": "Greg Land",
           "role": "penciler (cover)"
         },
         {
