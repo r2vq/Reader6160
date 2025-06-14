@@ -860,7 +860,11 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113895/ultimate_spider-man_2024_18?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        126439,
+        128859,
+        128860
+      ],
       "variantBaseId": 113895,
       "creators": [
         {
@@ -4162,7 +4166,7 @@
         128859,
         128860
       ],
-      "variantBaseId": 126439,
+      "variantBaseId": 113895,
       "creators": [
         {
           "id": 10279,
@@ -4593,7 +4597,7 @@
         126439,
         128860
       ],
-      "variantBaseId": 128859,
+      "variantBaseId": 113895,
       "creators": [
         {
           "id": 277,
@@ -4644,7 +4648,7 @@
         126439,
         128859
       ],
-      "variantBaseId": 128860,
+      "variantBaseId": 113895,
       "creators": [
         {
           "id": 10279,
