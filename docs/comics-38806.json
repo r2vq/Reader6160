@@ -773,12 +773,16 @@
       "description": "KILLMONGER VS. THE VODU-KHAN! Black Panther has deputized Erik Killmonger in his absence! But T'Challa's mysterious advisors, the Vodu-Khan, do not trust this interloper! Plus, Queen Okoye reveals truths behind her marriage and her mission…",
       "date": "2025-06-11T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/a0/67dc3f41f3167",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/00/6841ea4c2a8a3",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113874/ultimate_black_panther_2024_17?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        127723,
+        128857,
+        128858
+      ],
       "variantBaseId": 113874,
       "creators": [
         {
@@ -3189,7 +3193,7 @@
         128857,
         128858
       ],
-      "variantBaseId": 127723,
+      "variantBaseId": 113874,
       "creators": [
         {
           "id": 1133,
@@ -3295,7 +3299,7 @@
         127723,
         128858
       ],
-      "variantBaseId": 128857,
+      "variantBaseId": 113874,
       "creators": [
         {
           "id": 1133,
@@ -3346,7 +3350,7 @@
         127723,
         128857
       ],
-      "variantBaseId": 128858,
+      "variantBaseId": 113874,
       "creators": [
         {
           "id": 1133,
