@@ -688,7 +688,10 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113930/ultimates_2024_13?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        128871,
+        128872
+      ],
       "variantBaseId": 113930,
       "creators": [
         {
@@ -2827,7 +2830,7 @@
         113930,
         128872
       ],
-      "variantBaseId": 128871,
+      "variantBaseId": 113930,
       "creators": [
         {
           "id": 12376,
@@ -2867,7 +2870,7 @@
         113930,
         128871
       ],
-      "variantBaseId": 128872,
+      "variantBaseId": 113930,
       "creators": [
         {
           "id": 425,
