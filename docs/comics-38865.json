@@ -821,6 +821,58 @@
       ]
     },
     {
+      "id": 113933,
+      "title": "Ultimates (2024) #16",
+      "issueNumber": 16,
+      "description": "FROM THE SKIES TO THE STREETS - THE NEW ULTIMATES! The Maker is only three months away and time is running out. But the Ultimates network is bigger than ever now that they're inspiring more and more people to join their cause! A can't-miss street-level adventure from the Ultimates' new recruits!",
+      "date": "2025-09-17T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/50/68519a15261eb",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113933/ultimates_2024_16?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113933,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
       "id": 116160,
       "title": "Ultimates (2024) #1 (Variant)",
       "issueNumber": 1,

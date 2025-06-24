@@ -984,6 +984,53 @@
       ]
     },
     {
+      "id": 113898,
+      "title": "Ultimate Spider-Man (2024) #21",
+      "issueNumber": 21,
+      "description": "THE FINAL MEETING OF THE SINISTER SIX? Blood boils over as these warring villains gather to destroy each other once and for all…or will they reunite against their common enemy, Spider-Man?",
+      "date": "2025-09-24T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/c0/68519a151f9a6",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113898/ultimate_spider-man_2024_21?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113898,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
       "id": 114259,
       "title": "Ultimate Spider-Man (2024) #1 (Variant)",
       "issueNumber": 1,

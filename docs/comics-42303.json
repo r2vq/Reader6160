@@ -420,6 +420,53 @@
       ]
     },
     {
+      "id": 121278,
+      "title": "Ultimate Wolverine (2025) #9",
+      "issueNumber": 9,
+      "description": "WOLVERINE VS. ULTIMATE ANGEL! The Opposition infiltrates a facility holding a group of high-powered mutants!  And Winter Soldier's handler has a sinister plot to destroy the Opposition once and for all…",
+      "date": "2025-09-10T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/e0/68519a1526f7d",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/121278/ultimate_wolverine_2025_9?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 121278,
+      "creators": [
+        {
+          "id": 4991,
+          "name": "Frank Martin",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        }
+      ]
+    },
+    {
       "id": 124528,
       "title": "Ultimate Wolverine (2025) #1 (Variant)",
       "issueNumber": 1,

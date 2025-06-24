@@ -902,6 +902,53 @@
       ]
     },
     {
+      "id": 113877,
+      "title": "Ultimate Black Panther (2024) #20",
+      "issueNumber": 20,
+      "description": "BAST INTERVENES! T'CHALLA ASCENDS?! The prophecy advances…? And T'Challa must go on a spiritual journey to \"come to his full power\"!",
+      "date": "2025-09-17T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/f0/68519f2097711",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113877/ultimate_black_panther_2024_20?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113877,
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        }
+      ]
+    },
+    {
       "id": 114851,
       "title": "Ultimate Black Panther (2024) #1 (Variant)",
       "issueNumber": 1,

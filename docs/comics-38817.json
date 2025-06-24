@@ -723,6 +723,43 @@
       ]
     },
     {
+      "id": 113916,
+      "title": "Ultimate X-Men (2024) #19",
+      "issueNumber": 19,
+      "description": "SHADOWS OF THE KING AND THE ASTRAL PLANE! Has Hisako been saved?! A climactic battle between Armor and Shadow King in the Astral Plane! But what secrets does Kageyama still hold? And what of the Children of the Atom's dependence on his power?",
+      "date": "2025-09-03T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/40/68519a2ad17ea",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113916/ultimate_x-men_2024_19?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113916,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14191,
+          "name": "Zack Davisson",
+          "role": "other"
+        }
+      ]
+    },
+    {
       "id": 115374,
       "title": "Ultimate X-Men (2024) #1 (Variant)",
       "issueNumber": 1,

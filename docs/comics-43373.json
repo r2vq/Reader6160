@@ -186,6 +186,63 @@
       ]
     },
     {
+      "id": 125525,
+      "title": "Ultimate Spider-Man: Incursion (2025) #4",
+      "issueNumber": 4,
+      "description": "MILES MORALES IN THE EURASIAN REPUBLIC! Miles continues his quest for Billie, even though the Maker's Council foils him at every step! What will happen when he runs into the Council's most ruthless rulers - Magik, Colossus and Omega Red? And what is the Council REALLY after with the Maker's card, anyway?! Don't miss the penultimate issue leading up to our climactic finale!",
+      "date": "2025-09-10T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/03/68519a1521f40",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/125525/ultimate_spider-man_incursion_2025_4?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 125525,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 9408,
+          "name": "Sara Pichelli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12744,
+          "name": "Tamra Bonvillain",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
       "id": 128861,
       "title": "Ultimate Spider-Man: Incursion (2025) #1 (Variant)",
       "issueNumber": 1,
