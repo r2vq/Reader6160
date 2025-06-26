@@ -4628,6 +4628,33 @@
       ]
     },
     {
+      "id": 128628,
+      "title": "Ultimate Spider-Man (2024) #18",
+      "issueNumber": 18,
+      "description": "",
+      "date": "2025-06-25T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/d0/685aa5e677bbe",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128628/ultimate_spider-man_2024_18?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113895,
+        126439,
+        128859,
+        128860
+      ],
+      "variantBaseId": 128628,
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
+      ]
+    },
+    {
       "id": 128859,
       "title": "Ultimate Spider-Man (2024) #18 (Variant)",
       "issueNumber": 18,

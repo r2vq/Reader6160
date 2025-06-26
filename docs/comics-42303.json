@@ -1587,6 +1587,106 @@
           "role": "writer"
         }
       ]
+    },
+    {
+      "id": 129843,
+      "title": "Ultimate Wolverine (2025) #7 (Variant)",
+      "issueNumber": 7,
+      "description": "…IN LIMBO? Has the OPPOSITION finally helped Logan reclaim his identity? But what lengths will COLOSSUS, MAGIK and OMEGA RED go to keep their prized weapon? And don't miss Ultimate MAGIK revealing the depth of her power!",
+      "date": "2025-07-02T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/10/685c59fc393bb",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129843/ultimate_wolverine_2025_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        121276,
+        129844
+      ],
+      "variantBaseId": 129843,
+      "creators": [
+        {
+          "id": 8950,
+          "name": "Lucio Parrillo",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 129844,
+      "title": "Ultimate Wolverine (2025) #7 (Variant)",
+      "issueNumber": 7,
+      "description": "…IN LIMBO? Has the OPPOSITION finally helped Logan reclaim his identity? But what lengths will COLOSSUS, MAGIK and OMEGA RED go to keep their prized weapon? And don't miss Ultimate MAGIK revealing the depth of her power!",
+      "date": "2025-07-02T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/b0/685c5a3d15827",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129844/ultimate_wolverine_2025_7_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        121276,
+        129843
+      ],
+      "variantBaseId": 129844,
+      "creators": [
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 14661,
+          "name": "Fabrizio De Tommaso",
+          "role": "penciler (cover)"
+        }
+      ]
     }
   ],
   "creators": [
