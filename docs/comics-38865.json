@@ -715,6 +715,16 @@
           "role": "colorist"
         },
         {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        },
+        {
           "id": 14547,
           "name": "Deniz Camp",
           "role": "writer"
@@ -728,12 +738,16 @@
       "description": "THE ULTIMATE SCARLET WITCH AND QUICKSILVER! The Ultimates' next mission? Destroy one of the Hellfire Club's strongholds! But a dangerous pair of twins complicates matters…",
       "date": "2025-07-30T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/00/67fff860d6080",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/30/6876841ebbe66",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113931/ultimates_2024_14?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        129847,
+        129848,
+        130366
+      ],
       "variantBaseId": 113931,
       "creators": [
         {
@@ -780,12 +794,16 @@
       "description": "THE MONK, THE DRAGON AND THE FIST: SHANG-CHI! The Ultimates return to the site of their untimely deaths at the hands of the Hulk and encounter a young boy who has been starting his own insurgency!",
       "date": "2025-08-13T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/03/6824c4821d226",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/10/688a67b3f1781",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113932/ultimates_2024_15?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        130367,
+        130368,
+        130369
+      ],
       "variantBaseId": 113932,
       "creators": [
         {
@@ -827,12 +845,16 @@
       "description": "FROM THE SKIES TO THE STREETS - THE NEW ULTIMATES! The Maker is only three months away and time is running out. But the Ultimates network is bigger than ever now that they're inspiring more and more people to join their cause! A can't-miss street-level adventure from the Ultimates' new recruits!",
       "date": "2025-09-17T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/50/68519a15261eb",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/d0/68b9f0e1f0e57",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113933/ultimates_2024_16?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        130370,
+        131140,
+        131141
+      ],
       "variantBaseId": 113933,
       "creators": [
         {
@@ -844,6 +866,152 @@
           "id": 12624,
           "name": "Juan Frigeri",
           "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 113934,
+      "title": "Ultimates (2024) #17",
+      "issueNumber": 17,
+      "description": "THE ULTIMATE FANTASTIC FOUR? Now that the Ultimates are using the Immortus Engine to its full capacity, Doom's dream of the Ultimate Fantastic Four may finally be realized…",
+      "date": "2025-10-22T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/70/68790c6133fb0",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113934/ultimates_2024_17?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113934,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13459,
+          "name": "Phil Noto",
+          "role": "inker"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 113935,
+      "title": "Ultimates (2024) #18",
+      "issueNumber": 18,
+      "description": "LAST CHANCE BEFORE THE MAKER RETURNS! CALLING ALL ULTIMATES!  There's only one month remaining before the City reopens and the Maker emerges. And Tony Stark has a message for the entire world…",
+      "date": "2025-11-19T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/90/68a62ccc28e4e",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113935/ultimates_2024_18?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113935,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 13675,
+          "name": "Neeraj Menon",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13932,
+          "name": "Dike Ruan",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 113936,
+      "title": "Ultimates (2024) #19",
+      "issueNumber": 19,
+      "description": "STUNG BY THE WASP! It's the Ultimate Betrayal! Wasp has been a double agent for the Maker's Council in the name of protecting her family…but now, with the Maker emerging, her treachery must be answered for!",
+      "date": "2025-12-31T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/00/68c9cfbe6cb6d",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113936/ultimates_2024_19?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113936,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
         },
         {
           "id": 12993,
@@ -2955,6 +3123,450 @@
           "role": "writer"
         }
       ]
+    },
+    {
+      "id": 129847,
+      "title": "Ultimates (2024) #14 (Variant)",
+      "issueNumber": 14,
+      "description": "THE ULTIMATE SCARLET WITCH AND QUICKSILVER! The Ultimates' next mission? Destroy one of the Hellfire Club's strongholds! But a dangerous pair of twins complicates matters…",
+      "date": "2025-07-30T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/c0/687684b6b3995",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129847/ultimates_2024_14_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113931,
+        129848,
+        130366
+      ],
+      "variantBaseId": 113931,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 13558,
+          "name": "Juan Ferreyra",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 129848,
+      "title": "Ultimates (2024) #14 (Variant)",
+      "issueNumber": 14,
+      "description": "THE ULTIMATE SCARLET WITCH AND QUICKSILVER! The Ultimates' next mission? Destroy one of the Hellfire Club's strongholds! But a dangerous pair of twins complicates matters…",
+      "date": "2025-07-30T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/40/687684b6de182",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129848/ultimates_2024_14_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113931,
+        129847,
+        130366
+      ],
+      "variantBaseId": 113931,
+      "creators": [
+        {
+          "id": 11757,
+          "name": "Salvador Larroca",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 130366,
+      "title": "Ultimates (2024) #14 (Variant)",
+      "issueNumber": 14,
+      "description": "THE ULTIMATE SCARLET WITCH AND QUICKSILVER! The Ultimates' next mission? Destroy one of the Hellfire Club's strongholds! But a dangerous pair of twins complicates matters…",
+      "date": "2025-07-30T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/60/687684bb84428",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/130366/ultimates_2024_14_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113931,
+        129847,
+        129848
+      ],
+      "variantBaseId": 113931,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 130367,
+      "title": "Ultimates (2024) #15 (Variant)",
+      "issueNumber": 15,
+      "description": "THE MONK, THE DRAGON AND THE FIST: SHANG-CHI! The Ultimates return to the site of their untimely deaths at the hands of the Hulk and encounter a young boy who has been starting his own insurgency!",
+      "date": "2025-08-13T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/40/688a80f47b854",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/130367/ultimates_2024_15_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113932,
+        130368,
+        130369
+      ],
+      "variantBaseId": 113932,
+      "creators": [
+        {
+          "id": 12426,
+          "name": "Javier Garron",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 130368,
+      "title": "Ultimates (2024) #15 (Variant)",
+      "issueNumber": 15,
+      "description": "THE MONK, THE DRAGON AND THE FIST: SHANG-CHI! The Ultimates return to the site of their untimely deaths at the hands of the Hulk and encounter a young boy who has been starting his own insurgency!",
+      "date": "2025-08-13T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/f0/688a812806f2f",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/130368/ultimates_2024_15_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113932,
+        130367,
+        130369
+      ],
+      "variantBaseId": 113932,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 130369,
+      "title": "Ultimates (2024) #15 (Variant)",
+      "issueNumber": 15,
+      "description": "THE MONK, THE DRAGON AND THE FIST: SHANG-CHI! The Ultimates return to the site of their untimely deaths at the hands of the Hulk and encounter a young boy who has been starting his own insurgency!",
+      "date": "2025-08-13T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/8/03/688a8128171a3",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/130369/ultimates_2024_15_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113932,
+        130367,
+        130368
+      ],
+      "variantBaseId": 113932,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 14669,
+          "name": "Chris Allen",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 130370,
+      "title": "Ultimates (2024) #16 (Variant)",
+      "issueNumber": 16,
+      "description": "FROM THE SKIES TO THE STREETS - THE NEW ULTIMATES! The Maker is only three months away and time is running out. But the Ultimates network is bigger than ever now that they're inspiring more and more people to join their cause! A can't-miss street-level adventure from the Ultimates' new recruits!",
+      "date": "2025-09-17T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/f0/68b9f460a20a1",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/130370/ultimates_2024_16_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113933,
+        131140,
+        131141
+      ],
+      "variantBaseId": 113933,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13138,
+          "name": "In-Hyuk Lee",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 131140,
+      "title": "Ultimates (2024) #16 (Variant)",
+      "issueNumber": 16,
+      "description": "FROM THE SKIES TO THE STREETS - THE NEW ULTIMATES! The Maker is only three months away and time is running out. But the Ultimates network is bigger than ever now that they're inspiring more and more people to join their cause! A can't-miss street-level adventure from the Ultimates' new recruits!",
+      "date": "2025-09-17T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/f0/68b9f4600b8e6",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131140/ultimates_2024_16_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113933,
+        130370,
+        131141
+      ],
+      "variantBaseId": 113933,
+      "creators": [
+        {
+          "id": 9468,
+          "name": "Stephen Segovia",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 131141,
+      "title": "Ultimates (2024) #16 (Variant)",
+      "issueNumber": 16,
+      "description": "FROM THE SKIES TO THE STREETS - THE NEW ULTIMATES! The Maker is only three months away and time is running out. But the Ultimates network is bigger than ever now that they're inspiring more and more people to join their cause! A can't-miss street-level adventure from the Ultimates' new recruits!",
+      "date": "2025-09-17T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/c0/68b9f4610f08c",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131141/ultimates_2024_16_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113933,
+        130370,
+        131140
+      ],
+      "variantBaseId": 113933,
+      "creators": [
+        {
+          "id": 8933,
+          "name": "Lee Garbett",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
     }
   ],
   "creators": [
@@ -2981,6 +3593,11 @@
     {
       "id": 9018,
       "name": "Mahmud Asrar",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 14321,
+      "name": "Bjorn Barends",
       "role": "penciler (cover)"
     },
     {
@@ -3031,11 +3648,6 @@
     {
       "id": 8933,
       "name": "Lee Garbett",
-      "role": "penciler (cover)"
-    },
-    {
-      "id": 12426,
-      "name": "Javier Garron",
       "role": "penciler (cover)"
     },
     {

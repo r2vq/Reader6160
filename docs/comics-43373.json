@@ -78,12 +78,17 @@
       "description": "MILES AND THE ULTIMATES VS. BLACK PANTHER! MILES MORALES teams up with fan-favorite ULTIMATES team members GIANT-MAN and THE WASP! But BLACK PANTHER doesn't want these Ultimate terrorist interlopers in Wakanda… Plus: The secret history of Janet Van Dyne!",
       "date": "2025-07-09T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/80/67fff863c8d08",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/d0/685d4d1285a9c",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/125523/ultimate_spider-man_incursion_2025_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        129839,
+        129840,
+        129841,
+        129842
+      ],
       "variantBaseId": 125523,
       "creators": [
         {
@@ -135,69 +140,17 @@
       "description": "MILES' FIRST CONFRONTATION WITH THE MAKER'S COUNCIL! Silver Samurai attacks interloper Miles Morales! Fortunately, a band of mutants calling themselves the X-Men come to his aid! What will Miles make of the dark history of this alternate universe now that he is faced with the reality of what the Maker has done?",
       "date": "2025-08-13T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/d0/6824c482d9e23",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/40/688a67b3ce6c9",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/125524/ultimate_spider-man_incursion_2025_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
-      "variantBaseId": 125524,
-      "creators": [
-        {
-          "id": 430,
-          "name": "Edgar Delgado",
-          "role": "colorist"
-        },
-        {
-          "id": 9408,
-          "name": "Sara Pichelli",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 12744,
-          "name": "Tamra Bonvillain",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 12980,
-          "name": "Vc Cory Petit",
-          "role": "letterer"
-        },
-        {
-          "id": 13879,
-          "name": "Jonas Scharf",
-          "role": "inker"
-        },
-        {
-          "id": 14219,
-          "name": "Cody Ziglar",
-          "role": "writer"
-        },
-        {
-          "id": 14547,
-          "name": "Deniz Camp",
-          "role": "writer"
-        }
-      ]
-    },
-    {
-      "id": 125524,
-      "title": "Ultimate Spider-Man: Incursion (2025) #3",
-      "issueNumber": 3,
-      "description": "MILES' FIRST CONFRONTATION WITH THE MAKER'S COUNCIL! Silver Samurai attacks interloper Miles Morales! Fortunately, a band of mutants calling themselves the X-Men come to his aid! What will Miles make of the dark history of this alternate universe now that he is faced with the reality of what the Maker has done?",
-      "date": "2025-08-13T00:00:00+0000",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/d0/6824c482d9e23",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/125524/ultimate_spider-man_incursion_2025_3?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
+      "variants": [
+        130358,
+        130359,
+        130360,
+        130361
+      ],
       "variantBaseId": 125524,
       "creators": [
         {
@@ -249,12 +202,16 @@
       "description": "MILES MORALES IN THE EURASIAN REPUBLIC! Miles continues his quest for Billie, even though the Maker's Council foils him at every step! What will happen when he runs into the Council's most ruthless rulers - Magik, Colossus and Omega Red? And what is the Council REALLY after with the Maker's card, anyway?! Don't miss the penultimate issue leading up to our climactic finale!",
       "date": "2025-09-10T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/03/68519a1521f40",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/00/68ae096ec5e7c",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/125525/ultimate_spider-man_incursion_2025_4?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        131127,
+        131128,
+        131129
+      ],
       "variantBaseId": 125525,
       "creators": [
         {
@@ -300,19 +257,19 @@
       ]
     },
     {
-      "id": 125525,
-      "title": "Ultimate Spider-Man: Incursion (2025) #4",
-      "issueNumber": 4,
-      "description": "MILES MORALES IN THE EURASIAN REPUBLIC! Miles continues his quest for Billie, even though the Maker's Council foils him at every step! What will happen when he runs into the Council's most ruthless rulers - Magik, Colossus and Omega Red? And what is the Council REALLY after with the Maker's card, anyway?! Don't miss the penultimate issue leading up to our climactic finale!",
-      "date": "2025-09-10T00:00:00+0000",
+      "id": 125526,
+      "title": "Ultimate Spider-Man: Incursion (2025) #5",
+      "issueNumber": 5,
+      "description": "THE ULTIMATE EXIT! A SHOWDOWN WITH THE MAKER'S COUNCIL! The clock is ticking for Miles to escape the Ultimate Universe with his baby sister! How will Miles leave a mark on the Ultimate Universe? And how will the Ultimate Universe leave a mark on Miles?!  Don't miss the exciting conclusion…and what it bodes for the future of BOTH UNIVERSES!",
+      "date": "2025-10-22T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/03/68519a1521f40",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/03/68790c613350a",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/125525/ultimate_spider-man_incursion_2025_4?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/125526/ultimate_spider-man_incursion_2025_5?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
       "variants": [],
-      "variantBaseId": 125525,
+      "variantBaseId": 125526,
       "creators": [
         {
           "id": 430,
@@ -701,6 +658,125 @@
       ]
     },
     {
+      "id": 129839,
+      "title": "Ultimate Spider-Man: Incursion (2025) #2 (Variant)",
+      "issueNumber": 2,
+      "description": "MILES AND THE ULTIMATES VS. BLACK PANTHER! MILES MORALES teams up with fan-favorite ULTIMATES team members GIANT-MAN and THE WASP! But BLACK PANTHER doesn't want these Ultimate terrorist interlopers in Wakanda… Plus: The secret history of Janet Van Dyne!",
+      "date": "2025-07-09T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/40/685d4eeec2004",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129839/ultimate_spider-man_incursion_2025_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125523,
+        129840,
+        129841,
+        129842
+      ],
+      "variantBaseId": 125523,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 7718,
+          "name": "Sanford Greene",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 129840,
+      "title": "Ultimate Spider-Man: Incursion (2025) #2 (Variant)",
+      "issueNumber": 2,
+      "description": "MILES AND THE ULTIMATES VS. BLACK PANTHER! MILES MORALES teams up with fan-favorite ULTIMATES team members GIANT-MAN and THE WASP! But BLACK PANTHER doesn't want these Ultimate terrorist interlopers in Wakanda… Plus: The secret history of Janet Van Dyne!",
+      "date": "2025-07-09T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/70/685d4eeebafb1",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129840/ultimate_spider-man_incursion_2025_2_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125523,
+        129839,
+        129841,
+        129842
+      ],
+      "variantBaseId": 125523,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 1141,
+          "name": "Giuseppe Camuncoli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13055,
+          "name": "Richard Isanove",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
       "id": 129841,
       "title": "Ultimate Spider-Man: Incursion (2025) #2 (Variant)",
       "issueNumber": 2,
@@ -718,7 +794,7 @@
         129840,
         129842
       ],
-      "variantBaseId": 129841,
+      "variantBaseId": 125523,
       "creators": [
         {
           "id": 430,
@@ -775,7 +851,7 @@
         129840,
         129841
       ],
-      "variantBaseId": 129842,
+      "variantBaseId": 125523,
       "creators": [
         {
           "id": 430,
@@ -791,6 +867,392 @@
           "id": 12980,
           "name": "Vc Cory Petit",
           "role": "letterer"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 130358,
+      "title": "Ultimate Spider-Man: Incursion (2025) #3 (Variant)",
+      "issueNumber": 3,
+      "description": "MILES' FIRST CONFRONTATION WITH THE MAKER'S COUNCIL! Silver Samurai attacks interloper Miles Morales! Fortunately, a band of mutants calling themselves the X-Men come to his aid! What will Miles make of the dark history of this alternate universe now that he is faced with the reality of what the Maker has done?",
+      "date": "2025-08-13T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/60/688a81280b2b5",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/130358/ultimate_spider-man_incursion_2025_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125524,
+        130359,
+        130360,
+        130361
+      ],
+      "variantBaseId": 125524,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "inker (cover)"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 130359,
+      "title": "Ultimate Spider-Man: Incursion (2025) #3 (Variant)",
+      "issueNumber": 3,
+      "description": "MILES' FIRST CONFRONTATION WITH THE MAKER'S COUNCIL! Silver Samurai attacks interloper Miles Morales! Fortunately, a band of mutants calling themselves the X-Men come to his aid! What will Miles make of the dark history of this alternate universe now that he is faced with the reality of what the Maker has done?",
+      "date": "2025-08-13T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/03/688a81280c461",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/130359/ultimate_spider-man_incursion_2025_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125524,
+        130358,
+        130360,
+        130361
+      ],
+      "variantBaseId": 125524,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        },
+        {
+          "id": 14669,
+          "name": "Chris Allen",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 130360,
+      "title": "Ultimate Spider-Man: Incursion (2025) #3 (Variant)",
+      "issueNumber": 3,
+      "description": "MILES' FIRST CONFRONTATION WITH THE MAKER'S COUNCIL! Silver Samurai attacks interloper Miles Morales! Fortunately, a band of mutants calling themselves the X-Men come to his aid! What will Miles make of the dark history of this alternate universe now that he is faced with the reality of what the Maker has done?",
+      "date": "2025-08-13T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/80/688a8127cf2ab",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/130360/ultimate_spider-man_incursion_2025_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125524,
+        130358,
+        130359,
+        130361
+      ],
+      "variantBaseId": 125524,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 130361,
+      "title": "Ultimate Spider-Man: Incursion (2025) #3 (Variant)",
+      "issueNumber": 3,
+      "description": "MILES' FIRST CONFRONTATION WITH THE MAKER'S COUNCIL! Silver Samurai attacks interloper Miles Morales! Fortunately, a band of mutants calling themselves the X-Men come to his aid! What will Miles make of the dark history of this alternate universe now that he is faced with the reality of what the Maker has done?",
+      "date": "2025-08-13T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/50/688a812d1a165",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/130361/ultimate_spider-man_incursion_2025_3_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125524,
+        130358,
+        130359,
+        130360
+      ],
+      "variantBaseId": 125524,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13554,
+          "name": "Simone DI Meo",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 131127,
+      "title": "Ultimate Spider-Man: Incursion (2025) #4 (Variant)",
+      "issueNumber": 4,
+      "description": "MILES MORALES IN THE EURASIAN REPUBLIC! Miles continues his quest for Billie, even though the Maker's Council foils him at every step! What will happen when he runs into the Council's most ruthless rulers - Magik, Colossus and Omega Red? And what is the Council REALLY after with the Maker's card, anyway?! Don't miss the penultimate issue leading up to our climactic finale!",
+      "date": "2025-09-10T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/10/68ae0b2b54661",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131127/ultimate_spider-man_incursion_2025_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125525,
+        131128,
+        131129
+      ],
+      "variantBaseId": 125525,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 131128,
+      "title": "Ultimate Spider-Man: Incursion (2025) #4 (Variant)",
+      "issueNumber": 4,
+      "description": "MILES MORALES IN THE EURASIAN REPUBLIC! Miles continues his quest for Billie, even though the Maker's Council foils him at every step! What will happen when he runs into the Council's most ruthless rulers - Magik, Colossus and Omega Red? And what is the Council REALLY after with the Maker's card, anyway?! Don't miss the penultimate issue leading up to our climactic finale!",
+      "date": "2025-09-10T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/00/68ae0b2b4d364",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131128/ultimate_spider-man_incursion_2025_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125525,
+        131127,
+        131129
+      ],
+      "variantBaseId": 125525,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 7979,
+          "name": "Adam Pollina",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 131129,
+      "title": "Ultimate Spider-Man: Incursion (2025) #4 (Variant)",
+      "issueNumber": 4,
+      "description": "MILES MORALES IN THE EURASIAN REPUBLIC! Miles continues his quest for Billie, even though the Maker's Council foils him at every step! What will happen when he runs into the Council's most ruthless rulers - Magik, Colossus and Omega Red? And what is the Council REALLY after with the Maker's card, anyway?! Don't miss the penultimate issue leading up to our climactic finale!",
+      "date": "2025-09-10T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/80/68ae0b2b2cc32",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131129/ultimate_spider-man_incursion_2025_4_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125525,
+        131127,
+        131128
+      ],
+      "variantBaseId": 125525,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13061,
+          "name": "Cory Smith",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
         },
         {
           "id": 13879,
@@ -892,6 +1354,11 @@
       "role": "colorist"
     },
     {
+      "id": 13682,
+      "name": "PEACH MOMOKO",
+      "role": "inker (cover)"
+    },
+    {
       "id": 12376,
       "name": "Wilson Moss",
       "role": "editor"
@@ -905,11 +1372,6 @@
       "id": 12980,
       "name": "Vc Cory Petit",
       "role": "letterer"
-    },
-    {
-      "id": 13879,
-      "name": "Jonas Scharf",
-      "role": "inker"
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL",

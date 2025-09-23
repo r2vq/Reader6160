@@ -791,14 +791,14 @@
           "role": "penciler (cover)"
         },
         {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
           "id": 12376,
           "name": "Wilson Moss",
           "role": "editor"
-        },
-        {
-          "id": 12980,
-          "name": "Vc Cory Petit",
-          "role": "letterer"
         },
         {
           "id": 13017,
@@ -819,12 +819,16 @@
       "description": "BETRAYED BY THE VODU-KHAN?! Despite their promises and prophecies, the VODU-KHAN have positioned themselves against BLACK PANTHER and alongside his enemy! What secrets of vibranium have the Vodu-Khan kept all this time? Without vibranium and without their counsel, how will T'Challa defend against mystic mayhem?",
       "date": "2025-07-16T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/a0/67fff85aa2ac5",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/10/68761fa950f6c",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113875/ultimate_black_panther_2024_18?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        127724,
+        129833,
+        129834
+      ],
       "variantBaseId": 113875,
       "creators": [
         {
@@ -861,12 +865,15 @@
       "description": "VIBRANIUM'S MYSTERIES AND THE BLACK PANTHER! T'Challa leads a campaign against Adi and his associates, the monsters of Vibranium Incarnate! Meanwhile, his trusted confidants must protect Wakanda when the Vodu-Khan want to advance their own prophecies!",
       "date": "2025-08-20T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/d0/6824c47b936b4",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/e0/689cdb56a1745",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113876/ultimate_black_panther_2024_19?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        130354,
+        130355
+      ],
       "variantBaseId": 113876,
       "creators": [
         {
@@ -908,13 +915,157 @@
       "description": "BAST INTERVENES! T'CHALLA ASCENDS?! The prophecy advances…? And T'Challa must go on a spiritual journey to \"come to his full power\"!",
       "date": "2025-09-17T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/f0/68519f2097711",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/50/68b9f0e10c09c",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113877/ultimate_black_panther_2024_20?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        131123,
+        131124
+      ],
       "variantBaseId": 113877,
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        }
+      ]
+    },
+    {
+      "id": 113878,
+      "title": "Ultimate Black Panther (2024) #21",
+      "issueNumber": 21,
+      "description": "BLACK PANTHER RETURNS TO FACE THE PROGENITORS! The Vodu-Khan have turned on Wakanda! Killmonger and Okoye are vulnerable while Storm and Black Panther are away! Will the mystic journeys Black Panther has endured turn the tide? And will Killmonger learn what happened between Black Panther and Storm?!",
+      "date": "2025-10-08T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/60/68790c6130550",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113878/ultimate_black_panther_2024_21?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113878,
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        }
+      ]
+    },
+    {
+      "id": 113879,
+      "title": "Ultimate Black Panther (2024) #22",
+      "issueNumber": 22,
+      "description": "WAR ON THE PROGENITORS! Black Panther and a bevy of new Wakandan war machines designed by Shuri take the offensive! With the gods themselves empowering Black Panther, he and his allies can't possibly lose…right? And a betrayer makes themself known!",
+      "date": "2025-11-12T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/20/68a62bf82d89c",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113879/ultimate_black_panther_2024_22?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113879,
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        }
+      ]
+    },
+    {
+      "id": 113880,
+      "title": "Ultimate Black Panther (2024) #23",
+      "issueNumber": 23,
+      "description": "ALL IS NOT WELL IN WAKANDA! Will Erik Killmonger become the new Black Panther? What do the Vodu-Khan want with Storm?  What, exactly, does the prophecy about this Child of Light entail?",
+      "date": "2025-12-10T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/04/68c9ce8b3d3ee",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113880/ultimate_black_panther_2024_23?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113880,
       "creators": [
         {
           "id": 1133,
@@ -3275,6 +3426,57 @@
       ]
     },
     {
+      "id": 127724,
+      "title": "Ultimate Black Panther (2024) #18 (Variant)",
+      "issueNumber": 18,
+      "description": "BETRAYED BY THE VODU-KHAN?! Despite their promises and prophecies, the VODU-KHAN have positioned themselves against BLACK PANTHER and alongside his enemy! What secrets of vibranium have the Vodu-Khan kept all this time? Without vibranium and without their counsel, how will T'Challa defend against mystic mayhem?",
+      "date": "2025-07-16T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/00/68762f0666e3b",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/127724/ultimate_black_panther_2024_18_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113875,
+        129833,
+        129834
+      ],
+      "variantBaseId": 113875,
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 9364,
+          "name": "Rod Reis",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        }
+      ]
+    },
+    {
       "id": 128159,
       "title": "Ultimate Black Panther (2024) #16 (Variant)",
       "issueNumber": 16,
@@ -3430,6 +3632,333 @@
           "role": "penciler (cover)"
         }
       ]
+    },
+    {
+      "id": 129833,
+      "title": "Ultimate Black Panther (2024) #18 (Variant)",
+      "issueNumber": 18,
+      "description": "BETRAYED BY THE VODU-KHAN?! Despite their promises and prophecies, the VODU-KHAN have positioned themselves against BLACK PANTHER and alongside his enemy! What secrets of vibranium have the Vodu-Khan kept all this time? Without vibranium and without their counsel, how will T'Challa defend against mystic mayhem?",
+      "date": "2025-07-16T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/00/68762f26d3058",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129833/ultimate_black_panther_2024_18_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113875,
+        127724,
+        129834
+      ],
+      "variantBaseId": 113875,
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 11482,
+          "name": "Jesus Aburtov",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 14669,
+          "name": "Chris Allen",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 129834,
+      "title": "Ultimate Black Panther (2024) #18 (Variant)",
+      "issueNumber": 18,
+      "description": "BETRAYED BY THE VODU-KHAN?! Despite their promises and prophecies, the VODU-KHAN have positioned themselves against BLACK PANTHER and alongside his enemy! What secrets of vibranium have the Vodu-Khan kept all this time? Without vibranium and without their counsel, how will T'Challa defend against mystic mayhem?",
+      "date": "2025-07-16T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/10/68762f064f634",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129834/ultimate_black_panther_2024_18_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113875,
+        127724,
+        129833
+      ],
+      "variantBaseId": 113875,
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 4991,
+          "name": "Frank Martin",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 130354,
+      "title": "Ultimate Black Panther (2024) #19 (Variant)",
+      "issueNumber": 19,
+      "description": "VIBRANIUM'S MYSTERIES AND THE BLACK PANTHER! T'Challa leads a campaign against Adi and his associates, the monsters of Vibranium Incarnate! Meanwhile, his trusted confidants must protect Wakanda when the Vodu-Khan want to advance their own prophecies!",
+      "date": "2025-08-20T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/a0/689cde59c9a8c",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/130354/ultimate_black_panther_2024_19_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113876,
+        130355
+      ],
+      "variantBaseId": 113876,
+      "creators": [
+        {
+          "id": 1248,
+          "name": "Ken Lashley",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13201,
+          "name": "Juan Fernandez",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        }
+      ]
+    },
+    {
+      "id": 130355,
+      "title": "Ultimate Black Panther (2024) #19 (Variant)",
+      "issueNumber": 19,
+      "description": "VIBRANIUM'S MYSTERIES AND THE BLACK PANTHER! T'Challa leads a campaign against Adi and his associates, the monsters of Vibranium Incarnate! Meanwhile, his trusted confidants must protect Wakanda when the Vodu-Khan want to advance their own prophecies!",
+      "date": "2025-08-20T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/b0/689cde59cbb11",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/130355/ultimate_black_panther_2024_19_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113876,
+        130354
+      ],
+      "variantBaseId": 113876,
+      "creators": [
+        {
+          "id": 9468,
+          "name": "Stephen Segovia",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13215,
+          "name": "Rain Beredo",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        }
+      ]
+    },
+    {
+      "id": 131123,
+      "title": "Ultimate Black Panther (2024) #20 (Variant)",
+      "issueNumber": 20,
+      "description": "BAST INTERVENES! T'CHALLA ASCENDS?! The prophecy advances…? And T'Challa must go on a spiritual journey to \"come to his full power\"!",
+      "date": "2025-09-17T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/03/68b9f44272004",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131123/ultimate_black_panther_2024_20_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113877,
+        131124
+      ],
+      "variantBaseId": 113877,
+      "creators": [
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        },
+        {
+          "id": 14661,
+          "name": "Fabrizio De Tommaso",
+          "role": "painter (cover)"
+        }
+      ]
+    },
+    {
+      "id": 131124,
+      "title": "Ultimate Black Panther (2024) #20 (Variant)",
+      "issueNumber": 20,
+      "description": "BAST INTERVENES! T'CHALLA ASCENDS?! The prophecy advances…? And T'Challa must go on a spiritual journey to \"come to his full power\"!",
+      "date": "2025-09-17T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/a0/68b9f45fe8e5d",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131124/ultimate_black_panther_2024_20_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113877,
+        131123
+      ],
+      "variantBaseId": 113877,
+      "creators": [
+        {
+          "id": 1248,
+          "name": "Ken Lashley",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12303,
+          "name": "Jung-Geun Yoon",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13201,
+          "name": "Juan Fernandez",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 14489,
+          "name": "Carlos Nieto",
+          "role": "inker"
+        }
+      ]
     }
   ],
   "creators": [
@@ -3519,14 +4048,14 @@
       "role": "penciler (cover)"
     },
     {
-      "id": 14380,
-      "name": "Karen Darboe",
-      "role": "penciler (cover)"
-    },
-    {
       "id": 1141,
       "name": "Giuseppe Camuncoli",
       "role": "inker (cover)"
+    },
+    {
+      "id": 5251,
+      "name": "Vc Joe Caramagna",
+      "role": "letterer"
     },
     {
       "id": 14111,

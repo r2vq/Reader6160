@@ -50,7 +50,7 @@
         {
           "id": 14191,
           "name": "Zack Davisson",
-          "role": "writer"
+          "role": "other"
         }
       ]
     },
@@ -93,7 +93,7 @@
         {
           "id": 14191,
           "name": "Zack Davisson",
-          "role": "writer"
+          "role": "other"
         }
       ]
     },
@@ -132,6 +132,11 @@
           "id": 13682,
           "name": "PEACH MOMOKO",
           "role": "penciler (cover)"
+        },
+        {
+          "id": 14191,
+          "name": "Zack Davisson",
+          "role": "other"
         }
       ]
     },
@@ -169,6 +174,11 @@
           "id": 13682,
           "name": "PEACH MOMOKO",
           "role": "penciler (cover)"
+        },
+        {
+          "id": 14191,
+          "name": "Zack Davisson",
+          "role": "other"
         }
       ]
     },
@@ -210,7 +220,7 @@
         {
           "id": 14191,
           "name": "Zack Davisson",
-          "role": "writer"
+          "role": "other"
         }
       ]
     },
@@ -252,7 +262,7 @@
         {
           "id": 14191,
           "name": "Zack Davisson",
-          "role": "writer"
+          "role": "other"
         }
       ]
     },
@@ -295,7 +305,7 @@
         {
           "id": 14191,
           "name": "Zack Davisson",
-          "role": "writer"
+          "role": "other"
         }
       ]
     },
@@ -337,7 +347,7 @@
         {
           "id": 14191,
           "name": "Zack Davisson",
-          "role": "writer"
+          "role": "other"
         }
       ]
     },
@@ -374,6 +384,11 @@
           "id": 13682,
           "name": "PEACH MOMOKO",
           "role": "penciler (cover)"
+        },
+        {
+          "id": 14191,
+          "name": "Zack Davisson",
+          "role": "other"
         }
       ]
     },
@@ -410,6 +425,11 @@
           "id": 13682,
           "name": "PEACH MOMOKO",
           "role": "penciler (cover)"
+        },
+        {
+          "id": 14191,
+          "name": "Zack Davisson",
+          "role": "other"
         }
       ]
     },
@@ -449,7 +469,7 @@
         {
           "id": 14191,
           "name": "Zack Davisson",
-          "role": "writer"
+          "role": "other"
         }
       ]
     },
@@ -490,7 +510,7 @@
         {
           "id": 14191,
           "name": "Zack Davisson",
-          "role": "writer"
+          "role": "other"
         }
       ]
     },
@@ -530,7 +550,7 @@
         {
           "id": 14191,
           "name": "Zack Davisson",
-          "role": "writer"
+          "role": "other"
         }
       ]
     },
@@ -570,7 +590,7 @@
         {
           "id": 14191,
           "name": "Zack Davisson",
-          "role": "writer"
+          "role": "other"
         }
       ]
     },
@@ -612,7 +632,7 @@
         {
           "id": 14191,
           "name": "Zack Davisson",
-          "role": "writer"
+          "role": "other"
         }
       ]
     },
@@ -654,7 +674,7 @@
         {
           "id": 14191,
           "name": "Zack Davisson",
-          "role": "writer"
+          "role": "other"
         }
       ]
     },
@@ -665,12 +685,17 @@
       "description": "OPERATION: RESCUE ARMOR! Hisako has been missing, but Nico's undercover sleuthing finally tracks her down! But the Church of the Children of the Atom aren't going to give up Armor without a fight... What dangers await our X-Men in the Astral Plane?",
       "date": "2025-07-16T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/f0/67fff864b4b2c",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/50/68761fa9496cb",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113914/ultimate_x-men_2024_17?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        128664,
+        129845,
+        129846,
+        129904
+      ],
       "variantBaseId": 113914,
       "creators": [
         {
@@ -687,6 +712,11 @@
           "id": 13682,
           "name": "PEACH MOMOKO",
           "role": "penciler (cover)"
+        },
+        {
+          "id": 14191,
+          "name": "Zack Davisson",
+          "role": "other"
         }
       ]
     },
@@ -697,13 +727,90 @@
       "description": "INSIDE THE ASTRAL PLANE! ARMOR'S SOUL IS ON THE LINE! The Children of the Atom's sinister plot leads to the Astral Plane! The X-Men have journeyed there, but that's only the beginning! What horrors await in the climactic finale of volume 3 of ULTIMATE X-MEN?",
       "date": "2025-08-06T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/03/6824c483536c7",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/a0/688a5e7a116ec",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113915/ultimate_x-men_2024_18?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        128665,
+        130364,
+        130365
+      ],
       "variantBaseId": 113915,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14191,
+          "name": "Zack Davisson",
+          "role": "other"
+        }
+      ]
+    },
+    {
+      "id": 113916,
+      "title": "Ultimate X-Men (2024) #19",
+      "issueNumber": 19,
+      "description": "SHADOWS OF THE KING AND THE ASTRAL PLANE! Has Hisako been saved?! A climactic battle between Armor and Shadow King in the Astral Plane! But what secrets does Kageyama still hold? And what of the Children of the Atom's dependence on his power?",
+      "date": "2025-09-03T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/20/68ae03d30af6f",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113916/ultimate_x-men_2024_19?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        128666,
+        131132,
+        131133
+      ],
+      "variantBaseId": 113916,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "colorist (cover)"
+        }
+      ]
+    },
+    {
+      "id": 113917,
+      "title": "Ultimate X-Men (2024) #20",
+      "issueNumber": 20,
+      "description": "REGROUP…AND THE FUTURE OF THE X-MEN…? The X-Men lick their wounds after the climactic battle against the Children of the Atom! But what is Armor's fate? And what happened to her when she chased Shadow King into the astral plane?",
+      "date": "2025-10-01T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/03/68790c61312d7",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113917/ultimate_x-men_2024_20?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113917,
       "creators": [
         {
           "id": 12376,
@@ -723,19 +830,21 @@
       ]
     },
     {
-      "id": 113916,
-      "title": "Ultimate X-Men (2024) #19",
-      "issueNumber": 19,
-      "description": "SHADOWS OF THE KING AND THE ASTRAL PLANE! Has Hisako been saved?! A climactic battle between Armor and Shadow King in the Astral Plane! But what secrets does Kageyama still hold? And what of the Children of the Atom's dependence on his power?",
-      "date": "2025-09-03T00:00:00+0000",
+      "id": 113918,
+      "title": "Ultimate X-Men (2024) #21",
+      "issueNumber": 21,
+      "description": "ANTI-MUTANT LEGISLATION RISES… The X-Men thought the Children of the Atom were their biggest problem. Little did they know, things are about to get much harder for mutants in Hi No Kuni…",
+      "date": "2025-11-05T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/40/68519a2ad17ea",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/30/68a62cda4652b",
         "extension": "jpg"
       },
-      "detailUrl": "https://marvel.com/comics/issue/113916/ultimate_x-men_2024_19?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "detailUrl": "https://marvel.com/comics/issue/113918/ultimate_x-men_2024_21?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113916,
+      "variants": [
+        132491
+      ],
+      "variantBaseId": 113918,
       "creators": [
         {
           "id": 12376,
@@ -750,12 +859,39 @@
         {
           "id": 13682,
           "name": "PEACH MOMOKO",
-          "role": "colorist (cover)"
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 113919,
+      "title": "Ultimate X-Men (2024) #22",
+      "issueNumber": 22,
+      "description": "THE FINAL SHOWDOWN BETWEEN ARMOR AND SHADOW KING! Kageyama has proclaimed death to Hisako! But the X-Men aren't going to go down without a fight!",
+      "date": "2025-12-03T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/30/68c9cfbedc9d4",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113919/ultimate_x-men_2024_22?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113919,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
         },
         {
-          "id": 14191,
-          "name": "Zack Davisson",
-          "role": "other"
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
         }
       ]
     },
@@ -3239,6 +3375,115 @@
       ]
     },
     {
+      "id": 128664,
+      "title": "Ultimate X-Men (2024) #17 (Variant)",
+      "issueNumber": 17,
+      "description": "OPERATION: RESCUE ARMOR! Hisako has been missing, but Nico's undercover sleuthing finally tracks her down! But the Church of the Children of the Atom aren't going to give up Armor without a fight... What dangers await our X-Men in the Astral Plane?",
+      "date": "2025-07-16T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/a0/68762f2803801",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128664/ultimate_x-men_2024_17_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113914,
+        129845,
+        129846,
+        129904
+      ],
+      "variantBaseId": 113914,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 128665,
+      "title": "Ultimate X-Men (2024) #18 (Variant)",
+      "issueNumber": 18,
+      "description": "INSIDE THE ASTRAL PLANE! ARMOR'S SOUL IS ON THE LINE! The Children of the Atom's sinister plot leads to the Astral Plane! The X-Men have journeyed there, but that's only the beginning! What horrors await in the climactic finale of volume 3 of ULTIMATE X-MEN?",
+      "date": "2025-08-06T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/40/688a616d1aca5",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128665/ultimate_x-men_2024_18_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113915,
+        130364,
+        130365
+      ],
+      "variantBaseId": 113915,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 128666,
+      "title": "Ultimate X-Men (2024) #19 (Variant)",
+      "issueNumber": 19,
+      "description": "SHADOWS OF THE KING AND THE ASTRAL PLANE! Has Hisako been saved?! A climactic battle between Armor and Shadow King in the Astral Plane! But what secrets does Kageyama still hold? And what of the Children of the Atom's dependence on his power?",
+      "date": "2025-09-03T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/90/68ae057c7e513",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/128666/ultimate_x-men_2024_19_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113916,
+        131132,
+        131133
+      ],
+      "variantBaseId": 113916,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        }
+      ]
+    },
+    {
       "id": 128869,
       "title": "Ultimate X-Men (2024) #16 (Variant)",
       "issueNumber": 16,
@@ -3366,6 +3611,320 @@
           "id": 14530,
           "name": "Corin Howell",
           "role": "inker (cover)"
+        }
+      ]
+    },
+    {
+      "id": 129845,
+      "title": "Ultimate X-Men (2024) #17 (Variant)",
+      "issueNumber": 17,
+      "description": "OPERATION: RESCUE ARMOR! Hisako has been missing, but Nico's undercover sleuthing finally tracks her down! But the Church of the Children of the Atom aren't going to give up Armor without a fight... What dangers await our X-Men in the Astral Plane?",
+      "date": "2025-07-16T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/03/68762f28183c2",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129845/ultimate_x-men_2024_17_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113914,
+        128664,
+        129846,
+        129904
+      ],
+      "variantBaseId": 113914,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 129846,
+      "title": "Ultimate X-Men (2024) #17 (Variant)",
+      "issueNumber": 17,
+      "description": "OPERATION: RESCUE ARMOR! Hisako has been missing, but Nico's undercover sleuthing finally tracks her down! But the Church of the Children of the Atom aren't going to give up Armor without a fight... What dangers await our X-Men in the Astral Plane?",
+      "date": "2025-07-16T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/10/68762f280e950",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129846/ultimate_x-men_2024_17_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113914,
+        128664,
+        129845,
+        129904
+      ],
+      "variantBaseId": 113914,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 129904,
+      "title": "Ultimate X-Men (2024) #17 (Variant)",
+      "issueNumber": 17,
+      "description": "OPERATION: RESCUE ARMOR! Hisako has been missing, but Nico's undercover sleuthing finally tracks her down! But the Church of the Children of the Atom aren't going to give up Armor without a fight... What dangers await our X-Men in the Astral Plane?",
+      "date": "2025-07-16T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/a/00/68762ec3f3db8",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129904/ultimate_x-men_2024_17_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113914,
+        128664,
+        129845,
+        129846
+      ],
+      "variantBaseId": 113914,
+      "creators": [
+        {
+          "id": 4989,
+          "name": "Nic Klein",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 130364,
+      "title": "Ultimate X-Men (2024) #18 (Variant)",
+      "issueNumber": 18,
+      "description": "INSIDE THE ASTRAL PLANE! ARMOR'S SOUL IS ON THE LINE! The Children of the Atom's sinister plot leads to the Astral Plane! The X-Men have journeyed there, but that's only the beginning! What horrors await in the climactic finale of volume 3 of ULTIMATE X-MEN?",
+      "date": "2025-08-06T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/90/688a616d152e3",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/130364/ultimate_x-men_2024_18_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113915,
+        128665,
+        130365
+      ],
+      "variantBaseId": 113915,
+      "creators": [
+        {
+          "id": 9364,
+          "name": "Rod Reis",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 130365,
+      "title": "Ultimate X-Men (2024) #18 (Variant)",
+      "issueNumber": 18,
+      "description": "INSIDE THE ASTRAL PLANE! ARMOR'S SOUL IS ON THE LINE! The Children of the Atom's sinister plot leads to the Astral Plane! The X-Men have journeyed there, but that's only the beginning! What horrors await in the climactic finale of volume 3 of ULTIMATE X-MEN?",
+      "date": "2025-08-06T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/40/688a616cd6567",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/130365/ultimate_x-men_2024_18_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113915,
+        128665,
+        130364
+      ],
+      "variantBaseId": 113915,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        },
+        {
+          "id": 14375,
+          "name": "Nicoletta Baldari",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 131132,
+      "title": "Ultimate X-Men (2024) #19 (Variant)",
+      "issueNumber": 19,
+      "description": "SHADOWS OF THE KING AND THE ASTRAL PLANE! Has Hisako been saved?! A climactic battle between Armor and Shadow King in the Astral Plane! But what secrets does Kageyama still hold? And what of the Children of the Atom's dependence on his power?",
+      "date": "2025-09-03T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/a0/68ae057ca5385",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131132/ultimate_x-men_2024_19_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113916,
+        128666,
+        131133
+      ],
+      "variantBaseId": 113916,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        },
+        {
+          "id": 14839,
+          "name": "Nogi San",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 131133,
+      "title": "Ultimate X-Men (2024) #19 (Variant)",
+      "issueNumber": 19,
+      "description": "SHADOWS OF THE KING AND THE ASTRAL PLANE! Has Hisako been saved?! A climactic battle between Armor and Shadow King in the Astral Plane! But what secrets does Kageyama still hold? And what of the Children of the Atom's dependence on his power?",
+      "date": "2025-09-03T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/40/68ae057c83e79",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131133/ultimate_x-men_2024_19_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113916,
+        128666,
+        131132
+      ],
+      "variantBaseId": 113916,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 132491,
+      "title": "Ultimate X-Men (2024) #21 (Variant)",
+      "issueNumber": 21,
+      "description": "ANTI-MUTANT LEGISLATION RISES… The X-Men thought the Children of the Atom were their biggest problem. Little did they know, things are about to get much harder for mutants in Hi No Kuni…",
+      "date": "2025-11-05T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/132491/ultimate_x-men_2024_21_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113918
+      ],
+      "variantBaseId": 113918,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "inker"
+        },
+        {
+          "id": 14479,
+          "name": "Liu Xiaotong",
+          "role": "penciler (cover)"
         }
       ]
     }

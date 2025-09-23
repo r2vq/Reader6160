@@ -862,6 +862,7 @@
       "isVariant": false,
       "variants": [
         126439,
+        128628,
         128859,
         128860
       ],
@@ -901,12 +902,19 @@
       "description": "THREE-WAY DANCE, ALL-OUT WAR! FISK vs. MR. NEGATIVE vs. MYSTERIO with SPIDER-MAN and his allies caught in the middle! Will the SINISTER SIX destroy New York before they destroy each other?!",
       "date": "2025-07-30T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/90/67fff864d5149",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/b0/6876841fb304c",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113896/ultimate_spider-man_2024_19?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        129835,
+        129836,
+        129837,
+        129838,
+        131873,
+        132298
+      ],
       "variantBaseId": 113896,
       "creators": [
         {
@@ -943,12 +951,16 @@
       "description": "MY DINNER WITH HARRY! Harry Osborn lives! Peter and Mary Jane have another fateful dinner with Harry and Gwen…",
       "date": "2025-08-27T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/80/6824c480df45a",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/50/68af15aa26d83",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113897/ultimate_spider-man_2024_20?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        130356,
+        130357,
+        131874
+      ],
       "variantBaseId": 113897,
       "creators": [
         {
@@ -990,12 +1002,16 @@
       "description": "THE FINAL MEETING OF THE SINISTER SIX? Blood boils over as these warring villains gather to destroy each other once and for all…or will they reunite against their common enemy, Spider-Man?",
       "date": "2025-09-24T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/c0/68519a151f9a6",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/20/68c1c63018dd2",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113898/ultimate_spider-man_2024_21?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        131125,
+        131126,
+        133596
+      ],
       "variantBaseId": 113898,
       "creators": [
         {
@@ -1017,6 +1033,132 @@
           "id": 12120,
           "name": "David Messina",
           "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
+      "id": 113899,
+      "title": "Ultimate Spider-Man (2024) #22",
+      "issueNumber": 22,
+      "description": "THE LAST WILL AND TESTAMENT OF [REDACTED]!",
+      "date": "2025-10-22T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/70/68790c611ae5b",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113899/ultimate_spider-man_2024_22?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113899,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
+      "id": 113900,
+      "title": "Ultimate Spider-Man (2024) #23",
+      "issueNumber": 23,
+      "description": "You think we're going to tell you what happens in the penultimate issue of ULTIMATE SPIDER-MAN? That would be spoilers galore! Just know it's building to a finale you won't want to miss!",
+      "date": "2025-11-26T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/8/e0/68a62ccc3031f",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113900/ultimate_spider-man_2024_23?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113900,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
+      "id": 113901,
+      "title": "Ultimate Spider-Man (2024) #24",
+      "issueNumber": 24,
+      "description": "THE END OF THE LINE! This is it, folks - the last you'll see of Spidey and his Ultimate friends by Jonathan Hickman & Marco Checchetto!  That's all we can tell you!",
+      "date": "2025-12-24T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/e0/68c9cfbeae1f6",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113901/ultimate_spider-man_2024_24?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113901,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "penciler (cover)"
         },
         {
           "id": 12376,
@@ -1844,7 +1986,7 @@
       "title": "Ultimate Spider-Man (2024) #1",
       "issueNumber": 1,
       "description": "",
-      "date": "2025-04-01T00:00:00+0000",
+      "date": "2025-06-01T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/b0/6793f00f2b00a",
         "extension": "jpg"
@@ -1876,7 +2018,7 @@
       "title": "Ultimate Spider-Man (2024) #2",
       "issueNumber": 2,
       "description": "",
-      "date": "2025-04-02T00:00:00+0000",
+      "date": "2025-06-02T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/a0/6793f00f3086c",
         "extension": "jpg"
@@ -1905,7 +2047,7 @@
       "title": "Ultimate Spider-Man (2024) #3",
       "issueNumber": 3,
       "description": "PETER PARKER'S NEW LIFE GETS EVEN MORE COMPLICATED. Spider-Man sizes up the new hero Green Goblin! As they team up to fight a new super villain, secrets about the corporations running North America are revealed...and you'll never guess who discovers Spider-Man's secret identity!",
-      "date": "2025-04-03T00:00:00+0000",
+      "date": "2025-06-03T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/70/6793f00f292c1",
         "extension": "jpg"
@@ -1934,7 +2076,7 @@
       "title": "Ultimate Spider-Man (2024) #4",
       "issueNumber": 4,
       "description": "WHO IS THE GREEN GOBLIN? Peter Parker's secret life starts fraying the edges of his personal life! J. Jonah Jameson and Ben Parker's pursuit of truth - or, at least, the news - stirs unrest with the world at large… And now that Spider-Man may not have to operate alone, the real work of rebuilding this corrupt world can begin!",
-      "date": "2025-04-04T00:00:00+0000",
+      "date": "2025-06-04T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/70/6793f392088fc",
         "extension": "jpg"
@@ -3224,7 +3366,7 @@
       "title": "Ultimate Spider-Man (2024) #5",
       "issueNumber": 5,
       "description": "THE SECRET HISTORY OF HARRY OSBORN! How does the heir apparent of Oscorp become a masked vigilante? And what does Green Goblin know of the true status of the world he lives in? All and more will be revealed!",
-      "date": "2025-04-05T00:00:00+0000",
+      "date": "2025-06-05T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/03/6793f00f36921",
         "extension": "jpg"
@@ -3251,7 +3393,7 @@
       "title": "Ultimate Spider-Man (2024) #6",
       "issueNumber": 6,
       "description": "",
-      "date": "2025-04-06T00:00:00+0000",
+      "date": "2025-06-06T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/03/6793f0232816c",
         "extension": "jpg"
@@ -3278,7 +3420,7 @@
       "title": "Ultimate Spider-Man (2024) #7",
       "issueNumber": 7,
       "description": "",
-      "date": "2025-04-07T00:00:00+0000",
+      "date": "2025-06-07T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/40/6793f02405c1e",
         "extension": "jpg"
@@ -3304,7 +3446,7 @@
       "title": "Ultimate Spider-Man (2024) #8",
       "issueNumber": 8,
       "description": "KINGPIN'S SINISTER SIX! Kingpin gathers a team to deal with his masked-vigilante problem… But a group of super villains isn't the only challenge Spider-Man will face! Meanwhile, Green Goblin joins forces with…Doc Ock?",
-      "date": "2025-04-08T00:00:00+0000",
+      "date": "2025-06-08T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/00/6793f02402bb4",
         "extension": "jpg"
@@ -3330,7 +3472,7 @@
       "title": "Ultimate Spider-Man (2024) #9",
       "issueNumber": 9,
       "description": "THE SINISTER SIX MAKE THEIR FIRST STRIKE! But WHO are the Sinister Six? The first member throws down with Spider-Man and Green Goblin in this action-packed issue! Plus, with Tony Stark's return, Peter must also explore the limitations of his new suit…",
-      "date": "2025-04-09T00:00:00+0000",
+      "date": "2025-06-09T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/50/6793f02406315",
         "extension": "jpg"
@@ -3358,7 +3500,7 @@
       "title": "Ultimate Spider-Man (2024) #10",
       "issueNumber": 10,
       "description": "J. JONAH JAMESON, BEN PARKER AND THE GREEN GOBLIN COLLIDE! Fan-favorite duo Ben Parker and J. Jonah Jameson take center stage in this investigative mystery issue! But in this world of shadows and secrets, every unturned rock leads to danger… And they'll soon have to decide which is the greater challenge - uncovering secrets or keeping them!",
-      "date": "2025-04-10T00:00:00+0000",
+      "date": "2025-06-10T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/03/6793f0241256a",
         "extension": "jpg"
@@ -3384,7 +3526,7 @@
       "title": "Ultimate Spider-Man (2024) #11",
       "issueNumber": 11,
       "description": "WHO IS THE ULTIMATE BLACK CAT? Tensions rise between Spider-Man and Green Goblin in the wake of recent events! And a new villain steps up to the plate! What is her connection to the Black Cat on Kingpin's Sinister Six?",
-      "date": "2025-04-11T00:00:00+0000",
+      "date": "2025-06-11T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/03/6793f0240934f",
         "extension": "jpg"
@@ -3411,7 +3553,7 @@
       "title": "Ultimate Spider-Man (2024) #12",
       "issueNumber": 12,
       "description": "A VERY MERRY SPIDER-CHRISTMAS? Season's greetings from the Parker family! But why is Peter acting so strangely during the most wonderful time of the year? And what's got Gwen so concerned? Don't miss the thrilling conclusion of the second arc - and the first year - of ULTIMATE SPIDER-MAN!",
-      "date": "2025-04-12T00:00:00+0000",
+      "date": "2025-06-12T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/00/6793f0266247e",
         "extension": "jpg"
@@ -4210,6 +4352,7 @@
       "isVariant": true,
       "variants": [
         113895,
+        128628,
         128859,
         128860
       ],
@@ -4500,7 +4643,7 @@
       "title": "Ultimate Spider-Man (2024) #13",
       "issueNumber": 13,
       "description": "KRAVEN'S MOST DANGEROUS GAME! The Sinister Six are all hunting Spider-Man and the Green Goblin for their ringleader, Kingpin - and this time, Kraven has the upper hand in Jonathan Hickman & Marco Checchetto's love letter to \"Kraven's Last Hunt\"!",
-      "date": "2025-04-13T00:00:00+0000",
+      "date": "2025-06-13T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/10/6792a550797e1",
         "extension": "jpg"
@@ -4526,7 +4669,7 @@
       "title": "Ultimate Spider-Man (2024) #14",
       "issueNumber": 14,
       "description": "",
-      "date": "2025-02-26T00:00:00+0000",
+      "date": "2025-06-14T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/00/67bf29f7525c3",
         "extension": "jpg"
@@ -4645,7 +4788,7 @@
         128859,
         128860
       ],
-      "variantBaseId": 128628,
+      "variantBaseId": 113895,
       "creators": [
         {
           "id": 4430,
@@ -4669,6 +4812,7 @@
       "variants": [
         113895,
         126439,
+        128628,
         128860
       ],
       "variantBaseId": 113895,
@@ -4720,6 +4864,7 @@
       "variants": [
         113895,
         126439,
+        128628,
         128859
       ],
       "variantBaseId": 113895,
@@ -4748,6 +4893,576 @@
           "id": 12980,
           "name": "Vc Cory Petit",
           "role": "letterer"
+        }
+      ]
+    },
+    {
+      "id": 129835,
+      "title": "Ultimate Spider-Man (2024) #19 (Variant)",
+      "issueNumber": 19,
+      "description": "THREE-WAY DANCE, ALL-OUT WAR! FISK vs. MR. NEGATIVE vs. MYSTERIO with SPIDER-MAN and his allies caught in the middle! Will the SINISTER SIX destroy New York before they destroy each other?!",
+      "date": "2025-07-30T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129835/ultimate_spider-man_2024_19_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113896,
+        129836,
+        129837,
+        129838,
+        131873,
+        132298
+      ],
+      "variantBaseId": 113896,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 129836,
+      "title": "Ultimate Spider-Man (2024) #19 (Variant)",
+      "issueNumber": 19,
+      "description": "THREE-WAY DANCE, ALL-OUT WAR! FISK vs. MR. NEGATIVE vs. MYSTERIO with SPIDER-MAN and his allies caught in the middle! Will the SINISTER SIX destroy New York before they destroy each other?!",
+      "date": "2025-07-30T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129836/ultimate_spider-man_2024_19_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113896,
+        129835,
+        129837,
+        129838,
+        131873,
+        132298
+      ],
+      "variantBaseId": 113896,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14136,
+          "name": "Benjamin Su",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 129837,
+      "title": "Ultimate Spider-Man (2024) #19 (Variant)",
+      "issueNumber": 19,
+      "description": "THREE-WAY DANCE, ALL-OUT WAR! FISK vs. MR. NEGATIVE vs. MYSTERIO with SPIDER-MAN and his allies caught in the middle! Will the SINISTER SIX destroy New York before they destroy each other?!",
+      "date": "2025-07-30T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129837/ultimate_spider-man_2024_19_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113896,
+        129835,
+        129836,
+        129838,
+        131873,
+        132298
+      ],
+      "variantBaseId": 113896,
+      "creators": [
+        {
+          "id": 1369,
+          "name": "Gerald Parel",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 129838,
+      "title": "Ultimate Spider-Man (2024) #19 (Variant)",
+      "issueNumber": 19,
+      "description": "THREE-WAY DANCE, ALL-OUT WAR! FISK vs. MR. NEGATIVE vs. MYSTERIO with SPIDER-MAN and his allies caught in the middle! Will the SINISTER SIX destroy New York before they destroy each other?!",
+      "date": "2025-07-30T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129838/ultimate_spider-man_2024_19_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113896,
+        129835,
+        129836,
+        129837,
+        131873,
+        132298
+      ],
+      "variantBaseId": 113896,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 11930,
+          "name": "Tradd Moore",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13691,
+          "name": "Heather Moore",
+          "role": "colorist (cover)"
+        }
+      ]
+    },
+    {
+      "id": 130356,
+      "title": "Ultimate Spider-Man (2024) #20 (Variant)",
+      "issueNumber": 20,
+      "description": "MY DINNER WITH HARRY! Harry Osborn lives! Peter and Mary Jane have another fateful dinner with Harry and Gwen…",
+      "date": "2025-08-27T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/10/689ce897257c8",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/130356/ultimate_spider-man_2024_20_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113897,
+        130357,
+        131874
+      ],
+      "variantBaseId": 113897,
+      "creators": [
+        {
+          "id": 1914,
+          "name": "Dan Panosian",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 130357,
+      "title": "Ultimate Spider-Man (2024) #20 (Variant)",
+      "issueNumber": 20,
+      "description": "MY DINNER WITH HARRY! Harry Osborn lives! Peter and Mary Jane have another fateful dinner with Harry and Gwen…",
+      "date": "2025-08-27T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/80/689ce898e630a",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/130357/ultimate_spider-man_2024_20_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113897,
+        130356,
+        131874
+      ],
+      "variantBaseId": 113897,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12136,
+          "name": "Annie Wu",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
+      "id": 131125,
+      "title": "Ultimate Spider-Man (2024) #21 (Variant)",
+      "issueNumber": 21,
+      "description": "THE FINAL MEETING OF THE SINISTER SIX? Blood boils over as these warring villains gather to destroy each other once and for all…or will they reunite against their common enemy, Spider-Man?",
+      "date": "2025-09-24T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/40/68c1cac0e2784",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131125/ultimate_spider-man_2024_21_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113898,
+        131126,
+        133596
+      ],
+      "variantBaseId": 113898,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13540,
+          "name": "Francesco Manna",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 131126,
+      "title": "Ultimate Spider-Man (2024) #21 (Variant)",
+      "issueNumber": 21,
+      "description": "THE FINAL MEETING OF THE SINISTER SIX? Blood boils over as these warring villains gather to destroy each other once and for all…or will they reunite against their common enemy, Spider-Man?",
+      "date": "2025-09-24T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/e/f0/68c1caee05ca5",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131126/ultimate_spider-man_2024_21_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113898,
+        131125,
+        133596
+      ],
+      "variantBaseId": 113898,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
+        },
+        {
+          "id": 12373,
+          "name": "Alexander Lozano",
+          "role": "painter (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 131873,
+      "title": "Ultimate Spider-Man (2024) #19",
+      "issueNumber": 19,
+      "description": "",
+      "date": "2025-07-30T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/50/6883a8ac03fc2",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131873/ultimate_spider-man_2024_19?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113896,
+        129835,
+        129836,
+        129837,
+        129838,
+        132298
+      ],
+      "variantBaseId": 113896,
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 131874,
+      "title": "Ultimate Spider-Man (2024) #20",
+      "issueNumber": 20,
+      "description": "",
+      "date": "2025-08-27T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/80/68af6598d067e",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131874/ultimate_spider-man_2024_20?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113897,
+        130356,
+        130357
+      ],
+      "variantBaseId": 113897,
+      "creators": [
+        {
+          "id": 4430,
+          "name": "Jeff Youngquist",
+          "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 132298,
+      "title": "Ultimate Spider-Man (2024) #19 (Variant)",
+      "issueNumber": 19,
+      "description": "THREE-WAY DANCE, ALL-OUT WAR! FISK vs. MR. NEGATIVE vs. MYSTERIO with SPIDER-MAN and his allies caught in the middle! Will the SINISTER SIX destroy New York before they destroy each other?!",
+      "date": "2025-07-30T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/132298/ultimate_spider-man_2024_19_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113896,
+        129835,
+        129836,
+        129837,
+        129838,
+        131873
+      ],
+      "variantBaseId": 113896,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        }
+      ]
+    },
+    {
+      "id": 133596,
+      "title": "Ultimate Spider-Man (2024) #21 (Variant)",
+      "issueNumber": 21,
+      "description": "THE FINAL MEETING OF THE SINISTER SIX? Blood boils over as these warring villains gather to destroy each other once and for all…or will they reunite against their common enemy, Spider-Man?",
+      "date": "2025-09-24T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/e/b0/68c1cac0df5b0",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/133596/ultimate_spider-man_2024_21_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113898,
+        131125,
+        131126
+      ],
+      "variantBaseId": 113898,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
         }
       ]
     }
@@ -4779,6 +5494,11 @@
       "role": "penciler (cover)"
     },
     {
+      "id": 11875,
+      "name": "Nick Bradshaw",
+      "role": "penciler (cover)"
+    },
+    {
       "id": 13748,
       "name": "Josemaria Casanovas",
       "role": "penciler (cover)"
@@ -4799,9 +5519,9 @@
       "role": "penciler (cover)"
     },
     {
-      "id": 14144,
-      "name": "D Doaly",
-      "role": "penciler (cover)"
+      "id": 13162,
+      "name": "Erick Arciniega",
+      "role": "colorist"
     },
     {
       "id": 14280,
@@ -4846,11 +5566,6 @@
     {
       "id": 430,
       "name": "Edgar Delgado",
-      "role": "colorist (cover)"
-    },
-    {
-      "id": 592,
-      "name": "Rachel Dodson",
       "role": "colorist (cover)"
     }
   ],
