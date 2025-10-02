@@ -1,0 +1,488 @@
+{
+  "id": 44291,
+  "title": "ULTIMATE HAWKEYE (2025 - Present)",
+  "thumbnail": {
+    "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/50/68c1c62fe0c72",
+    "extension": "jpg"
+  },
+  "color": "#158A7E",
+  "issues": [
+    {
+      "id": 129223,
+      "title": "ULTIMATE HAWKEYE (2025) #1",
+      "issueNumber": 1,
+      "description": "ULTIMATE HAWKEYE STARS IN THEIR OWN SOLO ADVENTURE! Spinning out of THE ULTIMATES, breakout hit character HAWKEYE goes on a covert solo op that will have a massive impact on the future of the Ultimate Universe!",
+      "date": "2025-09-24T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/50/68c1c62fe0c72",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129223/ultimate_hawkeye_2025_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        131135,
+        131136,
+        131137,
+        131138,
+        131139,
+        133069
+      ],
+      "variantBaseId": 129223,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12489,
+          "name": "R.B. Silva",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12624,
+          "name": "Juan Frigeri",
+          "role": "inker"
+        },
+        {
+          "id": 12974,
+          "name": "Vc Joe Sabino",
+          "role": "letterer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13180,
+          "name": "Federico Blee",
+          "role": "colorist"
+        },
+        {
+          "id": 14058,
+          "name": "B. Earl",
+          "role": "writer"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        },
+        {
+          "id": 14412,
+          "name": "Michael Sta. Maria",
+          "role": "inker"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 131135,
+      "title": "ULTIMATE HAWKEYE (2025) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "ULTIMATE HAWKEYE STARS IN THEIR OWN SOLO ADVENTURE! Spinning out of THE ULTIMATES, breakout hit character HAWKEYE goes on a covert solo op that will have a massive impact on the future of the Ultimate Universe! Featuring Deniz Camp, Taboo, B.Earl, Juan Frigeri, and Michael Sta. Maria!",
+      "date": "2025-09-24T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/90/68c1caee17c7f",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131135/ultimate_hawkeye_2025_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        129223,
+        131136,
+        131137,
+        131138,
+        131139,
+        133069
+      ],
+      "variantBaseId": 129223,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12974,
+          "name": "Vc Joe Sabino",
+          "role": "letterer"
+        },
+        {
+          "id": 14058,
+          "name": "B. Earl",
+          "role": "writer"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        },
+        {
+          "id": 14412,
+          "name": "Michael Sta. Maria",
+          "role": "inker"
+        },
+        {
+          "id": 14548,
+          "name": "Lesley “Leirix” LI",
+          "role": "painter (cover)"
+        }
+      ]
+    },
+    {
+      "id": 131136,
+      "title": "ULTIMATE HAWKEYE (2025) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "ULTIMATE HAWKEYE STARS IN THEIR OWN SOLO ADVENTURE! Spinning out of THE ULTIMATES, breakout hit character HAWKEYE goes on a covert solo op that will have a massive impact on the future of the Ultimate Universe! Featuring Deniz Camp, Taboo, B.Earl, Juan Frigeri, and Michael Sta. Maria!",
+      "date": "2025-09-24T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/e/f0/68c1caeea235c",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131136/ultimate_hawkeye_2025_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        129223,
+        131135,
+        131137,
+        131138,
+        131139,
+        133069
+      ],
+      "variantBaseId": 129223,
+      "creators": [
+        {
+          "id": 11354,
+          "name": "Declan Shalvey",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12974,
+          "name": "Vc Joe Sabino",
+          "role": "letterer"
+        },
+        {
+          "id": 14058,
+          "name": "B. Earl",
+          "role": "writer"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        },
+        {
+          "id": 14412,
+          "name": "Michael Sta. Maria",
+          "role": "inker"
+        }
+      ]
+    },
+    {
+      "id": 131137,
+      "title": "ULTIMATE HAWKEYE (2025) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "ULTIMATE HAWKEYE STARS IN THEIR OWN SOLO ADVENTURE! Spinning out of THE ULTIMATES, breakout hit character HAWKEYE goes on a covert solo op that will have a massive impact on the future of the Ultimate Universe!",
+      "date": "2025-09-24T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/40/68c1cad19ca8c",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131137/ultimate_hawkeye_2025_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        129223,
+        131135,
+        131136,
+        131138,
+        131139,
+        133069
+      ],
+      "variantBaseId": 129223,
+      "creators": [
+        {
+          "id": 23,
+          "name": "David Mack",
+          "role": "painter (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12974,
+          "name": "Vc Joe Sabino",
+          "role": "letterer"
+        },
+        {
+          "id": 14058,
+          "name": "B. Earl",
+          "role": "writer"
+        },
+        {
+          "id": 14412,
+          "name": "Michael Sta. Maria",
+          "role": "inker"
+        }
+      ]
+    },
+    {
+      "id": 131138,
+      "title": "ULTIMATE HAWKEYE (2025) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "ULTIMATE HAWKEYE STARS IN THEIR OWN SOLO ADVENTURE! Spinning out of THE ULTIMATES, breakout hit character HAWKEYE goes on a covert solo op that will have a massive impact on the future of the Ultimate Universe! Featuring Deniz Camp, Taboo, B.Earl, Juan Frigeri, and Michael Sta. Maria!",
+      "date": "2025-09-24T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/e/f0/68c1caee43bc2",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131138/ultimate_hawkeye_2025_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        129223,
+        131135,
+        131136,
+        131137,
+        131139,
+        133069
+      ],
+      "variantBaseId": 129223,
+      "creators": [
+        {
+          "id": 442,
+          "name": "Dean White",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 8933,
+          "name": "Lee Garbett",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12974,
+          "name": "Vc Joe Sabino",
+          "role": "letterer"
+        },
+        {
+          "id": 14058,
+          "name": "B. Earl",
+          "role": "writer"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        },
+        {
+          "id": 14412,
+          "name": "Michael Sta. Maria",
+          "role": "inker"
+        }
+      ]
+    },
+    {
+      "id": 131139,
+      "title": "ULTIMATE HAWKEYE (2025) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "ULTIMATE HAWKEYE STARS IN THEIR OWN SOLO ADVENTURE! Spinning out of THE ULTIMATES, breakout hit character HAWKEYE goes on a covert solo op that will have a massive impact on the future of the Ultimate Universe! Featuring Deniz Camp, Taboo, B.Earl, Juan Frigeri, and Michael Sta. Maria!",
+      "date": "2025-09-24T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/50/68c1cad1ed079",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131139/ultimate_hawkeye_2025_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        129223,
+        131135,
+        131136,
+        131137,
+        131138,
+        133069
+      ],
+      "variantBaseId": 129223,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12974,
+          "name": "Vc Joe Sabino",
+          "role": "letterer"
+        },
+        {
+          "id": 14058,
+          "name": "B. Earl",
+          "role": "writer"
+        },
+        {
+          "id": 14265,
+          "name": "Alex Sinclair",
+          "role": "colorist"
+        },
+        {
+          "id": 14412,
+          "name": "Michael Sta. Maria",
+          "role": "inker"
+        }
+      ]
+    },
+    {
+      "id": 133069,
+      "title": "ULTIMATE HAWKEYE (2025) #1 (Variant)",
+      "issueNumber": 1,
+      "description": "ULTIMATE HAWKEYE STARS IN THEIR OWN SOLO ADVENTURE! Spinning out of THE ULTIMATES, breakout hit character HAWKEYE goes on a covert solo op that will have a massive impact on the future of the Ultimate Universe!",
+      "date": "2025-09-24T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/60/68c1caee3492c",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/133069/ultimate_hawkeye_2025_1_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        129223,
+        131135,
+        131136,
+        131137,
+        131138,
+        131139
+      ],
+      "variantBaseId": 129223,
+      "creators": [
+        {
+          "id": 12974,
+          "name": "Vc Joe Sabino",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14058,
+          "name": "B. Earl",
+          "role": "writer"
+        },
+        {
+          "id": 14412,
+          "name": "Michael Sta. Maria",
+          "role": "inker"
+        },
+        {
+          "id": 14552,
+          "name": "E Ejikure",
+          "role": "painter (cover)"
+        }
+      ]
+    }
+  ],
+  "creators": [
+    {
+      "id": 13180,
+      "name": "Federico Blee",
+      "role": "colorist"
+    },
+    {
+      "id": 14265,
+      "name": "Alex Sinclair",
+      "role": "colorist"
+    },
+    {
+      "id": 14547,
+      "name": "Deniz Camp",
+      "role": "writer"
+    },
+    {
+      "id": 14058,
+      "name": "B. Earl",
+      "role": "writer"
+    },
+    {
+      "id": 13021,
+      "name": "David Curiel",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 442,
+      "name": "Dean White",
+      "role": "colorist (cover)"
+    },
+    {
+      "id": 14552,
+      "name": "E Ejikure",
+      "role": "painter (cover)"
+    },
+    {
+      "id": 14548,
+      "name": "Lesley “Leirix” LI",
+      "role": "painter (cover)"
+    },
+    {
+      "id": 23,
+      "name": "David Mack",
+      "role": "painter (cover)"
+    },
+    {
+      "id": 12624,
+      "name": "Juan Frigeri",
+      "role": "inker"
+    },
+    {
+      "id": 14412,
+      "name": "Michael Sta. Maria",
+      "role": "inker"
+    },
+    {
+      "id": 8933,
+      "name": "Lee Garbett",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 11354,
+      "name": "Declan Shalvey",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 12489,
+      "name": "R.B. Silva",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 12376,
+      "name": "Wilson Moss",
+      "role": "editor"
+    },
+    {
+      "id": 13127,
+      "name": "Emily Newcomen",
+      "role": "editor"
+    },
+    {
+      "id": 12974,
+      "name": "Vc Joe Sabino",
+      "role": "letterer"
+    }
+  ],
+  "attributionText": "Data provided by Marvel. © 2025 MARVEL",
+  "detailUrl": "https://marvel.com/comics/series/44291/ultimate_hawkeye_2025_-_present?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269"
+}

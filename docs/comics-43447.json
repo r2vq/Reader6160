@@ -1,0 +1,142 @@
+{
+  "id": 43447,
+  "title": "FREE COMIC BOOK DAY 2025: AMAZING SPIDER-MAN/ULTIMATE UNIVERSE (2025 - Present)",
+  "thumbnail": {
+    "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/03/679271b069e15",
+    "extension": "jpg"
+  },
+  "color": "#FFFFFF",
+  "issues": [
+    {
+      "id": 125782,
+      "title": "FREE COMIC BOOK DAY 2025: AMAZING SPIDER-MAN/ULTIMATE UNIVERSE (2025) #1",
+      "issueNumber": 1,
+      "description": "Joe Kelly and John Romita Jr. remind us who Peter Parker and SPIDER-MAN are! Plus, an exclusive prologue to this summer's blockbuster ULTIMATE event from Deniz Camp, Cody Ziglar & Jonas Scharf!",
+      "date": "2025-05-03T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/03/679271b069e15",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/125782/free_comic_book_day_2025_amazing_spider-manultimate_universe_2025_1?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 125782,
+      "creators": [
+        {
+          "id": 362,
+          "name": "Scott Hanna",
+          "role": "inker"
+        },
+        {
+          "id": 442,
+          "name": "Dean White",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 872,
+          "name": "Marte Gracia",
+          "role": "colorist"
+        },
+        {
+          "id": 2428,
+          "name": "Joe Kelly",
+          "role": "writer"
+        },
+        {
+          "id": 4300,
+          "name": "Nick Lowe",
+          "role": "editor"
+        },
+        {
+          "id": 5251,
+          "name": "Vc Joe Caramagna",
+          "role": "letterer"
+        },
+        {
+          "id": 5933,
+          "name": "Patrick Gleason",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 13196,
+          "name": "John Romita Jr.",
+          "role": "penciler"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    }
+  ],
+  "creators": [
+    {
+      "id": 14547,
+      "name": "Deniz Camp",
+      "role": "writer"
+    },
+    {
+      "id": 2428,
+      "name": "Joe Kelly",
+      "role": "writer"
+    },
+    {
+      "id": 14219,
+      "name": "Cody Ziglar",
+      "role": "writer"
+    },
+    {
+      "id": 5251,
+      "name": "Vc Joe Caramagna",
+      "role": "letterer"
+    },
+    {
+      "id": 5933,
+      "name": "Patrick Gleason",
+      "role": "penciler (cover)"
+    },
+    {
+      "id": 872,
+      "name": "Marte Gracia",
+      "role": "colorist"
+    },
+    {
+      "id": 362,
+      "name": "Scott Hanna",
+      "role": "inker"
+    },
+    {
+      "id": 13879,
+      "name": "Jonas Scharf",
+      "role": "inker"
+    },
+    {
+      "id": 4300,
+      "name": "Nick Lowe",
+      "role": "editor"
+    },
+    {
+      "id": 13196,
+      "name": "John Romita Jr.",
+      "role": "penciler"
+    },
+    {
+      "id": 442,
+      "name": "Dean White",
+      "role": "colorist (cover)"
+    }
+  ],
+  "attributionText": "Data provided by Marvel. © 2025 MARVEL",
+  "detailUrl": "https://marvel.com/comics/series/43447/free_comic_book_day_2025_amazing_spider-manultimate_universe_2025_-_present?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269"
+}

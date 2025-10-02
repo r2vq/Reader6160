@@ -3959,6 +3959,101 @@
           "role": "inker"
         }
       ]
+    },
+    {
+      "id": 132138,
+      "title": "Ultimate Black Panther (2024) #21 (Variant)",
+      "issueNumber": 21,
+      "description": "BLACK PANTHER RETURNS TO FACE THE PROGENITORS! The Vodu-Khan have turned on Wakanda! Killmonger and Okoye are vulnerable while Storm and Black Panther are away! Will the mystic journeys Black Panther has endured turn the tide? And will Killmonger learn what happened between Black Panther and Storm?!",
+      "date": "2025-10-08T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/f/60/68d3fcaa5af18",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/132138/ultimate_black_panther_2024_21_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113878,
+        132139
+      ],
+      "variantBaseId": 132138,
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        }
+      ]
+    },
+    {
+      "id": 132139,
+      "title": "Ultimate Black Panther (2024) #21 (Variant)",
+      "issueNumber": 21,
+      "description": "BLACK PANTHER RETURNS TO FACE THE PROGENITORS! The Vodu-Khan have turned on Wakanda! Killmonger and Okoye are vulnerable while Storm and Black Panther are away! Will the mystic journeys Black Panther has endured turn the tide? And will Killmonger learn what happened between Black Panther and Storm?!",
+      "date": "2025-10-08T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/00/68d3fcaa44f89",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/132139/ultimate_black_panther_2024_21_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113878,
+        132138
+      ],
+      "variantBaseId": 132139,
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "inker"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14814,
+          "name": "G Godtail",
+          "role": "penciler (cover)"
+        }
+      ]
     }
   ],
   "creators": [
