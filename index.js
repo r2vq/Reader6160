@@ -48,6 +48,18 @@ const comicConfig = [
         id: 43373, // Ultimate Spider-Man: Incursion (2025)
         color: "#841D24",
     },
+    {
+        id: 43447, // Free Comic Book Day 2025: Amazing Spider-Man/Ultimate Universe (2025)
+        color: "#FFFFFF",
+    },
+    {
+        id: 44291, // Ultimate Hawkeye (2025)
+        color: "#158A7E",
+    },
+    {
+        id: 44292, // Ultimate Endgame (2025)
+        color: "#101836",
+    },
 ]
 
 async function fetchData() {
