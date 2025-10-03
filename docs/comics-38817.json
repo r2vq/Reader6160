@@ -809,7 +809,11 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/113917/ultimate_x-men_2024_20?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        132146,
+        132147,
+        133063
+      ],
       "variantBaseId": 113917,
       "creators": [
         {
@@ -845,6 +849,72 @@
         132491
       ],
       "variantBaseId": 113918,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 113918,
+      "title": "Ultimate X-Men (2024) #21",
+      "issueNumber": 21,
+      "description": "ANTI-MUTANT LEGISLATION RISES… The X-Men thought the Children of the Atom were their biggest problem. Little did they know, things are about to get much harder for mutants in Hi No Kuni…",
+      "date": "2025-11-05T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/30/68a62cda4652b",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113918/ultimate_x-men_2024_21?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        132491
+      ],
+      "variantBaseId": 113918,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
+      "id": 113919,
+      "title": "Ultimate X-Men (2024) #22",
+      "issueNumber": 22,
+      "description": "THE FINAL SHOWDOWN BETWEEN ARMOR AND SHADOW KING! Kageyama has proclaimed death to Hisako! But the X-Men aren't going to go down without a fight!",
+      "date": "2025-12-03T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/30/68c9cfbedc9d4",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113919/ultimate_x-men_2024_22?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113919,
       "creators": [
         {
           "id": 12376,
@@ -3886,6 +3956,45 @@
           "id": 13682,
           "name": "PEACH MOMOKO",
           "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 132491,
+      "title": "Ultimate X-Men (2024) #21 (Variant)",
+      "issueNumber": 21,
+      "description": "ANTI-MUTANT LEGISLATION RISES… The X-Men thought the Children of the Atom were their biggest problem. Little did they know, things are about to get much harder for mutants in Hi No Kuni…",
+      "date": "2025-11-05T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/132491/ultimate_x-men_2024_21_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113918
+      ],
+      "variantBaseId": 113918,
+      "creators": [
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "inker"
+        },
+        {
+          "id": 14479,
+          "name": "Liu Xiaotong",
+          "role": "penciler (cover)"
         }
       ]
     },

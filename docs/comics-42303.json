@@ -621,6 +621,55 @@
       ]
     },
     {
+      "id": 123270,
+      "title": "Ultimate Wolverine (2025) #12",
+      "issueNumber": 12,
+      "description": "WOLVERINE'S ATTACK ON THE EURASIAN CAPITAL!  After the devastation in ULTIMATE WOLVERINE #11, Wolverine is out for vengeance!  And he's taking on the whole of the Eurasian Republic in this big, bad and bloody climactic issue…who will be left standing?",
+      "date": "2025-12-10T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/04/68c9cfbedf672",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/123270/ultimate_wolverine_2025_12?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [
+        133494
+      ],
+      "variantBaseId": 123270,
+      "creators": [
+        {
+          "id": 4991,
+          "name": "Frank Martin",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        }
+      ]
+    },
+    {
       "id": 124528,
       "title": "Ultimate Wolverine (2025) #1 (Variant)",
       "issueNumber": 1,
@@ -2098,6 +2147,114 @@
           "id": 14508,
           "name": "Christopher Condon",
           "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 132490,
+      "title": "Ultimate Wolverine (2025) #11 (Variant)",
+      "issueNumber": 11,
+      "description": "THE EURASIAN REPUBLIC'S COUNTERATTACK! Furious after the events of issue #10, Magik, Colossus and OmegaRed will have their vengeance! Can the Opposition survive Dr. Prostovich's \"Psychic Bomb\"?! Will Wolverine be able to protect the friends he's only just been reunited with?",
+      "date": "2025-11-12T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/a0/68a8bb84af15e",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/132490/ultimate_wolverine_2025_11_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        123269
+      ],
+      "variantBaseId": 123269,
+      "creators": [
+        {
+          "id": 8504,
+          "name": "Frank D'ARMATA",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 11757,
+          "name": "Salvador Larroca",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 133494,
+      "title": "Ultimate Wolverine (2025) #12 (Variant)",
+      "issueNumber": 12,
+      "description": "WOLVERINE'S ATTACK ON THE EURASIAN CAPITAL!  After the devastation in ULTIMATE WOLVERINE #11, Wolverine is out for vengeance!  And he's taking on the whole of the Eurasian Republic in this big, bad and bloody climactic issue…who will be left standing?",
+      "date": "2025-12-10T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/f0/68cb088e96232",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/133494/ultimate_wolverine_2025_12_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        123270
+      ],
+      "variantBaseId": 123270,
+      "creators": [
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "inker"
+        },
+        {
+          "id": 14328,
+          "name": "Bryan Valenza",
+          "role": "colorist"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        },
+        {
+          "id": 14827,
+          "name": "Matteo Della Fonte",
+          "role": "penciler (cover)"
         }
       ]
     },
