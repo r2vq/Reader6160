@@ -965,12 +965,15 @@
       "description": "BLACK PANTHER RETURNS TO FACE THE PROGENITORS! The Vodu-Khan have turned on Wakanda! Killmonger and Okoye are vulnerable while Storm and Black Panther are away! Will the mystic journeys Black Panther has endured turn the tide? And will Killmonger learn what happened between Black Panther and Storm?!",
       "date": "2025-10-08T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/d/60/68790c6130550",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/60/68d3f96227286",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113878/ultimate_black_panther_2024_21?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        132138,
+        132139
+      ],
       "variantBaseId": 113878,
       "creators": [
         {
@@ -3976,7 +3979,7 @@
         113878,
         132139
       ],
-      "variantBaseId": 132138,
+      "variantBaseId": 113878,
       "creators": [
         {
           "id": 1133,
@@ -4021,7 +4024,7 @@
         113878,
         132138
       ],
-      "variantBaseId": 132139,
+      "variantBaseId": 113878,
       "creators": [
         {
           "id": 1133,
