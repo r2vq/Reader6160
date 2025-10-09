@@ -1270,6 +1270,116 @@
           "role": "writer"
         }
       ]
+    },
+    {
+      "id": 132142,
+      "title": "Ultimate Spider-Man: Incursion (2025) #5 (Variant)",
+      "issueNumber": 5,
+      "description": "THE ULTIMATE EXIT! A SHOWDOWN WITH THE MAKER'S COUNCIL! The clock is ticking for Miles to escape the Ultimate Universe with his baby sister! How will Miles leave a mark on the Ultimate Universe? And how will the Ultimate Universe leave a mark on Miles?!  Don't miss the exciting conclusion…and what it bodes for the future of BOTH UNIVERSES!",
+      "date": "2025-10-22T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/00/68e671a922fe5",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/132142/ultimate_spider-man_incursion_2025_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125526,
+        132143
+      ],
+      "variantBaseId": 132142,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14280,
+          "name": "Marc Aspinall",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
+      "id": 132143,
+      "title": "Ultimate Spider-Man: Incursion (2025) #5 (Variant)",
+      "issueNumber": 5,
+      "description": "THE ULTIMATE EXIT! A SHOWDOWN WITH THE MAKER'S COUNCIL! The clock is ticking for Miles to escape the Ultimate Universe with his baby sister! How will Miles leave a mark on the Ultimate Universe? And how will the Ultimate Universe leave a mark on Miles?!  Don't miss the exciting conclusion…and what it bodes for the future of BOTH UNIVERSES!",
+      "date": "2025-10-22T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/80/68e671a91c52a",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/132143/ultimate_spider-man_incursion_2025_5_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        125526,
+        132142
+      ],
+      "variantBaseId": 132143,
+      "creators": [
+        {
+          "id": 430,
+          "name": "Edgar Delgado",
+          "role": "colorist"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13127,
+          "name": "Emily Newcomen",
+          "role": "editor"
+        },
+        {
+          "id": 13879,
+          "name": "Jonas Scharf",
+          "role": "inker"
+        },
+        {
+          "id": 14219,
+          "name": "Cody Ziglar",
+          "role": "writer"
+        },
+        {
+          "id": 14295,
+          "name": "Pete Woods",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
     }
   ],
   "creators": [
