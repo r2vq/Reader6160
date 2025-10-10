@@ -1137,90 +1137,6 @@
       ]
     },
     {
-      "id": 113900,
-      "title": "Ultimate Spider-Man (2024) #23",
-      "issueNumber": 23,
-      "description": "You think we're going to tell you what happens in the penultimate issue of ULTIMATE SPIDER-MAN? That would be spoilers galore! Just know it's building to a finale you won't want to miss!",
-      "date": "2025-11-26T00:00:00+0000",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/8/e0/68a62ccc3031f",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113900/ultimate_spider-man_2024_23?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113900,
-      "creators": [
-        {
-          "id": 10279,
-          "name": "Matthew Wilson",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
-        },
-        {
-          "id": 11748,
-          "name": "Marco Checchetto",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 12980,
-          "name": "Vc Cory Petit",
-          "role": "letterer"
-        }
-      ]
-    },
-    {
-      "id": 113901,
-      "title": "Ultimate Spider-Man (2024) #24",
-      "issueNumber": 24,
-      "description": "THE END OF THE LINE! This is it, folks - the last you'll see of Spidey and his Ultimate friends by Jonathan Hickman & Marco Checchetto!  That's all we can tell you!",
-      "date": "2025-12-24T00:00:00+0000",
-      "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/2/e0/68c9cfbeae1f6",
-        "extension": "jpg"
-      },
-      "detailUrl": "https://marvel.com/comics/issue/113901/ultimate_spider-man_2024_24?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
-      "isVariant": false,
-      "variants": [],
-      "variantBaseId": 113901,
-      "creators": [
-        {
-          "id": 10279,
-          "name": "Matthew Wilson",
-          "role": "colorist (cover)"
-        },
-        {
-          "id": 11743,
-          "name": "Jonathan Hickman",
-          "role": "writer"
-        },
-        {
-          "id": 11748,
-          "name": "Marco Checchetto",
-          "role": "penciler (cover)"
-        },
-        {
-          "id": 12376,
-          "name": "Wilson Moss",
-          "role": "editor"
-        },
-        {
-          "id": 12980,
-          "name": "Vc Cory Petit",
-          "role": "letterer"
-        }
-      ]
-    },
-    {
       "id": 113901,
       "title": "Ultimate Spider-Man (2024) #24",
       "issueNumber": 24,
@@ -4865,7 +4781,7 @@
       "title": "Ultimate Spider-Man (2024) #18",
       "issueNumber": 18,
       "description": "",
-      "date": "2025-09-18T00:00:00+0000",
+      "date": "2025-06-25T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/c/d0/685aa5e677bbe",
         "extension": "jpg"
@@ -5409,6 +5325,58 @@
       ]
     },
     {
+      "id": 131203,
+      "title": "Ultimate Spider-Man (2024) #22 (Variant)",
+      "issueNumber": 22,
+      "description": "THE LAST WILL AND TESTAMENT OF [REDACTED]!",
+      "date": "2025-10-22T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/7/30/68e671a929e6a",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/131203/ultimate_spider-man_2024_22_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113899,
+        132140,
+        132141,
+        133578
+      ],
+      "variantBaseId": 131203,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14111,
+          "name": "Taurin Clarke",
+          "role": "painter (cover)"
+        }
+      ]
+    },
+    {
       "id": 131873,
       "title": "Ultimate Spider-Man (2024) #19",
       "issueNumber": 19,
@@ -5487,6 +5455,53 @@
           "id": 4430,
           "name": "Jeff Youngquist",
           "role": "editor"
+        }
+      ]
+    },
+    {
+      "id": 132140,
+      "title": "Ultimate Spider-Man (2024) #22 (Variant)",
+      "issueNumber": 22,
+      "description": "THE LAST WILL AND TESTAMENT OF [REDACTED]!",
+      "date": "2025-10-22T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/c0/68e671a922ee2",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/132140/ultimate_spider-man_2024_22_variant/variant?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": true,
+      "variants": [
+        113899,
+        131203,
+        132141,
+        133578
+      ],
+      "variantBaseId": 132140,
+      "creators": [
+        {
+          "id": 10279,
+          "name": "Matthew Wilson",
+          "role": "colorist"
+        },
+        {
+          "id": 11743,
+          "name": "Jonathan Hickman",
+          "role": "writer"
+        },
+        {
+          "id": 11748,
+          "name": "Marco Checchetto",
+          "role": "inker"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
         }
       ]
     },
