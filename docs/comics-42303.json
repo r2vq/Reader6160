@@ -487,7 +487,11 @@
       },
       "detailUrl": "https://marvel.com/comics/issue/121279/ultimate_wolverine_2025_10?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        132144,
+        132145,
+        133579
+      ],
       "variantBaseId": 121279,
       "creators": [
         {
@@ -2064,7 +2068,7 @@
         132145,
         133579
       ],
-      "variantBaseId": 132144,
+      "variantBaseId": 121279,
       "creators": [
         {
           "id": 12980,
@@ -2110,7 +2114,7 @@
         132144,
         133579
       ],
-      "variantBaseId": 132145,
+      "variantBaseId": 121279,
       "creators": [
         {
           "id": 489,
@@ -2264,7 +2268,7 @@
         132144,
         132145
       ],
-      "variantBaseId": 133579,
+      "variantBaseId": 121279,
       "creators": [
         {
           "id": 12376,
@@ -2356,6 +2360,11 @@
       "role": "penciler (cover)"
     },
     {
+      "id": 14417,
+      "name": "Netho Diaz",
+      "role": "penciler (cover)"
+    },
+    {
       "id": 14827,
       "name": "Matteo Della Fonte",
       "role": "penciler (cover)"
@@ -2363,11 +2372,6 @@
     {
       "id": 7718,
       "name": "Sanford Greene",
-      "role": "penciler (cover)"
-    },
-    {
-      "id": 1026,
-      "name": "Tyler Kirkham",
       "role": "penciler (cover)"
     },
     {
