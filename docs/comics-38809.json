@@ -1099,7 +1099,7 @@
       "title": "Ultimate Spider-Man (2024) #23",
       "issueNumber": 23,
       "description": "You think we're going to tell you what happens in the penultimate issue of ULTIMATE SPIDER-MAN? That would be spoilers galore! Just know it's building to a finale you won't want to miss!",
-      "date": "2025-11-26T00:00:00+0000",
+      "date": "2025-12-03T00:00:00+0000",
       "thumbnail": {
         "path": "https://i.annihil.us/u/prod/marvel/i/mg/8/e0/68a62ccc3031f",
         "extension": "jpg"
@@ -1123,6 +1123,11 @@
           "id": 11748,
           "name": "Marco Checchetto",
           "role": "penciler (cover)"
+        },
+        {
+          "id": 12120,
+          "name": "David Messina",
+          "role": "inker"
         },
         {
           "id": 12376,
@@ -5809,5 +5814,5 @@
     }
   ],
   "attributionText": "Data provided by Marvel. © 2025 MARVEL",
-  "detailUrl": "https://marvel.com/comics/series/38809/ultimate_spider-man_2024_-_present?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269"
+  "detailUrl": "https://marvel.com/comics/series/38809/ultimate_spider-man_2024_-_present?utm_campaign=apiRef&utm_source=419a11c8c15fef1fc6fcc7c054beb299"
 }
