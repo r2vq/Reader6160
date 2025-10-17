@@ -901,12 +901,16 @@
       "description": "THE ULTIMATE FANTASTIC FOUR? Now that the Ultimates are using the Immortus Engine to its full capacity, Doom's dream of the Ultimate Fantastic Four may finally be realized…",
       "date": "2025-10-22T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/3/70/68790c6133fb0",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/b0/68e6701447dcc",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113934/ultimates_2024_17?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        130371,
+        132148,
+        132149
+      ],
       "variantBaseId": 113934,
       "creators": [
         {
@@ -3483,7 +3487,7 @@
         132148,
         132149
       ],
-      "variantBaseId": 130371,
+      "variantBaseId": 113934,
       "creators": [
         {
           "id": 12376,
@@ -3631,7 +3635,7 @@
         130371,
         132149
       ],
-      "variantBaseId": 132148,
+      "variantBaseId": 113934,
       "creators": [
         {
           "id": 12993,
@@ -3677,7 +3681,7 @@
         130371,
         132148
       ],
-      "variantBaseId": 132149,
+      "variantBaseId": 113934,
       "creators": [
         {
           "id": 12376,

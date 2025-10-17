@@ -1059,12 +1059,17 @@
       "description": "THE LAST WILL AND TESTAMENT OF [REDACTED]!",
       "date": "2025-10-22T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/6/70/68790c611ae5b",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/10/68e6701446e48",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/113899/ultimate_spider-man_2024_22?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        131203,
+        132140,
+        132141,
+        133578
+      ],
       "variantBaseId": 113899,
       "creators": [
         {
@@ -5347,7 +5352,7 @@
         132141,
         133578
       ],
-      "variantBaseId": 131203,
+      "variantBaseId": 113899,
       "creators": [
         {
           "id": 10279,
@@ -5481,7 +5486,7 @@
         132141,
         133578
       ],
-      "variantBaseId": 132140,
+      "variantBaseId": 113899,
       "creators": [
         {
           "id": 10279,
@@ -5528,7 +5533,7 @@
         132140,
         133578
       ],
-      "variantBaseId": 132141,
+      "variantBaseId": 113899,
       "creators": [
         {
           "id": 10279,
@@ -5629,7 +5634,7 @@
         132140,
         132141
       ],
-      "variantBaseId": 133578,
+      "variantBaseId": 113899,
       "creators": [
         {
           "id": 10279,
