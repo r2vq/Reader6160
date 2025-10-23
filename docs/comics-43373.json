@@ -263,12 +263,15 @@
       "description": "THE ULTIMATE EXIT! A SHOWDOWN WITH THE MAKER'S COUNCIL! The clock is ticking for Miles to escape the Ultimate Universe with his baby sister! How will Miles leave a mark on the Ultimate Universe? And how will the Ultimate Universe leave a mark on Miles?!  Don't miss the exciting conclusion…and what it bodes for the future of BOTH UNIVERSES!",
       "date": "2025-10-22T00:00:00+0000",
       "thumbnail": {
-        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/03/68790c613350a",
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/10/68e670145278e",
         "extension": "jpg"
       },
       "detailUrl": "https://marvel.com/comics/issue/125526/ultimate_spider-man_incursion_2025_5?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
       "isVariant": false,
-      "variants": [],
+      "variants": [
+        132142,
+        132143
+      ],
       "variantBaseId": 125526,
       "creators": [
         {
@@ -1287,7 +1290,7 @@
         125526,
         132143
       ],
-      "variantBaseId": 132142,
+      "variantBaseId": 125526,
       "creators": [
         {
           "id": 430,
@@ -1342,7 +1345,7 @@
         125526,
         132142
       ],
-      "variantBaseId": 132143,
+      "variantBaseId": 125526,
       "creators": [
         {
           "id": 430,
