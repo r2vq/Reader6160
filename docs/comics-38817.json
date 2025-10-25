@@ -900,6 +900,38 @@
       ]
     },
     {
+      "id": 113920,
+      "title": "Ultimate X-Men (2024) #23",
+      "issueNumber": 23,
+      "description": "SHOCKING TRUTHS REVEALED! This issue peels back the layers of deception, revealing the truth behind key events from the previous 22 issues! Prepare yourself for shocking twists that will change how you see the Ultimate X-Men forever!",
+      "date": "2026-01-07T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/9/c0/68fa390c2b9d6",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113920/ultimate_x-men_2024_23?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113920,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12993,
+          "name": "Vc Travis Lanham",
+          "role": "letterer"
+        },
+        {
+          "id": 13682,
+          "name": "PEACH MOMOKO",
+          "role": "penciler (cover)"
+        }
+      ]
+    },
+    {
       "id": 115374,
       "title": "Ultimate X-Men (2024) #1 (Variant)",
       "issueNumber": 1,

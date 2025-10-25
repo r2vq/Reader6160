@@ -1103,6 +1103,48 @@
       ]
     },
     {
+      "id": 113881,
+      "title": "Ultimate Black Panther (2024) #24",
+      "issueNumber": 24,
+      "description": "THE EPIC FINALE! T'Challa vs. the Progenitors in a final showdown for control of not only vibranium and Wakanda, but the whole world. And what role will the mysterious \"Child of Light\" play in all this? Don't miss the thrilling finale that brings this epic series to a close!",
+      "date": "2026-01-21T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/5/c0/68fa390b4b002",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/113881/ultimate_black_panther_2024_24?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 113881,
+      "creators": [
+        {
+          "id": 1133,
+          "name": "Stefano Caselli",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 13017,
+          "name": "Bryan Edward Hill",
+          "role": "writer"
+        },
+        {
+          "id": 13021,
+          "name": "David Curiel",
+          "role": "colorist (cover)"
+        }
+      ]
+    },
+    {
       "id": 114851,
       "title": "Ultimate Black Panther (2024) #1 (Variant)",
       "issueNumber": 1,

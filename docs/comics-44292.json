@@ -40,6 +40,33 @@
       ]
     },
     {
+      "id": 129225,
+      "title": "Ultimate Endgame (2025) #2",
+      "issueNumber": 2,
+      "description": "THE END HAS ONLY JUST BEGUN! The heroes of the Ultimate Universe - including Spider-Man, America Chavez, Killmonger and Doom - desperately search for a way to stop the Maker. Plus, Iron Lad makes a stunning and heartbreaking discovery that could change the fate of the entire Ultimate Universe forever. Don't miss this pivotal chapter that will leave you reeling!",
+      "date": "2026-01-28T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/1/70/68fa391749592",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/129225/ultimate_endgame_2025_2?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 129225,
+      "creators": [
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 14547,
+          "name": "Deniz Camp",
+          "role": "writer"
+        }
+      ]
+    },
+    {
       "id": 133039,
       "title": "Ultimate Endgame (2025) #1 (Variant)",
       "issueNumber": 1,

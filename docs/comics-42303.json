@@ -1947,6 +1947,48 @@
       ]
     },
     {
+      "id": 130677,
+      "title": "Ultimate Wolverine (2025) #13",
+      "issueNumber": 13,
+      "description": "INTO THE MAKER'S WAR! Wolverine hunts down the Maker's Council...and with the Maker himself on the horizon, it's time to exact revenge on the ones who turned his life into a living nightmare! Wolverine's journey through the ENDGAME starts here!",
+      "date": "2026-01-07T00:00:00+0000",
+      "thumbnail": {
+        "path": "https://i.annihil.us/u/prod/marvel/i/mg/4/30/68fa390b85675",
+        "extension": "jpg"
+      },
+      "detailUrl": "https://marvel.com/comics/issue/130677/ultimate_wolverine_2025_13?utm_campaign=apiRef&utm_source=0761592ac12e4237dca979379d491269",
+      "isVariant": false,
+      "variants": [],
+      "variantBaseId": 130677,
+      "creators": [
+        {
+          "id": 4991,
+          "name": "Frank Martin",
+          "role": "colorist (cover)"
+        },
+        {
+          "id": 12376,
+          "name": "Wilson Moss",
+          "role": "editor"
+        },
+        {
+          "id": 12980,
+          "name": "Vc Cory Petit",
+          "role": "letterer"
+        },
+        {
+          "id": 14220,
+          "name": "Alessandro Cappuccio",
+          "role": "penciler (cover)"
+        },
+        {
+          "id": 14508,
+          "name": "Christopher Condon",
+          "role": "writer"
+        }
+      ]
+    },
+    {
       "id": 131130,
       "title": "Ultimate Wolverine (2025) #9 (Variant)",
       "issueNumber": 9,
